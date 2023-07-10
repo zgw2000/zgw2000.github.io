@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  name             : "Guowang Zeng"
+  avatar           : "profile_pic.png"
+  bio              : "C/C++, Python, Machine Learning, Economics, Finance"
+  location         : "Durham, USA"
+  employer         : "Duke University"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=-63m-SkAAAAJ&hl=zh-CN&oi=ao"
+  email            : "gz69@duke.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
-  github           : "academicpages"
+  github           : "zgw2000"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "zengguowang2000"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "guowang-zeng-743ba9195"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "GuowangZ"
   vine             :
   weibo            :
   xing             :
