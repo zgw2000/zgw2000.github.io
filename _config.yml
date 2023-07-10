@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Guowang's Homepage"
 title_separator          : "-"
-name                     : &name "Guowang(Tom) Zeng"
+name                     : &name "Guowang Zeng"
 description              : &description "personal description"
 url                      : https://zgw2000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
