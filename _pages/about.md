@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "👋 Hello there, I'm Guowang(Tom)!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
+🎓 I'm a final year graduate student at Duke University (Pratt School of Engineering) majoring Computer Engineering.
+
+👍🏻 I am good at Data Structure & algorithm, Java & C/C++ OO design, Python (Machine Learning) and Economic Analysis.
+
+
+
+👨🏻‍🏫 As a undergraduate teaching assistant at Duke University, Answered statistical questions and the syntax error of R and Assisted professors in grading undergraduate assignments and exams.
+
+👨🏻‍💻 As a Software Engineer intern at Mevion Medical Systems, I played a pivotal role in developing the Room 3D View feature at Mevion. I successfully addressed display issues, improved user experience, and ensured safe movement of the treatment bed. I researched collision detection techniques, collaborated cross-functionally, and implemented effective solutions. My contributions enhanced the user interface and facilitated seamless navigation. I am proud of my work on Room 3D functionality and look forward to leveraging my expertise in future projects. Let's connect to discuss how I can bring value to your organization.
+
+👨🏻‍💻 As a Artificial Intelligence Developer intern intern at Bank of Beijing Fintech, I Collected user text data with intelligence robot assistant from application API. Constructed various Natural language processing (NLP) algorithm models, parameters tuning and uploaded them to the Docker warehouse to help the project. I also Scrapped hundreds of pages of data from Beijing Municipal Health Commission with a Scrapy framework into database.
 
 A data-driven personal website
 ======
