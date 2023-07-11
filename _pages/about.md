@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 
+
 🎓 I'm a final year graduate student at Duke University (Pratt School of Engineering) majoring Computer Engineering.
 
 👍🏻 I am good at Data Structure & algorithm, Java & C/C++ OO design, Python (Machine Learning) and Economic Analysis.
