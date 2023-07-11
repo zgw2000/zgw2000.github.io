@@ -61,7 +61,7 @@ How to edit your site's GitHub repository
 
 ADDITIONAL INFORMATION
 ------
-**Languages: **
+**Languages:**
 
 🇨🇳 Chinese Mandarin (Native)
 
@@ -75,6 +75,6 @@ ADDITIONAL INFORMATION
 **Certificates:** TOEFL: 111(23), GRE: 330+, European Computer Driving License (ECDL/ICDL), Google Analytics
 Certification, Programming Fundamentals by Duke University (Coursera), Introduction to Data Science in Python by UMich (Coursera), Entrepreneurship by UPenn (Coursera)
 
-![Duke](/images/Coursera_duke.pdf){: .align-right width="350px"}
+![Duke](/images/Coursera_duke.png){: .align-right width="350px"}
 
 
