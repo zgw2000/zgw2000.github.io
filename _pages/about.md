@@ -13,9 +13,12 @@ redirect_from:
 
 👍🏻 I am good at Data Structure & algorithm, Java & C/C++ OO design, Python (Machine Learning) and Economic Analysis.
 
-
-
 👨🏻‍🏫 As a undergraduate teaching assistant at Duke University, Answered statistical questions and the syntax error of R and Assisted professors in grading undergraduate assignments and exams.
+🤖👍🏻👋🏻👨🏻‍💻👨🏻‍🏫🧢🎯⚙️🔬📍📌🇨🇳🇮🇹🇺🇸
+
+🧢 My background is diverse. I attended Dearborn Elementary Academy in Los Angeles for six months as a visiting scholar with my parents at California State.🇨🇳 The rest of my education took place in Beijing, China.🇮🇹 During my undergraduate studies, I pursued degrees in Management and Computer Science at LUISS University in Rome, Italy, under the guidance of Italian computer scientist Giuseppe Francesco (Pino) Italiano.🇺🇸 In the fall of 2022, I enrolled in Duke University Pratt School of Engineering to continue my studies in Computer Science.
+
+⚙️ I have extensive experience in creating projects, where I handled both frontend and backend development while also designing the UI. Moreover, I have a strong passion for writing high-quality code and test cases.
 
 👨🏻‍💻 As a Software Engineer intern at Mevion Medical Systems, I played a pivotal role in developing the Room 3D View feature at Mevion. I successfully addressed display issues, improved user experience, and ensured safe movement of the treatment bed. I researched collision detection techniques, collaborated cross-functionally, and implemented effective solutions. My contributions enhanced the user interface and facilitated seamless navigation. I am proud of my work on Room 3D functionality and look forward to leveraging my expertise in future projects. Let's connect to discuss how I can bring value to your organization.
 
