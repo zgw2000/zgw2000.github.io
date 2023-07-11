@@ -24,9 +24,11 @@ The goal of this course is to get you familiarize with basic statistical methods
 Syllabus
 ======
 **Simple Data Analysis (Week 1)**
+
 Readings: Intro Stats Chapter 1, 2.1, 2.2, 2.3, and Chapter 3.
 
 Basic Descriptions in Statistics and Introduction to R
+
 Topics covered:
 •	What are data and variables?
 •	How to display quantitative and qualitative variables
@@ -39,12 +41,14 @@ Homework 1 Given
 Readings: Intro Stats Chapter 2.3 to 2.5, Chapter 4, Chapter 5
 
 Characteristics of Distributions 
+
 Topics covered:
 •	How to describe the shape, center, and spread of a distribution
 •	How to compare distributions
 •	Dealing with problem distributions (outliers, re-expression)
 
 The Normal Distribution
+
 Topics covered:
 •	Standard deviation and standardizing values
 •	Normal models
@@ -58,6 +62,7 @@ Readings for Week 3 : Intro Stats Chapter 18, 19 & 22
 Readings for Week 4 : Intro Stats Chapter 23, 24 & 25
 
 Central Limit Theorem, Hypothesis Testing, and Chi-Sq Test
+
 Topics covered:
 •	Probability Distribution
 •	Standard Error
@@ -73,13 +78,15 @@ Homework 4 Given
 
 **Relationships Between Variables (Weeks 5 & 6)**
 
-Association and Correlation (Week 5)
+**Association and Correlation (Week 5)**
+
 Topics covered:
 •	Scatterplots
 •	Correlations
 •	Does correlation imply causation?
 
 **Simple Linear Regression (Week 5)**
+
 Topics covered:
 •	Line of best fit: least squares
 •	The linear model
@@ -89,6 +96,7 @@ Topics covered:
 Homework 5 Given 
 
 **Multiple Regression (Week 6)**
+
 Topics covered:
 •	What is multiple regression?
 •	Interpreting multiple regression coefficients
@@ -104,4 +112,3 @@ Topics covered:
 •	Prep for Final
 
 Final Exam
-![image](https://github.com/zgw2000/zgw2000.github.io/assets/104421593/fc4503b5-200c-4bbd-9a16-70fb406af689)
