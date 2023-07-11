@@ -26,6 +26,7 @@ redirect_from:
 
 EDUCATION BACKGROUND
 ======
+![Duke logo](/images/duke.jpg)
 **Duke University**, Durham, US
 
 Master of Engineering in Electrical and Computer Engineering (Software Development Track), 08/2022-05/2024
