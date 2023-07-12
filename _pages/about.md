@@ -49,7 +49,7 @@ Bachelor of Science in **Management and Computer Science**, 09/2018-11/2021
 
 👨🏻‍💻 Experience 👨🏻‍💻
 ------
-![BOB logo](/images/bob.jpg){: .align-right width="125px"}
+![BOB logo](/images/bob.png){: .align-right width="125px"}
 **Bank of Beijing Fintech**, Beijing, China 🇨🇳
 
 **Artificial Intelligence Developer intern** _**[Python & Docker]**_, 04/2022-07/2022
@@ -58,7 +58,7 @@ Bachelor of Science in **Management and Computer Science**, 09/2018-11/2021
 processing (NLP) algorithm models, parameters tuning and uploaded them to the Docker warehouse to help the project.
 - Scrapped hundreds of pages of data from Beijing Municipal Health Commission with a Scrapy framework into database.
 
-![Kantar logo](/images/kantar.jpg){: .align-right width="125px"}
+![Kantar logo](/images/kantar.png){: .align-right width="125px"}
 **Kantar TNS**, Rome, Italy 🇮🇹
 
 **Data analytics intern** _**[Python & Excel]**_ 06/2020-09/2020
