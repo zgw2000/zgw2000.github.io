@@ -64,7 +64,7 @@ ADDITIONAL INFORMATION
 ------
 **Languages:**
 
-🇨🇳 Chinese Mandarin (Native)
+🇨🇳 ==Chinese Mandarin== (Native)
 
 🇺🇸 English (Proficient)
 
@@ -76,9 +76,11 @@ ADDITIONAL INFORMATION
 **Certificates:** TOEFL: 111(23), GRE: 330+, European Computer Driving License (ECDL/ICDL), Google Analytics
 Certification, Programming Fundamentals by Duke University (Coursera), Introduction to Data Science in Python by UMich (Coursera), Entrepreneurship by UPenn (Coursera)
 
-![Duke](/images/Coursera_duke.png){: .align-middle width="240px"}
-![Duke](/images/Coursera_umich.png){: .align-left width="240px"}
-![Duke](/images/Coursera_upenn.png){: .align-right width="240px"}
+![Duke](/images/Coursera_duke.png){: .align-middle width="242px"}
+
+![Umich](/images/Coursera_umich.png){: .align-left width="242px"}
+
+![Upenn](/images/Coursera_upenn.png){: .align-right width="242px"}
 
 > **"Computer science is no more about computers than astronomy is about telescopes."**
 > _— Edsger W. Dijkstra_
