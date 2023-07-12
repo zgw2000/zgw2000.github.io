@@ -88,6 +88,6 @@ Certification, Programming Fundamentals by Duke University (Coursera), Introduct
 >> _— Edsger W. Dijkstra_
 
 > **"Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination."**
->> _- Albert Einstein_
+>> _— Albert Einstein_
 
 
