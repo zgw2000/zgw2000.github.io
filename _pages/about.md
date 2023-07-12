@@ -48,7 +48,7 @@ Bachelor of Science in **Management and Computer Science**, 09/2018-11/2021
 👨🏻‍💻 Experience 👨🏻‍💻
 ------
 
-![Mevion logo](/images/mevion.png){: .align-right width="175px"}
+![Mevion logo](/images/mevion.png){: .align-right width="180px"}
 **Mevion Medical Systems**, Kunshan, China 🇨🇳
 
 **Software Engineer intern** _**[C++ & JIRA]**_, 04/2022-07/2022
