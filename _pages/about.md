@@ -64,11 +64,7 @@ ADDITIONAL INFORMATION
 ------
 **Languages:**
 
-🇨🇳 ==Chinese Mandarin== (Native)
-
-🇺🇸 English (Proficient)
-
-🇮🇹 Italian (Intermediate)
+🇨🇳 Chinese Mandarin (Native) 🇺🇸 English (Proficient) 🇮🇹 Italian (Intermediate)
 
 
 **Skills:** Mastered in ChatGPT, C/C++, Python, Java, Software R, SQL database, UML Diagram, Markdown, Stata, LaTeX
@@ -77,9 +73,7 @@ ADDITIONAL INFORMATION
 Certification, Programming Fundamentals by Duke University (Coursera), Introduction to Data Science in Python by UMich (Coursera), Entrepreneurship by UPenn (Coursera)
 
 ![Duke](/images/Coursera_duke.png){: .align-middle width="242px"}
-
 ![Umich](/images/Coursera_umich.png){: .align-left width="242px"}
-
 ![Upenn](/images/Coursera_upenn.png){: .align-right width="242px"}
 
 > **"Computer science is no more about computers than astronomy is about telescopes."**
