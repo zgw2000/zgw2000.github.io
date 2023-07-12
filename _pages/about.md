@@ -24,8 +24,6 @@ redirect_from:
 
 👨🏻‍💻 As a Software Engineer intern at Mevion Medical Systems, I played a pivotal role in developing the Room 3D View feature at Mevion. I successfully addressed display issues, improved user experience, and ensured safe movement of the treatment bed. I researched collision detection techniques, collaborated cross-functionally, and implemented effective solutions. My contributions enhanced the user interface and facilitated seamless navigation. I am proud of my work on Room 3D functionality and look forward to leveraging my expertise in future projects. Let's connect to discuss how I can bring value to your organization.
 
-👨🏻‍💻 As a Artificial Intelligence Developer intern intern at Bank of Beijing Fintech, I Collected user text data with intelligence robot assistant from application API. Constructed various Natural language processing (NLP) algorithm models, parameters tuning and uploaded them to the Docker warehouse to help the project. I also Scrapped hundreds of pages of data from Beijing Municipal Health Commission with a Scrapy framework into database.
-
 🎓 Education background 🎓
 ------
 ![Duke logo](/images/duke.jpg){: .align-right width="350px"}
