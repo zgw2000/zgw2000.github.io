@@ -66,7 +66,12 @@ ADDITIONAL INFORMATION
 
 🇨🇳 Chinese Mandarin (Native)    🇺🇸 English (Proficient)    🇮🇹 Italian (Intermediate)
 
-
+![C++ logo](/images/c++.jpg){: .align-right width="350px"}
+![Python logo](/images/python.jpg){: .align-right width="350px"}
+![Java logo](/images/java.jpg){: .align-right width="350px"}
+![Markdown logo](/images/markdown.jpg){: .align-right width="350px"}
+![Mysql logo](/images/mysql.jpg){: .align-right width="350px"}
+![Postgresql logo](/images/postgresql.jpg){: .align-right width="350px"}
 **Skills:** Mastered in ChatGPT, C/C++, Python, Java, Software R, SQL database, UML Diagram, Markdown, Stata, LaTeX
 
 **Certificates:** TOEFL: 111(23), GRE: 330+, European Computer Driving License (ECDL/ICDL), Google Analytics
@@ -84,6 +89,6 @@ Certification, Programming Fundamentals by Duke University (Coursera), Introduct
 >> _— Edsger W. Dijkstra_
 
 > **"Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination."**
->> _- Albert Einstein, physicist_
+>> _- Albert Einstein_
 
 
