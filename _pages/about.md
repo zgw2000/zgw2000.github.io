@@ -66,9 +66,10 @@ ADDITIONAL INFORMATION
 
 🇨🇳 Chinese Mandarin (Native)    🇺🇸 English (Proficient)    🇮🇹 Italian (Intermediate)
 
+
+**Skills:** Mastered in ChatGPT, C/C++, Python, Java, Software R, SQL database, UML Diagram, Markdown, Stata, LaTeX
 ![Chatgpt logo](/images/chatgpt.jpg){: .align-right width="53px"}
 ![Markdown logo](/images/markdown.jpg){: .align-right width="83px"}
-**Skills:** Mastered in ChatGPT, C/C++, Python, Java, Software R, SQL database, UML Diagram, Markdown, Stata, LaTeX
 ![C++ logo](/images/c++.jpg){: .align-right width="50px"}
 ![Python logo](/images/python.jpg){: .align-right width="55px"}
 ![Java logo](/images/java.jpg){: .align-right width="42px"}
