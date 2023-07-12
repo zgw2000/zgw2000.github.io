@@ -72,11 +72,11 @@ processing (NLP) algorithm models, parameters tuning and uploaded them to the Do
 
 🇨🇳 Chinese Mandarin (Native)    🇺🇸 English (Proficient)    🇮🇹 Italian (Intermediate)
 
-![Chatgpt logo](/images/chatgpt.jpg){: .align-middle width="53px"}
-![Markdown logo](/images/markdown.jpg){: .align-middle width="83px"}
-![C++ logo](/images/c++.jpg){: .align-middle width="50px"}
-![Python logo](/images/python.jpg){: .align-middle width="55px"}
-![Java logo](/images/java.jpg){: .align-middle width="42px"}
+![Chatgpt logo](/images/chatgpt.jpg){: .align-right width="53px"}
+![Markdown logo](/images/markdown.jpg){: .align-right width="83px"}
+![C++ logo](/images/c++.jpg){: .align-right width="50px"}
+![Python logo](/images/python.jpg){: .align-right width="55px"}
+![Java logo](/images/java.jpg){: .align-right width="42px"}
 **Skills:** Mastered in ChatGPT, C/C++, Python, Java, Software R, SQL database, UML Diagram, Markdown, Stata, LaTeX
 
 **Certificates:** TOEFL: 111(23), GRE: 330+, European Computer Driving License (ECDL/ICDL), Google Analytics
