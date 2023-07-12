@@ -25,19 +25,19 @@ redirect_from:
 
 👨🏻‍💻 As a Artificial Intelligence Developer intern intern at Bank of Beijing Fintech, I Collected user text data with intelligence robot assistant from application API. Constructed various Natural language processing (NLP) algorithm models, parameters tuning and uploaded them to the Docker warehouse to help the project. I also Scrapped hundreds of pages of data from Beijing Municipal Health Commission with a Scrapy framework into database.
 
-EDUCATION BACKGROUND
+Education background
 ------
 ![Duke logo](/images/duke.jpg){: .align-right width="350px"}
-**Duke University**, Durham, US
+**Duke University**, Durham, United States
 
 Master of Engineering in Electrical and Computer Engineering (Software Development Track), 08/2022-05/2024
 
-+ GPA: **3.83/4**; Scholarship recipient (20% of tuition fee) for the first academic year
+- GPA: **3.83/4**; Scholarship recipient (20% of tuition fee) for the first academic year
 - Relevant courses: Fundamentals of Computer Systems and Engineering (A), Systems Programming and Engineering (A), Software Engineering (A), Programming, Data Structures, and Algorithms in C++ (A)
 
 
 ![LUISS logo](/images/luiss.jpg){: .align-right width="350px"}
-**LUISS University** (Top 2 Private University in Italy), Rome, Italy
+**LUISS University**, Rome, Italy
 
 Bachelor of Science in Management and Computer Science, 09/2018-11/2021
 
@@ -60,7 +60,7 @@ How to edit your site's GitHub repository
 ------
 
 
-ADDITIONAL INFORMATION
+Additional information
 ------
 **Languages:**
 
