@@ -52,7 +52,7 @@ Bachelor of Science in **Management and Computer Science**, 09/2018-11/2021
 
 **Bank of Beijing Fintech**, Beijing, China
 
-**Artificial Intelligence Developer intern** intern [Python & Docker], 04/2022-07/2022
+**Artificial Intelligence Developer intern** intern _**[Python & Docker]**_, 04/2022-07/2022
 
 - Collected user text data with intelligence robot assistant from application API. Constructed various Natural language
 processing (NLP) algorithm models, parameters tuning and uploaded them to the Docker warehouse to help the project.
@@ -61,7 +61,7 @@ processing (NLP) algorithm models, parameters tuning and uploaded them to the Do
 
 **Kantar TNS**, Rome, Italy
 
-**Data analytics intern** [Python & Excel] 06/2020-09/2020
+**Data analytics intern** _**[Python & Excel]**_ 06/2020-09/2020
 - Consulted for consumer and retail companies, providing professional data analytics services with Python toolkits. Identified optimal product portfolios and market shares, improving business performance by 87% and program efficiency by 30%.
 - Constructed comprehensive data visualization reports for clients, demonstrating strong leadership and involvement in successful project delivery. Resulted in high levels of satisfaction and positive feedback from clients.
 
@@ -87,13 +87,11 @@ Certification, Programming Fundamentals by Duke University (Coursera), Introduct
 ![Upenn](/images/Coursera_upenn.png){: .align-right width="244px"}
 
 
-![Billgates_logo](/images/billgates.png){: .align-right width="100px"}
+![Billgates_logo](/images/billgates.png){: .align-right width="125px"}
 > **"The computer was born to solve problems that did not exist before."**
 >> _— Bill Gates_
 
-> **"Computer science is no more about computers than astronomy is about telescopes."**
->> _— Edsger W. Dijkstra_
-
+![Einstein_logo](/images/einstein.png){: .align-right width="125px"}
 > **"Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination."**
 >> _— Albert Einstein_
 
