@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ABOUT ME: 👋 Hello there, I'm Guowang (Tom)!"
+title: "ABOUT ME:"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-
+👋 Hello there, I'm Guowang (Tom)!
+======
 
 🎓 I'm a final year graduate student at Duke University (Pratt School of Engineering) majoring Computer Engineering.
 
@@ -30,7 +31,7 @@ Education background
 ![Duke logo](/images/duke.jpg){: .align-right width="350px"}
 **Duke University**, Durham, United States
 
-Master of Engineering in Electrical and Computer Engineering (Software Development Track), 08/2022-05/2024
+Master of Engineering in **Electrical and Computer Engineering** (Software Development Track), 08/2022-05/2024
 
 - GPA: **3.83/4**; Scholarship recipient (20% of tuition fee) for the first academic year
 - Relevant courses: Fundamentals of Computer Systems and Engineering (A), Systems Programming and Engineering (A), Software Engineering (A), Programming, Data Structures, and Algorithms in C++ (A)
@@ -39,25 +40,30 @@ Master of Engineering in Electrical and Computer Engineering (Software Developme
 ![LUISS logo](/images/luiss.jpg){: .align-right width="350px"}
 **LUISS University**, Rome, Italy
 
-Bachelor of Science in Management and Computer Science, 09/2018-11/2021
+Bachelor of Science in **Management and Computer Science**, 09/2018-11/2021
 
 - GPA: **109/110 (3.77/4)**; Full scholarship recipient (Including accommodation fee) in 3 consecutive years
 - Relevant courses: Algorithms (A+), Databases & Big Data (A+), Microeconomics (A+), Macroeconomics (A+), Data Analysis for Business (A+), Statistics (A+), Mathematical Finance (A+), Artificial Intelligence and Machine Learning (A), Fundamentals of Management (A), Quantitative Models for Data Science (A), Introduction to Computer Programming (A)
 
-Getting started
-======
 
 
-Site-wide configuration
+Experience 
 ------
 
+**Bank of Beijing Fintech**, Beijing, China
 
-Create content & metadata
-------
+**Artificial Intelligence Developer intern** intern [Python & Docker], 04/2022-07/2022
+
+- Collected user text data with intelligence robot assistant from application API. Constructed various Natural language
+processing (NLP) algorithm models, parameters tuning and uploaded them to the Docker warehouse to help the project.
+- Scrapped hundreds of pages of data from Beijing Municipal Health Commission with a Scrapy framework into database.
 
 
-How to edit your site's GitHub repository
-------
+**Kantar TNS**, Rome, Italy
+
+**Data analytics intern** [Python & Excel] 06/2020-09/2020
+- Consulted for consumer and retail companies, providing professional data analytics services with Python toolkits. Identified optimal product portfolios and market shares, improving business performance by 87% and program efficiency by 30%.
+- Constructed comprehensive data visualization reports for clients, demonstrating strong leadership and involvement in successful project delivery. Resulted in high levels of satisfaction and positive feedback from clients.
 
 
 Additional information
