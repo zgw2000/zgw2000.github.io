@@ -82,9 +82,9 @@ processing (NLP) algorithm models, parameters tuning and uploaded them to the Do
 **Certificates:** TOEFL: 111(23), GRE: 330+, European Computer Driving License (ECDL/ICDL), Google Analytics
 Certification, Programming Fundamentals by Duke University (Coursera), Introduction to Data Science in Python by UMich (Coursera), Entrepreneurship by UPenn (Coursera)
 
-![Duke](/images/Coursera_duke.png){: .align-left width="240px"}
-![Umich](/images/Coursera_umich.png){: .align-left width="240px"}
-![Upenn](/images/Coursera_upenn.png){: .align-left width="240px"}
+![Duke](/images/Coursera_duke.png){: .align-left width="230px"}
+![Umich](/images/Coursera_umich.png){: .align-left width="230px"}
+![Upenn](/images/Coursera_upenn.png){: .align-left width="230px"}
 
 
 ![Billgates_logo](/images/billgates.png){: .align-right width="125px"}
