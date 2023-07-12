@@ -52,7 +52,7 @@ Bachelor of Science in **Management and Computer Science**, 09/2018-11/2021
 
 **Bank of Beijing Fintech**, Beijing, China
 
-**Artificial Intelligence Developer intern** intern _**[Python & Docker]**_, 04/2022-07/2022
+**Artificial Intelligence Developer intern** _**[Python & Docker]**_, 04/2022-07/2022
 
 - Collected user text data with intelligence robot assistant from application API. Constructed various Natural language
 processing (NLP) algorithm models, parameters tuning and uploaded them to the Docker warehouse to help the project.
