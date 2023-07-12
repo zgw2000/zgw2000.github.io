@@ -32,7 +32,7 @@ EDUCATION BACKGROUND
 
 Master of Engineering in Electrical and Computer Engineering (Software Development Track), 08/2022-05/2024
 
-- GPA: **3.83/4**; Scholarship recipient (20% of tuition fee) for the first academic year
++ GPA: **3.83/4**; Scholarship recipient (20% of tuition fee) for the first academic year
 - Relevant courses: Fundamentals of Computer Systems and Engineering (A), Systems Programming and Engineering (A), Software Engineering (A), Programming, Data Structures, and Algorithms in C++ (A)
 
 
