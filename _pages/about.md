@@ -17,7 +17,7 @@ redirect_from:
 👨🏻‍🏫 As a undergraduate teaching assistant at Duke University, Answered statistical questions and the syntax error of R and Assisted professors in grading undergraduate assignments and exams.
 🤖👍🏻👋🏻👨🏻‍💻👨🏻‍🏫🧢🎯⚙️🔬📍📌🇨🇳🇮🇹🇺🇸
 
-🧢 My background is diverse. I attended Dearborn Elementary Academy in Los Angeles for six months as a visiting scholar with my parents at California State. The rest of my education took place in Beijing, China. During my undergraduate studies, I pursued degrees in Management and Computer Science at LUISS University in Rome, Italy, under the guidance of Italian computer scientist Giuseppe Francesco (Pino) Italiano. In the fall of 2022, I enrolled in Duke University Pratt School of Engineering to continue my studies in Computer Science.
+🧢 My background is diverse. I attended Dearborn Elementary Academy in Los Angeles for six months as a visiting scholar with my parents at California State. The rest of my education took place in Beijing, China. During my undergraduate studies, I pursued degrees in Management and Computer Science at LUISS University in Rome, Italy, under the guidance of Italian computer scientist Giuseppe Francesco (Pino) Italiano. In the fall of 2022, I enrolled in Duke University Pratt School of Engineering to continue my studies in Computer Engineering.
 
 ⚙️ I have extensive experience in creating projects, where I handled both frontend and backend development while also designing the UI. Moreover, I have a strong passion for writing high-quality code and test cases.
 
@@ -76,13 +76,14 @@ Certification, Programming Fundamentals by Duke University (Coursera), Introduct
 ![Umich](/images/Coursera_umich.png){: .align-left width="244px"}
 ![Upenn](/images/Coursera_upenn.png){: .align-right width="244px"}
 
+
+> **"The computer was born to solve problems that did not exist before."**
+>> _— Bill Gates_
+
 > **"Computer science is no more about computers than astronomy is about telescopes."**
 >> _— Edsger W. Dijkstra_
 
-> **"The computer was born to solve problems that did not exist before."**
-> _— Bill Gates_
-
 > **"Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination."**
-> _- Albert Einstein, physicist_
+>> _- Albert Einstein, physicist_
 
 
