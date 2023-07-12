@@ -76,6 +76,8 @@ ADDITIONAL INFORMATION
 **Certificates:** TOEFL: 111(23), GRE: 330+, European Computer Driving License (ECDL/ICDL), Google Analytics
 Certification, Programming Fundamentals by Duke University (Coursera), Introduction to Data Science in Python by UMich (Coursera), Entrepreneurship by UPenn (Coursera)
 
-![Duke](/images/Coursera_duke.png){: .align-right width="350px"}
+![Duke](/images/Coursera_umich.png){: .align-left width="200px"}
+![Duke](/images/Coursera_duke.png){: .align-middle width="200px"}
+![Duke](/images/Coursera_upenn.png){: .align-right width="200px"}
 
 
