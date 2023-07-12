@@ -47,6 +47,15 @@ Bachelor of Science in **Management and Computer Science**, 09/2018-11/2021
 
 👨🏻‍💻 Experience 👨🏻‍💻
 ------
+
+![Mevion logo](/images/mevion.png){: .align-right width="175px"}
+**Mevion Medical Systems**, Kunshan, China 🇨🇳
+
+**Software Engineer intern** _**[C++ & JIRA]**_, 04/2022-07/2022
+
+- Developed and enhanced the Room 3D View feature at Mevion, addressing display issues, improving user experience, and ensuring safe movement of the treatment couch.
+- Researched collision detection techniques, collaborated cross-functionally, and implemented effective solutions to enhance the user interface and facilitate seamless navigation.
+
 ![BOB logo](/images/bob.png){: .align-right width="175px"}
 **Bank of Beijing Fintech**, Beijing, China 🇨🇳
 
