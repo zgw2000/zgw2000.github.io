@@ -76,8 +76,11 @@ ADDITIONAL INFORMATION
 **Certificates:** TOEFL: 111(23), GRE: 330+, European Computer Driving License (ECDL/ICDL), Google Analytics
 Certification, Programming Fundamentals by Duke University (Coursera), Introduction to Data Science in Python by UMich (Coursera), Entrepreneurship by UPenn (Coursera)
 
-![Duke](/images/Coursera_umich.png){: .align-left width="200px"}
-![Duke](/images/Coursera_duke.png){: .align-middle width="200px"}
-![Duke](/images/Coursera_upenn.png){: .align-right width="200px"}
+![Duke](/images/Coursera_umich.png){: .align-left width="230px"}
+![Duke](/images/Coursera_duke.png){: .align-middle width="230px"}
+![Duke](/images/Coursera_upenn.png){: .align-right width="230px"}
+
+> **Computer science is no more about computers than astronomy is about telescopes.**
+> _— Edsger W. Dijkstra_
 
 
