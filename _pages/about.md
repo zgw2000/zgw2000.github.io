@@ -72,15 +72,17 @@ ADDITIONAL INFORMATION
 **Certificates:** TOEFL: 111(23), GRE: 330+, European Computer Driving License (ECDL/ICDL), Google Analytics
 Certification, Programming Fundamentals by Duke University (Coursera), Introduction to Data Science in Python by UMich (Coursera), Entrepreneurship by UPenn (Coursera)
 
-![Duke](/images/Coursera_duke.png){: .align-middle width="245px"}
-![Umich](/images/Coursera_umich.png){: .align-left width="245px"}
-![Upenn](/images/Coursera_upenn.png){: .align-right width="245px"}
-
-
-
-
+![Duke](/images/Coursera_duke.png){: .align-middle width="244px"}
+![Umich](/images/Coursera_umich.png){: .align-left width="244px"}
+![Upenn](/images/Coursera_upenn.png){: .align-right width="244px"}
 
 > **"Computer science is no more about computers than astronomy is about telescopes."**
-> _— Edsger W. Dijkstra_
+>> _— Edsger W. Dijkstra_
+
+> **"The computer was born to solve problems that did not exist before."**
+> _— Bill Gates_
+
+> **"Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination."**
+> _- Albert Einstein, physicist_
 
 
