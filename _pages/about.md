@@ -87,7 +87,7 @@ Certification, Programming Fundamentals by Duke University (Coursera), Introduct
 ![Upenn](/images/Coursera_upenn.png){: .align-right width="244px"}
 
 
-![Billgates_logo](/images/billgates.png){: .align-middle width="200px"}
+![Billgates_logo](/images/billgates.png){: .align-right width="100px"}
 > **"The computer was born to solve problems that did not exist before."**
 >> _— Bill Gates_
 
