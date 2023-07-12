@@ -66,18 +66,13 @@ ADDITIONAL INFORMATION
 
 🇨🇳 Chinese Mandarin (Native)    🇺🇸 English (Proficient)    🇮🇹 Italian (Intermediate)
 
+![Chatgpt logo](/images/chatgpt.jpg){: .align-right width="50px"}
 ![C++ logo](/images/c++.jpg){: .align-right width="50px"}
-
-![Python logo](/images/python.jpg){: .align-right width="50px"}
-
-![Java logo](/images/java.jpg){: .align-right width="50px"}
-
-![Markdown logo](/images/markdown.jpg){: .align-right width="50px"}
-
-![Mysql logo](/images/mysql.jpg){: .align-right width="50px"}
-
-![Postgresql logo](/images/postgresql.jpg){: .align-right width="50px"}
-
+![Python logo](/images/python.jpg){: .align-right width="60px"}
+![Java logo](/images/java.jpg){: .align-right width="40px"}
+![Markdown logo](/images/markdown.jpg){: .align-right width="70px"}
+![Mysql logo](/images/mysql.jpg){: .align-right width="80px"}
+![Postgresql logo](/images/postgresql.jpg){: .align-right width="100px"}
 **Skills:** Mastered in ChatGPT, C/C++, Python, Java, Software R, SQL database, UML Diagram, Markdown, Stata, LaTeX
 
 **Certificates:** TOEFL: 111(23), GRE: 330+, European Computer Driving License (ECDL/ICDL), Google Analytics
