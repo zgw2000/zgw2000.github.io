@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<center>👋 Hello there, I'm Guowang (Tom)!</center>
-======
-🎯 Seeking full-time employment in the US for 2024. Eager to contribute to a dynamic organization. Let's connect and make a positive impact together.
+👋 Hello there, I'm Guowang (Tom)!
+====== 
+<center>🎯 Seeking full-time employment in the US for 2024. Eager to contribute to a dynamic organization. Let's connect and make a positive impact together.</center>
 
 🎓 I'm a final year graduate student at Duke University (Pratt School of Engineering) majoring Computer Engineering.
 
