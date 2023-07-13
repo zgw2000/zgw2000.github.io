@@ -28,7 +28,7 @@ redirect_from:
 ------
 ![Duke logo](/images/duke.jpg "Duke University"){: .align-right width="350px"}
 
-[`Duke University`](https://duke.edu/), `Durham, United States 🇺🇸`
+[**`Duke University`**](https://duke.edu/), `Durham, United States 🇺🇸`
 
 Master of Engineering in `Electrical and Computer Engineering` (Software Development Track), `08/2022-05/2024`
 
