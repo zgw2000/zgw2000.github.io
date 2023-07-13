@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<link rel="icon" type="image/x-icon" href="/images/profile_pic.png">
+
 <a id="top"></a>
 
 <h1 align = "center">👋 Hello there, I'm Guowang (Tom)!</h1>
@@ -110,7 +112,7 @@ Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Intro
   <script>
     $(document).ready(function() {
       $('a[href="#top"]').click(function() {
-        $('html, body').animate({ scrollTop: 0 }, '100');
+        $('html, body').animate({ scrollTop: 0 }, '10');
         return false;
       });
     });
