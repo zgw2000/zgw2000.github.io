@@ -30,15 +30,15 @@ redirect_from:
 ------
 ![Duke logo](/images/duke.jpg){: .align-right width="350px"}
 
-`**Duke University**`, Durham, United States 🇺🇸
+`<b>Duke University</b>`, Durham, United States 🇺🇸
 
-Master of Engineering in **Electrical and Computer Engineering** (Software Development Track), 08/2022-05/2024
+Master of Engineering in `**Electrical and Computer Engineering**` (Software Development Track), 08/2022-05/2024
 
-- GPA: **3.83/4**; Scholarship recipient (20% of tuition fee) for the first academic year
+- GPA: `**3.83/4**`; Scholarship recipient (20% of tuition fee) for the first academic year
 - Relevant courses: Fundamentals of Computer Systems and Engineering (A), Systems Programming and Engineering (A), Software Engineering (A), Programming, Data Structures, and Algorithms in C++ (A)
 <br/>
 ![LUISS logo](/images/luiss.jpg){: .align-right width="350px"}
-**LUISS University**, Rome, Italy 🇮🇹
+`**LUISS University**`, Rome, Italy 🇮🇹
 
 Bachelor of Science in **Management and Computer Science**, 09/2018-11/2021
 
