@@ -106,7 +106,7 @@ Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Intro
 >> `— Albert Einstein`
 
 
-[<center>BACK TO TOP ↑</center>](#top)
+[<center>↑BACK TO TOP ↑</center>](#top)
 
 
   <script>
