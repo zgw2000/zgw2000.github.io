@@ -25,7 +25,7 @@ redirect_from:
 
 <h1 align = "center">🎓 Education background 🎓</h1>
 ------
-![Duke logo](/images/duke.jpg){: .align-right width="350px"}
+![Duke logo](/images/duke.jpg "duke university"){: .align-right width="350px"}
 
 [`Duke University`](https://duke.edu/), `Durham, United States 🇺🇸`
 
