@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ABOUT ME:"
+title: "<h1 align = "center">ABOUT ME:</h1>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hello there, I'm Guowang (Tom)!
+<h1 align = "center">👋 Hello there, I'm Guowang (Tom)!</h1>
 ====== 
 <center>🎯 Seeking full-time employment in the US for 2024. Eager to contribute to a dynamic organization. Let's connect and make a positive impact together.</center>   
 <br/>
@@ -36,7 +36,7 @@ Master of Engineering in **Electrical and Computer Engineering** (Software Devel
 
 - GPA: **3.83/4**; Scholarship recipient (20% of tuition fee) for the first academic year
 - Relevant courses: Fundamentals of Computer Systems and Engineering (A), Systems Programming and Engineering (A), Software Engineering (A), Programming, Data Structures, and Algorithms in C++ (A)
-
+<br/>
 ![LUISS logo](/images/luiss.jpg){: .align-right width="350px"}
 **LUISS University**, Rome, Italy 🇮🇹
 
@@ -55,7 +55,7 @@ Bachelor of Science in **Management and Computer Science**, 09/2018-11/2021
 
 - Developed and enhanced the Room 3D View feature at Mevion, addressing display issues, improving user experience, and ensuring safe movement of the treatment couch.
 - Researched collision detection techniques, collaborated cross-functionally, and implemented effective solutions to enhance the user interface and facilitate seamless navigation.
-
+<br/>
 ![BOB logo](/images/bob.png){: .align-right width="175px"}
 **Bank of Beijing Fintech**, Beijing, China 🇨🇳
 
@@ -64,7 +64,7 @@ Bachelor of Science in **Management and Computer Science**, 09/2018-11/2021
 - Collected user text data with intelligence robot assistant from application API. Constructed various Natural language
 processing (NLP) algorithm models, parameters tuning and uploaded them to the Docker warehouse to help the project.
 - Scrapped hundreds of pages of data from Beijing Municipal Health Commission with a Scrapy framework into database.
-
+<br/>
 ![Kantar logo](/images/kantar.png){: .align-right width="175px"}
 **Kantar TNS**, Rome, Italy 🇮🇹
 
