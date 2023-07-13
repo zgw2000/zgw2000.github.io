@@ -30,63 +30,64 @@ redirect_from:
 ------
 ![Duke logo](/images/duke.jpg){: .align-right width="350px"}
 
-`<b>Duke University</b>`, Durham, United States 🇺🇸
+`Duke University`, `Durham, United States 🇺🇸`
 
-Master of Engineering in `**Electrical and Computer Engineering**` (Software Development Track), 08/2022-05/2024
+Master of Engineering in `Electrical and Computer Engineering` (Software Development Track), `08/2022-05/2024`
 
-- GPA: `**3.83/4**`; Scholarship recipient (20% of tuition fee) for the first academic year
+- GPA: `3.83/4`; Scholarship recipient (20% of tuition fee) for the first academic year
 - Relevant courses: Fundamentals of Computer Systems and Engineering (A), Systems Programming and Engineering (A), Software Engineering (A), Programming, Data Structures, and Algorithms in C++ (A)
 <br/>
 ![LUISS logo](/images/luiss.jpg){: .align-right width="350px"}
-`**LUISS University**`, Rome, Italy 🇮🇹
+`LUISS University`, `Rome, Italy 🇮🇹`
 
-Bachelor of Science in **Management and Computer Science**, 09/2018-11/2021
+Bachelor of Science in `Management and Computer Science`, `09/2018-11/2021`
 
-- GPA: **109/110 (3.77/4)**; Full scholarship recipient (Including accommodation fee) in 3 consecutive years
+- GPA: `109/110 (3.77/4)`; Full scholarship recipient (Including accommodation fee) in 3 consecutive years
 - Relevant courses: Algorithms (A+), Databases & Big Data (A+), Microeconomics (A+), Macroeconomics (A+), Data Analysis for Business (A+), Statistics (A+), Mathematical Finance (A+), Artificial Intelligence and Machine Learning (A), Fundamentals of Management (A), Quantitative Models for Data Science (A), Introduction to Computer Programming (A)
 
 <h1 align = "center">👨🏻‍💻 Experience 👨🏻‍💻</h1>
 ------
 
 ![Mevion logo](/images/mevion.png){: .align-right width="180px"}
-**Mevion Medical Systems**, Kunshan, China 🇨🇳
+`Mevion Medical Systems`, `Kunshan, China 🇨🇳`
 
-**Software Engineer intern** _**[C++ & JIRA]**_, 04/2022-07/2022
+`Software Engineer intern` `[C++ & JIRA]`, `04/2022-07/2022`
 
 - Developed and enhanced the Room 3D View feature at Mevion, addressing display issues, improving user experience, and ensuring safe movement of the treatment couch.
 - Researched collision detection techniques, collaborated cross-functionally, and implemented effective solutions to enhance the user interface and facilitate seamless navigation.
 <br/>
 ![BOB logo](/images/bob.png){: .align-right width="175px"}
-**Bank of Beijing Fintech**, Beijing, China 🇨🇳
+`Bank of Beijing Fintech`, `Beijing, China 🇨🇳`
 
-**Artificial Intelligence Developer intern** _**[Python & Docker]**_, 04/2022-07/2022
+`Artificial Intelligence Developer intern` `[Python & Docker]`, `04/2022-07/2022`
 
 - Collected user text data with intelligence robot assistant from application API. Constructed various Natural language
 processing (NLP) algorithm models, parameters tuning and uploaded them to the Docker warehouse to help the project.
 - Scrapped hundreds of pages of data from Beijing Municipal Health Commission with a Scrapy framework into database.
 <br/>
 ![Kantar logo](/images/kantar.png){: .align-right width="175px"}
-**Kantar TNS**, Rome, Italy 🇮🇹
+`Kantar TNS`, `Rome, Italy 🇮🇹`
 
-**Data analytics intern** _**[Python & Excel]**_ 06/2020-09/2020
+`Data analytics intern` `[Python & Excel]` `06/2020-09/2020`
 - Consulted for consumer and retail companies, providing professional data analytics services with Python toolkits. Identified optimal product portfolios and market shares, improving business performance by 87% and program efficiency by 30%.
 - Constructed comprehensive data visualization reports for clients, demonstrating strong leadership and involvement in successful project delivery. Resulted in high levels of satisfaction and positive feedback from clients.
 
 <h1 align = "center">📌 Additional information 📌</h1>
 ------
-**Languages:**
 
-🇨🇳 Chinese Mandarin (Native)    🇺🇸 English (Proficient)    🇮🇹 Italian (Intermediate)
+`Languages:`
+
+`🇨🇳 Chinese Mandarin (Native)`    `🇺🇸 English (Proficient)`    `🇮🇹 Italian (Intermediate)`
 
 ![Chatgpt logo](/images/chatgpt.jpg){: .align-right width="53px"}
 ![Markdown logo](/images/markdown.jpg){: .align-right width="83px"}
 ![C++ logo](/images/c++.jpg){: .align-right width="50px"}
 ![Python logo](/images/python.jpg){: .align-right width="55px"}
 ![Java logo](/images/java.jpg){: .align-right width="42px"}
-**Skills:** Mastered in ChatGPT, C/C++, Python, Java, Software R, SQL database, UML Diagram, Markdown, Stata, LaTeX
+`Skills:` Mastered in `ChatGPT`, `C/C++`, `Python`, `Java`, `Software R`, `SQL database`, `UML Diagram`, `Markdown`, `Stata`, `LaTeX`
 
-**Certificates:** TOEFL: 111(23), European Computer Driving License (ECDL/ICDL), Google Analytics
-Certification, Programming Fundamentals by Duke University (Coursera), Introduction to Data Science in Python by UMich (Coursera), Entrepreneurship by UPenn (Coursera)
+`Certificates:` `TOEFL: 111(23)`, `European Computer Driving License (ECDL/ICDL)`, `Google Analytics
+Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Introduction to Data Science in Python by UMich (Coursera)`, `Entrepreneurship by UPenn (Coursera)`
 
 ![Duke](/images/Coursera_duke.png){: .align-middle width="250px"}
 ![Umich](/images/Coursera_umich.png){: .align-middle width="250px"}
