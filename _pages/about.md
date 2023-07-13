@@ -1,3 +1,4 @@
+🎯
 ---
 permalink: /
 title: "**ABOUT ME:**"
@@ -112,7 +113,7 @@ Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Intro
   <script>
     $(document).ready(function() {
       $('a[href="#top"]').click(function() {
-        $('html, body').animate({ scrollTop: 0 }, '10');
+        $('html, body').animate({ scrollTop: 0 }, 'fast');
         return false;
       });
     });
