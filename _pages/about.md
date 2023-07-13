@@ -10,6 +10,7 @@ redirect_from:
 
 👋 Hello there, I'm Guowang (Tom)!
 ======
+🎯 Seeking full-time employment in the US for 2024. Eager to contribute to a dynamic organization. Let's connect and make a positive impact together.
 
 🎓 I'm a final year graduate student at Duke University (Pratt School of Engineering) majoring Computer Engineering.
 
@@ -18,9 +19,10 @@ redirect_from:
 👨🏻‍🏫 As a undergraduate teaching assistant at Duke University, Answered statistical questions and the syntax error of R and Assisted professors in grading undergraduate assignments and exams.
 🤖👍🏻👋🏻👨🏻‍💻👨🏻‍🏫🧢🎯⚙️🔬📍📌🇨🇳🇮🇹🇺🇸
 
+🤖 I have extensive experience in creating projects, where I handled both frontend and backend development while also designing the UI. Moreover, I have a strong passion for writing high-quality code and test cases.
+
 🧢 My background is diverse. I attended Dearborn Elementary Academy in Los Angeles for six months as a visiting scholar with my parents at California State. The rest of my education took place in Beijing, China. During my undergraduate studies, I pursued degrees in Management and Computer Science at LUISS University in Rome, Italy, under the guidance of Italian computer scientist Giuseppe Francesco (Pino) Italiano. In the fall of 2022, I enrolled in Duke University Pratt School of Engineering to continue my studies in Computer Engineering.
 
-⚙️ I have extensive experience in creating projects, where I handled both frontend and backend development while also designing the UI. Moreover, I have a strong passion for writing high-quality code and test cases.
 
 🎓 Education background 🎓
 ------
@@ -71,7 +73,7 @@ processing (NLP) algorithm models, parameters tuning and uploaded them to the Do
 - Constructed comprehensive data visualization reports for clients, demonstrating strong leadership and involvement in successful project delivery. Resulted in high levels of satisfaction and positive feedback from clients.
 
 
-📍 Additional information 📍
+📌 Additional information 📌
 ------
 **Languages:**
 
