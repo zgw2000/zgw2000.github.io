@@ -104,7 +104,7 @@ Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Intro
 > **"Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination."**
 >> _— Albert Einstein_
 
-[BACK TO TOP ↑](#top)
+<h1 align = "center"> [BACK TO TOP ↑](#top) </h1>
 
   <script>
     $(document).ready(function() {
