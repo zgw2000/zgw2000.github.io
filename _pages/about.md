@@ -24,7 +24,7 @@ redirect_from:
 
 > Click to read more about my mentor [`Giuseppe F. Italiano`](https://en.wikipedia.org/wiki/Giuseppe_F._Italiano) and his [`Google Scholar`](https://scholar.google.com/citations?hl=zh-CN&user=6jiwt-UAAAAJ).
 
-[`Giuseppe F. Italiano`]
+[`Giuseppe F. Italiano`]()
 
 <h1 align = "center">🎓 Education background 🎓</h1>
 ------
