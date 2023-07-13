@@ -14,16 +14,16 @@ redirect_from:
 <br/>
 <center>🎓 I'm a final year graduate student at Duke University (Pratt School of Engineering) majoring Computer Engineering.</center>  
 <br/>
-<center>👍🏻 I am good at Data Structure & algorithm, Java & C/C++ OO design, Python (Machine Learning) and Economic Analysis.</center>   
+<center>👍🏻 I am good at Data Structure & algorithm, Java & C/C++ OO design, Python (Machine Learning) and Economic Analysis.</center>
+<br/>
 <center>👨🏻‍🏫 As a undergraduate teaching assistant at Duke University, Answered statistical questions and the syntax error of R and Assisted professors in grading undergraduate assignments and exams.</center>   
 <br/>
 <center>🤖 I have extensive experience in creating projects, where I handled both frontend and backend development while also designing the UI. Moreover, I have a strong passion for writing high-quality code and test cases.</center>   
 <br/>
 <center>🧢 My background is diverse. I attended Dearborn Elementary Academy in Los Angeles for six months as a visiting scholar with my parents at California State. The rest of my education took place in Beijing, China. During my undergraduate studies, I pursued degrees in Management and Computer Science at LUISS University in Rome, Italy, under the guidance of Italian computer scientist In the fall of 2022, I enrolled in Duke University Pratt School of Engineering to continue my studies in Computer Engineering.</center>
 
-> Read more on **[`Giuseppe F. Italiano`](https://en.wikipedia.org/wiki/Giuseppe_F._Italiano) **
+> Click to read more on [`Giuseppe F. Italiano`](https://en.wikipedia.org/wiki/Giuseppe_F._Italiano) Wikipedia.
 
-<a><button name="button" style = "color: red" onclick="https://www.w3schools.com/CPP/cpp_math.asp">`cmath`on w3schools</button></a>
 
 🎓 Education background 🎓
 ------
