@@ -28,7 +28,7 @@ redirect_from:
 ------
 ![Duke logo](/images/duke.jpg "Duke University"){: .align-right width="350px"}
 
-[**`Duke University`**](https://duke.edu/), `Durham, United States 🇺🇸`
+[**Duke University**](https://duke.edu/), `Durham, United States 🇺🇸`
 
 Master of Engineering in `Electrical and Computer Engineering` (Software Development Track), `08/2022-05/2024`
 
@@ -97,7 +97,7 @@ Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Intro
 
 ![Billgates_logo](/images/billgates.png "Bill Gates"){: .align-right width="125px"}
 > **"The computer was born to solve problems that did not exist before."**
->> _— Bill Gates_
+>> — `Bill Gates`
 
 ![Einstein_logo](/images/einstein.png "Albert Einstein"){: .align-right width="125px"}
 > **"Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination."**
