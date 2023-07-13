@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<h1 align = "center">ABOUT ME:</h1>"
+title: "**ABOUT ME:**"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
