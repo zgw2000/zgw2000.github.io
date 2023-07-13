@@ -10,23 +10,19 @@ redirect_from:
 
 👋 Hello there, I'm Guowang (Tom)!
 ====== 
-<center>🎯 Seeking full-time employment in the US for 2024. Eager to contribute to a dynamic organization. Let's connect and make a positive impact together.</center>  
+<center>🎯 Seeking full-time employment in the US for 2024. Eager to contribute to a dynamic organization. Let's connect and make a positive impact together.</center>   
 
 <center>🎓 I'm a final year graduate student at Duke University (Pratt School of Engineering) majoring Computer Engineering.</center>  
 
-<center>👍🏻 I am good at Data Structure & algorithm, Java & C/C++ OO design, Python (Machine Learning) and Economic Analysis.</center>  
+<center>👍🏻 I am good at Data Structure & algorithm, Java & C/C++ OO design, Python (Machine Learning) and Economic Analysis.</center>   
+<center>👨🏻‍🏫 As a undergraduate teaching assistant at Duke University, Answered statistical questions and the syntax error of R and Assisted professors in grading undergraduate assignments and exams.</center>   
 
-<center>👨🏻‍🏫 As a undergraduate teaching assistant at Duke University, Answered statistical questions and the syntax error of R and Assisted professors in grading undergraduate assignments and exams.</center>  
+<center>🤖 I have extensive experience in creating projects, where I handled both frontend and backend development while also designing the UI. Moreover, I have a strong passion for writing high-quality code and test cases.</center>   
 
-<center>🤖 I have extensive experience in creating projects, where I handled both frontend and backend development while also designing the UI. Moreover, I have a strong passion for writing high-quality code and test cases.</center>  
-
-<center>🧢 My background is diverse. I attended Dearborn Elementary Academy in Los Angeles for six months as a visiting scholar with my parents at California State. The rest of my education took place in Beijing, China. During my undergraduate studies, I pursued degrees in Management and Computer Science at LUISS University in Rome, Italy, under the guidance of Italian computer scientist  
-  
-  **[Giuseppe F. Italiano](https://en.wikipedia.org/wiki/Giuseppe_F._Italiano)**
-
-In the fall of 2022, I enrolled in Duke University Pratt School of Engineering to continue my studies in Computer Engineering.</center>
+<center>🧢 My background is diverse. I attended Dearborn Elementary Academy in Los Angeles for six months as a visiting scholar with my parents at California State. The rest of my education took place in Beijing, China. During my undergraduate studies, I pursued degrees in Management and Computer Science at LUISS University in Rome, Italy, under the guidance of Italian computer scientist
 
 [`Giuseppe F. Italiano`](https://en.wikipedia.org/wiki/Giuseppe_F._Italiano)
+In the fall of 2022, I enrolled in Duke University Pratt School of Engineering to continue my studies in Computer Engineering.</center>
 
 🎓 Education background 🎓
 ------
