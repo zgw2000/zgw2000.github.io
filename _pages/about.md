@@ -24,13 +24,13 @@ redirect_from:
 
 > Click to read more about my mentor [`Giuseppe F. Italiano`](https://en.wikipedia.org/wiki/Giuseppe_F._Italiano) and his [`Google Scholar`](https://scholar.google.com/citations?hl=zh-CN&user=6jiwt-UAAAAJ).
 
-[锚点链接][anchor-id]
+
 
 <h1 align = "center">🎓 Education background 🎓</h1>
 ------
 ![Duke logo](/images/duke.jpg){: .align-right width="350px"}
 
-```Duke University```, Durham, United States 🇺🇸
+`Duke University`, Durham, United States 🇺🇸
 
 Master of Engineering in **Electrical and Computer Engineering** (Software Development Track), 08/2022-05/2024
 
