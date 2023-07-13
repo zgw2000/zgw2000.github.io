@@ -105,5 +105,13 @@ Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Intro
 >> _— Albert Einstein_
 
 [BACK TO TOP ↑](#top)
-
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+    $(document).ready(function() {
+      $('a[href="#top"]').click(function() {
+        $('html, body').animate({ scrollTop: 0 }, 'slow');
+        return false;
+      });
+    });
+  </script>
 
