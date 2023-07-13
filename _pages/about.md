@@ -17,12 +17,10 @@ redirect_from:
 👍🏻 I am good at Data Structure & algorithm, Java & C/C++ OO design, Python (Machine Learning) and Economic Analysis.
 
 👨🏻‍🏫 As a undergraduate teaching assistant at Duke University, Answered statistical questions and the syntax error of R and Assisted professors in grading undergraduate assignments and exams.
-🤖👍🏻👋🏻👨🏻‍💻👨🏻‍🏫🧢🎯⚙️🔬📍📌🇨🇳🇮🇹🇺🇸
 
 🤖 I have extensive experience in creating projects, where I handled both frontend and backend development while also designing the UI. Moreover, I have a strong passion for writing high-quality code and test cases.
 
 🧢 My background is diverse. I attended Dearborn Elementary Academy in Los Angeles for six months as a visiting scholar with my parents at California State. The rest of my education took place in Beijing, China. During my undergraduate studies, I pursued degrees in Management and Computer Science at LUISS University in Rome, Italy, under the guidance of Italian computer scientist Giuseppe Francesco (Pino) Italiano. In the fall of 2022, I enrolled in Duke University Pratt School of Engineering to continue my studies in Computer Engineering.
-
 
 🎓 Education background 🎓
 ------
@@ -34,7 +32,6 @@ Master of Engineering in **Electrical and Computer Engineering** (Software Devel
 - GPA: **3.83/4**; Scholarship recipient (20% of tuition fee) for the first academic year
 - Relevant courses: Fundamentals of Computer Systems and Engineering (A), Systems Programming and Engineering (A), Software Engineering (A), Programming, Data Structures, and Algorithms in C++ (A)
 
-
 ![LUISS logo](/images/luiss.jpg){: .align-right width="350px"}
 **LUISS University**, Rome, Italy 🇮🇹
 
@@ -42,8 +39,6 @@ Bachelor of Science in **Management and Computer Science**, 09/2018-11/2021
 
 - GPA: **109/110 (3.77/4)**; Full scholarship recipient (Including accommodation fee) in 3 consecutive years
 - Relevant courses: Algorithms (A+), Databases & Big Data (A+), Microeconomics (A+), Macroeconomics (A+), Data Analysis for Business (A+), Statistics (A+), Mathematical Finance (A+), Artificial Intelligence and Machine Learning (A), Fundamentals of Management (A), Quantitative Models for Data Science (A), Introduction to Computer Programming (A)
-
-
 
 👨🏻‍💻 Experience 👨🏻‍💻
 ------
@@ -72,7 +67,6 @@ processing (NLP) algorithm models, parameters tuning and uploaded them to the Do
 - Consulted for consumer and retail companies, providing professional data analytics services with Python toolkits. Identified optimal product portfolios and market shares, improving business performance by 87% and program efficiency by 30%.
 - Constructed comprehensive data visualization reports for clients, demonstrating strong leadership and involvement in successful project delivery. Resulted in high levels of satisfaction and positive feedback from clients.
 
-
 📌 Additional information 📌
 ------
 **Languages:**
@@ -93,8 +87,6 @@ Certification, Programming Fundamentals by Duke University (Coursera), Introduct
 ![Umich](/images/Coursera_umich.png){: .align-middle width="250px"}
 ![Upenn](/images/Coursera_upenn.png){: .align-middle width="250px"}
 
-
-
 ![Billgates_logo](/images/billgates.png){: .align-right width="125px"}
 > **"The computer was born to solve problems that did not exist before."**
 >> _— Bill Gates_
@@ -102,5 +94,3 @@ Certification, Programming Fundamentals by Duke University (Coursera), Introduct
 ![Einstein_logo](/images/einstein.png){: .align-right width="125px"}
 > **"Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination."**
 >> _— Albert Einstein_
-
-
