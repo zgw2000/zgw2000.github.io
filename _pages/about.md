@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<a href="#anchor">查看我的作品</a>
 
 <h1 align = "center">👋 Hello there, I'm Guowang (Tom)!</h1>
 ------
@@ -103,5 +102,5 @@ Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Intro
 > **"Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination."**
 >> _— Albert Einstein_
 
-<a href="页面.html#anchor">点击查看我的作品</a>
+<a href="#top">Back to top</a>
 
