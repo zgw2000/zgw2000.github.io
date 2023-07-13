@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<link rel="icon" type="image/x-icon" href="/images/profile_pic.png">
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
 
 <a id="top"></a>
 
