@@ -86,7 +86,7 @@ processing (NLP) algorithm models, parameters tuning and uploaded them to the Do
 ![Java logo](/images/java.jpg){: .align-right width="42px"}
 **Skills:** Mastered in ChatGPT, C/C++, Python, Java, Software R, SQL database, UML Diagram, Markdown, Stata, LaTeX
 
-**Certificates:** TOEFL: 111(23), GRE: 330+, European Computer Driving License (ECDL/ICDL), Google Analytics
+**Certificates:** TOEFL: 111(23), European Computer Driving License (ECDL/ICDL), Google Analytics
 Certification, Programming Fundamentals by Duke University (Coursera), Introduction to Data Science in Python by UMich (Coursera), Entrepreneurship by UPenn (Coursera)
 
 ![Duke](/images/Coursera_duke.png){: .align-middle width="250px"}
