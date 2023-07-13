@@ -10,7 +10,8 @@ redirect_from:
 
 <h1 align = "center">👋 Hello there, I'm Guowang (Tom)!</h1>
 ------
-<center>🎯 Seeking full-time employment in the US for 2024. Eager to contribute to a dynamic organization. Let's connect and make a positive impact together.</center>   
+
+`<center>🎯 Seeking full-time employment in the US for 2024. Eager to contribute to a dynamic organization. Let's connect and make a positive impact together.</center>`
 
 <center>👍🏻 I am good at Data Structure & algorithm, Java & C/C++ OO design, Python (Machine Learning) and Economic Analysis.</center>
 
