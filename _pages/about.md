@@ -24,13 +24,12 @@ redirect_from:
 
 > Click to read more about my mentor [`Giuseppe F. Italiano`](https://en.wikipedia.org/wiki/Giuseppe_F._Italiano) and his [`Google Scholar`](https://scholar.google.com/citations?hl=zh-CN&user=6jiwt-UAAAAJ).
 
-[`Giuseppe F. Italiano`]()
 
 <h1 align = "center">🎓 Education background 🎓</h1>
 ------
 ![Duke logo](/images/duke.jpg){: .align-right width="350px"}
 
-`Duke University`, `Durham, United States 🇺🇸`
+[`Duke University`](https://duke.edu/), `Durham, United States 🇺🇸`
 
 Master of Engineering in `Electrical and Computer Engineering` (Software Development Track), `08/2022-05/2024`
 
@@ -38,7 +37,7 @@ Master of Engineering in `Electrical and Computer Engineering` (Software Develop
 - Relevant courses: Fundamentals of Computer Systems and Engineering (A), Systems Programming and Engineering (A), Software Engineering (A), Programming, Data Structures, and Algorithms in C++ (A)
 <br/>
 ![LUISS logo](/images/luiss.jpg){: .align-right width="350px"}
-`LUISS University`, `Rome, Italy 🇮🇹`
+[`LUISS University`](https://www.luiss.edu/), `Rome, Italy 🇮🇹`
 
 Bachelor of Science in `Management and Computer Science`, `09/2018-11/2021`
 
@@ -49,7 +48,7 @@ Bachelor of Science in `Management and Computer Science`, `09/2018-11/2021`
 ------
 
 ![Mevion logo](/images/mevion.png){: .align-right width="180px"}
-`Mevion Medical Systems`, `Kunshan, China 🇨🇳`
+[`Mevion Medical Systems`](https://www.mevion.com/), `Kunshan, China 🇨🇳`
 
 `Software Engineer intern` `[C++ & JIRA]`, `04/2022-07/2022`
 
@@ -57,7 +56,7 @@ Bachelor of Science in `Management and Computer Science`, `09/2018-11/2021`
 - Researched collision detection techniques, collaborated cross-functionally, and implemented effective solutions to enhance the user interface and facilitate seamless navigation.
 <br/>
 ![BOB logo](/images/bob.png){: .align-right width="175px"}
-`Bank of Beijing Fintech`, `Beijing, China 🇨🇳`
+[`Bank of Beijing Fintech`](https://bankofbeijing.com.cn/en), `Beijing, China 🇨🇳`
 
 `Artificial Intelligence Developer intern` `[Python & Docker]`, `04/2022-07/2022`
 
@@ -66,7 +65,7 @@ processing (NLP) algorithm models, parameters tuning and uploaded them to the Do
 - Scrapped hundreds of pages of data from Beijing Municipal Health Commission with a Scrapy framework into database.
 <br/>
 ![Kantar logo](/images/kantar.png){: .align-right width="175px"}
-`Kantar TNS`, `Rome, Italy 🇮🇹`
+[`Kantar TNS`](https://www.kantar.com/), `Rome, Italy 🇮🇹`
 
 `Data analytics intern` `[Python & Excel]` `06/2020-09/2020`
 - Consulted for consumer and retail companies, providing professional data analytics services with Python toolkits. Identified optimal product portfolios and market shares, improving business performance by 87% and program efficiency by 30%.
