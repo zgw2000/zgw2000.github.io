@@ -24,7 +24,7 @@ redirect_from:
 
 > Click to read more about my mentor [`Giuseppe F. Italiano`](https://en.wikipedia.org/wiki/Giuseppe_F._Italiano) and his [`Google Scholar`](https://scholar.google.com/citations?hl=zh-CN&user=6jiwt-UAAAAJ).
 
-<center>🎓 Education background 🎓</center>
+<h1 align = "center">🎓 Education background 🎓</h1>
 ------
 ![Duke logo](/images/duke.jpg "Duke University"){: .align-right width="350px"}
 
@@ -104,7 +104,7 @@ Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Intro
 >> _— Albert Einstein_
 
 
-<center>[BACK TO TOP ↑](#top)</center>
+`[BACK TO TOP ↑](#top)`
 
 
   <script>
