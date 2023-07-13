@@ -31,7 +31,8 @@ redirect_from:
 <h1 align = "center">🎓 Education background 🎓</h1>
 ------
 ![Duke logo](/images/duke.jpg){: .align-right width="350px"}
-**Duke University**, Durham, United States 🇺🇸
+
+`Duke University`, Durham, United States 🇺🇸
 
 Master of Engineering in **Electrical and Computer Engineering** (Software Development Track), 08/2022-05/2024
 
