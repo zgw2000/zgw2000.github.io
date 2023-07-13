@@ -26,6 +26,10 @@ redirect_from:
 
 这是` 高亮文本 `效果。
 
+::: info 信息
+这是一个信息
+:::
+
 <h1 align = "center">🎓 Education background 🎓</h1>
 ------
 ![Duke logo](/images/duke.jpg){: .align-right width="350px"}
