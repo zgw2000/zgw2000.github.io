@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<link href="images/duke.jpg" rel="icon">
 
 <h1 align = "center">👋 Hello there, I'm Guowang (Tom)!</h1>
 ------
