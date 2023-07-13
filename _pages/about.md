@@ -25,7 +25,7 @@ redirect_from:
 
 <h1 align = "center">🎓 Education background 🎓</h1>
 ------
-![Duke logo](/images/duke.jpg "duke university"){: .align-right width="350px"}
+![Duke logo](/images/duke.jpg "Duke University"){: .align-right width="350px"}
 
 [`Duke University`](https://duke.edu/), `Durham, United States 🇺🇸`
 
@@ -34,7 +34,7 @@ Master of Engineering in `Electrical and Computer Engineering` (Software Develop
 - GPA: `3.83/4`; Scholarship recipient (20% of tuition fee) for the first academic year
 - Relevant courses: Fundamentals of Computer Systems and Engineering (A), Systems Programming and Engineering (A), Software Engineering (A), Programming, Data Structures, and Algorithms in C++ (A)
 <br/>
-![LUISS logo](/images/luiss.jpg){: .align-right width="350px"}
+![LUISS logo](/images/luiss.jpg "LUISS University"){: .align-right width="350px"}
 
 [`LUISS University`](https://www.luiss.edu/), `Rome, Italy 🇮🇹`
 
@@ -46,7 +46,7 @@ Bachelor of Science in `Management and Computer Science`, `09/2018-11/2021`
 <h1 align = "center">👨🏻‍💻 Experience 👨🏻‍💻</h1>
 ------
 
-![Mevion logo](/images/mevion.png){: .align-right width="180px"}
+![Mevion logo](/images/mevion.png "Mevion Medical Systems"){: .align-right width="180px"}
 
 [`Mevion Medical Systems`](https://www.mevion.com/), `Kunshan, China 🇨🇳`
 
@@ -55,7 +55,7 @@ Bachelor of Science in `Management and Computer Science`, `09/2018-11/2021`
 - Developed and enhanced the Room 3D View feature at Mevion, addressing display issues, improving user experience, and ensuring safe movement of the treatment couch.
 - Researched collision detection techniques, collaborated cross-functionally, and implemented effective solutions to enhance the user interface and facilitate seamless navigation.
 <br/>
-![BOB logo](/images/bob.png){: .align-right width="175px"}
+![BOB logo](/images/bob.png "Bank of Beijing"){: .align-right width="175px"}
 
 [`Bank of Beijing Fintech`](https://bankofbeijing.com.cn/en), `Beijing, China 🇨🇳`
 
@@ -65,7 +65,7 @@ Bachelor of Science in `Management and Computer Science`, `09/2018-11/2021`
 processing (NLP) algorithm models, parameters tuning and uploaded them to the Docker warehouse to help the project.
 - Scrapped hundreds of pages of data from Beijing Municipal Health Commission with a Scrapy framework into database.
 <br/>
-![Kantar logo](/images/kantar.png){: .align-right width="175px"}
+![Kantar logo](/images/kantar.png "Kantar TNS"){: .align-right width="175px"}
 
 [`Kantar TNS`](https://www.kantar.com/), `Rome, Italy 🇮🇹`
 
@@ -80,24 +80,24 @@ processing (NLP) algorithm models, parameters tuning and uploaded them to the Do
 
 `🇨🇳 Chinese Mandarin (Native)`    `🇺🇸 English (Proficient)`    `🇮🇹 Italian (Intermediate)`
 
-![Chatgpt logo](/images/chatgpt.jpg){: .align-right width="53px"}
-![Markdown logo](/images/markdown.jpg){: .align-right width="83px"}
-![C++ logo](/images/c++.jpg){: .align-right width="50px"}
-![Python logo](/images/python.jpg){: .align-right width="55px"}
-![Java logo](/images/java.jpg){: .align-right width="42px"}
+![Chatgpt logo](/images/chatgpt.jpg "ChatGPT"){: .align-right width="53px"}
+![Markdown logo](/images/markdown.jpg "Markdown"){: .align-right width="83px"}
+![C++ logo](/images/c++.jpg "C++"){: .align-right width="50px"}
+![Python logo](/images/python.jpg "Python"){: .align-right width="55px"}
+![Java logo](/images/java.jpg "Java"){: .align-right width="42px"}
 `Skills:` Mastered in `ChatGPT`, `C/C++`, `Python`, `Java`, `Software R`, `SQL database`, `UML Diagram`, `Markdown`, `Stata`, `LaTeX`
 
 `Certificates:` `TOEFL: 111(23)`, `European Computer Driving License (ECDL/ICDL)`, `Google Analytics
 Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Introduction to Data Science in Python by UMich (Coursera)`, `Entrepreneurship by UPenn (Coursera)`
 
-![Duke](/images/Coursera_duke.png){: .align-middle width="250px"}
-![Umich](/images/Coursera_umich.png){: .align-middle width="250px"}
-![Upenn](/images/Coursera_upenn.png){: .align-middle width="250px"}
+![Duke](/images/Coursera_duke.png "Programming Fundamentals"){: .align-middle width="250px"}
+![Umich](/images/Coursera_umich.png "Introduction to Data Science in Python"){: .align-middle width="250px"}
+![Upenn](/images/Coursera_upenn.png "Entrepreneurship"){: .align-middle width="250px"}
 
-![Billgates_logo](/images/billgates.png){: .align-right width="125px"}
+![Billgates_logo](/images/billgates.png "Bill Gates"){: .align-right width="125px"}
 > **"The computer was born to solve problems that did not exist before."**
 >> _— Bill Gates_
 
-![Einstein_logo](/images/einstein.png){: .align-right width="125px"}
+![Einstein_logo](/images/einstein.png "Albert Einstein"){: .align-right width="125px"}
 > **"Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination."**
 >> _— Albert Einstein_
