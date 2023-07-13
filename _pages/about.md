@@ -19,12 +19,9 @@ redirect_from:
 
 <center>🤖 I have extensive experience in creating projects, where I handled both frontend and backend development while also designing the UI. Moreover, I have a strong passion for writing high-quality code and test cases.</center>   
 
-<center>🧢 My background is diverse. I attended Dearborn Elementary Academy in Los Angeles for six months as a visiting scholar with my parents at California State. The rest of my education took place in Beijing, China. During my undergraduate studies, I pursued degrees in Management and Computer Science at LUISS University in Rome, Italy, under the guidance of Italian computer scientist   
-  
-[`Giuseppe F. Italiano`](https://en.wikipedia.org/wiki/Giuseppe_F._Italiano)   
+<center>🧢 My background is diverse. I attended Dearborn Elementary Academy in Los Angeles for six months as a visiting scholar with my parents at California State. The rest of my education took place in Beijing, China. During my undergraduate studies, I pursued degrees in Management and Computer Science at LUISS University in Rome, Italy, under the guidance of Italian computer scientist In the fall of 2022, I enrolled in Duke University Pratt School of Engineering to continue my studies in Computer Engineering.</center>
 
-
-In the fall of 2022, I enrolled in Duke University Pratt School of Engineering to continue my studies in Computer Engineering.</center>
+See more on [`Giuseppe F. Italiano`](https://en.wikipedia.org/wiki/Giuseppe_F._Italiano)   
 
 🎓 Education background 🎓
 ------
