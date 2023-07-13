@@ -22,8 +22,10 @@ redirect_from:
 <br/>
 <center>🧢 My background is diverse. I attended Dearborn Elementary Academy in Los Angeles for six months as a visiting scholar with my parents at California State. The rest of my education took place in Beijing, China. During my undergraduate studies, I pursued degrees in Management and Computer Science at LUISS University in Rome, Italy, under the guidance of Italian computer scientist In the fall of 2022, I enrolled in Duke University Pratt School of Engineering to continue my studies in Computer Engineering.</center>
 
-> Click to read more on [`Giuseppe F. Italiano`](https://en.wikipedia.org/wiki/Giuseppe_F._Italiano) and his [`Google Scholar`](https://scholar.google.com/citations?hl=zh-CN&user=6jiwt-UAAAAJ).
+> Click to read more about [`Giuseppe F. Italiano`](https://en.wikipedia.org/wiki/Giuseppe_F._Italiano) on Wikipedia and his [`Google Scholar`](https://scholar.google.com/citations?hl=zh-CN&user=6jiwt-UAAAAJ).
 
+
+这是` 高亮文本 `效果。
 
 <h1 align = "center">🎓 Education background 🎓</h1>
 ------
@@ -43,7 +45,7 @@ Bachelor of Science in **Management and Computer Science**, 09/2018-11/2021
 - GPA: **109/110 (3.77/4)**; Full scholarship recipient (Including accommodation fee) in 3 consecutive years
 - Relevant courses: Algorithms (A+), Databases & Big Data (A+), Microeconomics (A+), Macroeconomics (A+), Data Analysis for Business (A+), Statistics (A+), Mathematical Finance (A+), Artificial Intelligence and Machine Learning (A), Fundamentals of Management (A), Quantitative Models for Data Science (A), Introduction to Computer Programming (A)
 
-👨🏻‍💻 Experience 👨🏻‍💻
+<h1 align = "center">👨🏻‍💻 Experience 👨🏻‍💻</h1>
 ------
 
 ![Mevion logo](/images/mevion.png){: .align-right width="180px"}
@@ -70,7 +72,7 @@ processing (NLP) algorithm models, parameters tuning and uploaded them to the Do
 - Consulted for consumer and retail companies, providing professional data analytics services with Python toolkits. Identified optimal product portfolios and market shares, improving business performance by 87% and program efficiency by 30%.
 - Constructed comprehensive data visualization reports for clients, demonstrating strong leadership and involvement in successful project delivery. Resulted in high levels of satisfaction and positive feedback from clients.
 
-📌 Additional information 📌
+<h1 align = "center">📌 Additional information 📌</h1>
 ------
 **Languages:**
 
