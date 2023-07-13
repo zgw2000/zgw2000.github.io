@@ -24,7 +24,7 @@ redirect_from:
 
 > Click to read more about my mentor [`Giuseppe F. Italiano`](https://en.wikipedia.org/wiki/Giuseppe_F._Italiano) and his [`Google Scholar`](https://scholar.google.com/citations?hl=zh-CN&user=6jiwt-UAAAAJ).
 
-<h1 align = "center">🎓 Education background 🎓</h1>
+<center>🎓 Education background 🎓</center>
 ------
 ![Duke logo](/images/duke.jpg "Duke University"){: .align-right width="350px"}
 
@@ -103,9 +103,9 @@ Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Intro
 > **"Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination."**
 >> _— Albert Einstein_
 
-<div style="text-align: center;">
-  [<span style="text-decoration: none;">BACK TO TOP ↑</span>](#top)
-</div>
+
+<center>[BACK TO TOP ↑](#top)</center>
+
 
   <script>
     $(document).ready(function() {
