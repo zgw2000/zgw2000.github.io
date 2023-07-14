@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<link rel="icon" href="images/favicon.ico" type="image/x-icon">
 
 <a id="top"></a>
 
@@ -83,16 +84,11 @@ processing (NLP) algorithm models, parameters tuning and uploaded them to the Do
 
 `🇨🇳 Chinese Mandarin (Native)`    `🇺🇸 English (Proficient)`    `🇮🇹 Italian (Intermediate)`
 
-![Chatgpt logo](/images/chatgpt.jpg "ChatGPT"){: .align-center width="53px"}
-![Markdown logo](/images/markdown.jpg "Markdown"){: .align-center width="83px"}
-![C++ logo](/images/c++.jpg "C++"){: .align-center width="50px"}
-![Python logo](/images/python.jpg "Python"){: .align-center width="55px"}
-![Java logo](/images/java.jpg "Java"){: .align-center width="42px"}
-
-| ![Chatgpt logo](/images/chatgpt.jpg "ChatGPT") | ![Markdown logo](/images/markdown.jpg "Markdown") | ![C++ logo](/images/c++.jpg "C++") | ![Python logo](/images/python.jpg "Python") | ![Java logo](/images/java.jpg "Java") |
-|:---:|:---:|:---:|:---:|:---:|
-| ChatGPT | Markdown | C++ | Python | Java | 
-
+![Chatgpt logo](/images/chatgpt.jpg "ChatGPT"){: .align-right width="53px"}
+![Markdown logo](/images/markdown.jpg "Markdown"){: .align-right width="83px"}
+![C++ logo](/images/c++.jpg "C++"){: .align-right width="50px"}
+![Python logo](/images/python.jpg "Python"){: .align-right width="55px"}
+![Java logo](/images/java.jpg "Java"){: .align-right width="42px"}
 
 `Skills:` Mastered in `ChatGPT`, `C/C++`, `Python`, `Java`, `Software R`, `SQL database`, `UML Diagram`, `Markdown`, `Stata`, `LaTeX`
 
