@@ -84,20 +84,19 @@ processing (NLP) algorithm models, parameters tuning and uploaded them to the Do
 
 `🇨🇳 Chinese Mandarin (Native)`    `🇺🇸 English (Proficient)`    `🇮🇹 Italian (Intermediate)`
 
+![Chatgpt logo](/images/chatgpt.jpg "ChatGPT"){: .align-center width="53px"}
+![Markdown logo](/images/markdown.jpg "Markdown"){: .align-center width="83px"}
+![C++ logo](/images/c++.jpg "C++"){: .align-center width="50px"}
+![Python logo](/images/python.jpg "Python"){: .align-center width="55px"}
+![Java logo](/images/java.jpg "Java"){: .align-center width="42px"}
 `Skills:` Mastered in `ChatGPT`, `C/C++`, `Python`, `Java`, `Software R`, `SQL database`, `UML Diagram`, `Markdown`, `Stata`, `LaTeX`
-
-![Chatgpt logo](/images/chatgpt.jpg "ChatGPT"){: .align-mid width="53px"}
-![Markdown logo](/images/markdown.jpg "Markdown"){: .align-mid width="83px"}
-![C++ logo](/images/c++.jpg "C++"){: .align-mid width="50px"}
-![Python logo](/images/python.jpg "Python"){: .align-middle width="55px"}
-![Java logo](/images/java.jpg "Java"){: .align-mid width="42px"}
 
 `Certificates:` `TOEFL: 111(23)`, `European Computer Driving License (ECDL/ICDL)`, `Google Analytics
 Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Introduction to Data Science in Python by UMich (Coursera)`, `Entrepreneurship by UPenn (Coursera)`
 
-![Duke](/images/Coursera_duke.png "Programming Fundamentals"){: .align-left width="236px"}
-![Umich](/images/Coursera_umich.png "Introduction to Data Science in Python"){: .align-left width="236px"}
-![Upenn](/images/Coursera_upenn.png "Entrepreneurship"){: .align-left width="236px"}
+![Duke](/images/Coursera_duke.png "Programming Fundamentals"){: .align-center width="236px"}
+![Umich](/images/Coursera_umich.png "Introduction to Data Science in Python"){: .align-center width="236px"}
+![Upenn](/images/Coursera_upenn.png "Entrepreneurship"){: .align-center width="236px"}
 
 ![Billgates_logo](/images/billgates.png "Bill Gates"){: .align-right width="125px"}
 > **"The computer was born to solve problems that did not exist before."**
@@ -114,7 +113,7 @@ Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Intro
   <script>
     $(document).ready(function() {
       $('a[href="#top"]').click(function() {
-        $('html, body').animate({ scrollTop: 0 }, 'fast');
+        $('html, body').animate({ scrollTop: 0 }, 'slow');
         return false;
       });
     });
