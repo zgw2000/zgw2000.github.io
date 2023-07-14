@@ -93,7 +93,7 @@ processing (NLP) algorithm models, parameters tuning and uploaded them to the Do
 `Certificates:` `TOEFL: 111(23)`, `European Computer Driving License (ECDL/ICDL)`, `Google Analytics
 Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Introduction to Data Science in Python by UMich (Coursera)`, `Entrepreneurship by UPenn (Coursera)`
 
-| ![Duke](/images/Coursera_duke.png "Programming Fundamentals"){: width="px"} | ![Umich](/images/Coursera_umich.png "Introduction to Data Science in Python"){: width="px"} | ![Upenn](/images/Coursera_upenn.png "Entrepreneurship"){: width="px"} |
+| ![Duke](/images/Coursera_duke.png "Programming Fundamentals"){: width="1750px"} | ![Umich](/images/Coursera_umich.png "Introduction to Data Science in Python"){: width="1750px"} | ![Upenn](/images/Coursera_upenn.png "Entrepreneurship"){: width="1750px"} |
 |:---:|:---:|:---:|
 | [`Programming Fundamentals`](https://coursera.org/verify/GNZ2CF7BJN4T) | [`Introduction to Data Science in Python`](https://coursera.org/verify/RA8JUVZVCYVL) | [`Entrepreneurship`](coursera.org/verify/VUYN23DETEFD) | 
 
@@ -119,4 +119,3 @@ Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Intro
     });
   </script>
 
-<link rel="icon" href="images/favicon.ico" type="image/x-icon">
