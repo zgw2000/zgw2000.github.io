@@ -8,13 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-window.onload = function() {
-  var link = top.document.createElement("link");
-  link.type = "image/x-icon";
-  link.rel = "shortcut icon";
-  link.href = "/images/favicon.ico";
-  top.document.getElementsByTagName("head")[0].appendChild(link);
-}
+<link rel-"shortcut icon" type- "image/ico" href-"images/favicon.ico">
 
 <a id="top"></a>
 
@@ -110,6 +104,7 @@ Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Intro
 
 | ![Duke](/images/Coursera_duke.png "Programming Fundamentals") | ![Umich](/images/Coursera_umich.png "Introduction to Data Science in Python") | ![Upenn](/images/Coursera_upenn.png "Entrepreneurship") |
 |:---:|:---:|:---:|
+|  |  |  | 
 
 
 ![Billgates_logo](/images/billgates.png "Bill Gates"){: .align-right width="125px"}
