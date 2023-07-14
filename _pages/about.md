@@ -95,6 +95,10 @@ processing (NLP) algorithm models, parameters tuning and uploaded them to the Do
 ![C++ logo](/images/c++.jpg "C++"){: .align-center width="50px"}
 ![Python logo](/images/python.jpg "Python"){: .align-center width="55px"}
 ![Java logo](/images/java.jpg "Java"){: .align-center width="42px"}
+
+| ![Chatgpt logo](/images/chatgpt.jpg "ChatGPT") | ![Markdown logo](/images/markdown.jpg "Markdown") | ![C++ logo](/images/c++.jpg "C++") | ![Python logo](/images/python.jpg "Python") | ![Python logo](/images/python.jpg "Python")
+|:---:|:---:|:---:|:---:|:---:|
+|  |  |  |  |  |
 `Skills:` Mastered in `ChatGPT`, `C/C++`, `Python`, `Java`, `Software R`, `SQL database`, `UML Diagram`, `Markdown`, `Stata`, `LaTeX`
 
 `Certificates:` `TOEFL: 111(23)`, `European Computer Driving License (ECDL/ICDL)`, `Google Analytics
@@ -106,7 +110,7 @@ Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Intro
 
 | ![Duke](/images/Coursera_duke.png "Programming Fundamentals") | ![Umich](/images/Coursera_umich.png "Introduction to Data Science in Python") | ![Upenn](/images/Coursera_upenn.png "Entrepreneurship") |
 |:---:|:---:|:---:|
-|  |  |  |
+
 
 ![Billgates_logo](/images/billgates.png "Bill Gates"){: .align-right width="125px"}
 > **"The computer was born to solve problems that did not exist before."**
