@@ -870,7 +870,7 @@ Responsible for the combat logic. Each territory should have an instance of this
 
 ​		ii. Check if the move action is feasible
 
-> Click to read more on [`zgw2000/risc_game`]([https://en.wikipedia.org/wiki/Giuseppe_F._Italiano](https://github.com/zgw2000/risc_game) "see it on Github").
+> Click to read more on [`zgw2000/risc_game`](https://github.com/zgw2000/risc_game) "see it on Github").
 
 [<center>↑ BACK TO TOP ↑</center>](#top)
 
