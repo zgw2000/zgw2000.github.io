@@ -84,19 +84,19 @@ processing (NLP) algorithm models, parameters tuning and uploaded them to the Do
 
 `🇨🇳 Chinese Mandarin (Native)`    `🇺🇸 English (Proficient)`    `🇮🇹 Italian (Intermediate)`
 
-![Chatgpt logo](/images/chatgpt.jpg "ChatGPT"){: .align-right width="53px"}
-![Markdown logo](/images/markdown.jpg "Markdown"){: .align-right width="83px"}
-![C++ logo](/images/c++.jpg "C++"){: .align-right width="50px"}
-![Python logo](/images/python.jpg "Python"){: .align-right width="55px"}
-![Java logo](/images/java.jpg "Java"){: .align-right width="42px"}
+![Chatgpt logo](/images/chatgpt.jpg "ChatGPT"){: .align-middle width="53px"}
+![Markdown logo](/images/markdown.jpg "Markdown"){: .align-middle width="83px"}
+![C++ logo](/images/c++.jpg "C++"){: .align-middle width="50px"}
+![Python logo](/images/python.jpg "Python"){: .align-middle width="55px"}
+![Java logo](/images/java.jpg "Java"){: .align-middle width="42px"}
 `Skills:` Mastered in `ChatGPT`, `C/C++`, `Python`, `Java`, `Software R`, `SQL database`, `UML Diagram`, `Markdown`, `Stata`, `LaTeX`
 
 `Certificates:` `TOEFL: 111(23)`, `European Computer Driving License (ECDL/ICDL)`, `Google Analytics
 Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Introduction to Data Science in Python by UMich (Coursera)`, `Entrepreneurship by UPenn (Coursera)`
 
-![Duke](/images/Coursera_duke.png "Programming Fundamentals"){: .align-left width="250px"}
-![Umich](/images/Coursera_umich.png "Introduction to Data Science in Python"){: .align-left width="250px"}
-![Upenn](/images/Coursera_upenn.png "Entrepreneurship"){: .align-left width="250px"}
+![Duke](/images/Coursera_duke.png "Programming Fundamentals"){: .align-left width="240px"}
+![Umich](/images/Coursera_umich.png "Introduction to Data Science in Python"){: .align-left width="240px"}
+![Upenn](/images/Coursera_upenn.png "Entrepreneurship"){: .align-left width="240px"}
 
 ![Billgates_logo](/images/billgates.png "Bill Gates"){: .align-right width="125px"}
 > **"The computer was born to solve problems that did not exist before."**
