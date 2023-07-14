@@ -13,6 +13,13 @@ redirect_from:
 <a id="top"></a>
 
 ------
+
+<div align="center">
+  <style>
+    .code-box {
+      width: 50%;
+    }
+  </style>
   
 ```cpp
 #include <iostream>
