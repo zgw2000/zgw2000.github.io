@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<link rel-"shortcut icon" type- "image/ico" href-"images/favicon.ico">
 
 <a id="top"></a>
 
@@ -92,6 +91,7 @@ processing (NLP) algorithm models, parameters tuning and uploaded them to the Do
 
 | ![Chatgpt logo](/images/chatgpt.jpg "ChatGPT") | ![Markdown logo](/images/markdown.jpg "Markdown") | ![C++ logo](/images/c++.jpg "C++") | ![Python logo](/images/python.jpg "Python") | ![Java logo](/images/java.jpg "Java") |
 |:---:|:---:|:---:|:---:|:---:|
+| ChatGPT | Markdown | C++ | Python | Java | 
 
 
 `Skills:` Mastered in `ChatGPT`, `C/C++`, `Python`, `Java`, `Software R`, `SQL database`, `UML Diagram`, `Markdown`, `Stata`, `LaTeX`
@@ -105,7 +105,7 @@ Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Intro
 
 | ![Duke](/images/Coursera_duke.png "Programming Fundamentals") | ![Umich](/images/Coursera_umich.png "Introduction to Data Science in Python") | ![Upenn](/images/Coursera_upenn.png "Entrepreneurship") |
 |:---:|:---:|:---:|
-|  |  |  | 
+| Programming Fundamentals | Introduction to Data Science in Python | Entrepreneurship | 
 
 
 ![Billgates_logo](/images/billgates.png "Bill Gates"){: .align-right width="125px"}
