@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<link href="/images/favicon.ico" rel="icon">
+window.onload = function() {
+  var link = top.document.createElement("link");
+  link.type = "image/x-icon";
+  link.rel = "shortcut icon";
+  link.href = "/images/favicon.ico";
+  top.document.getElementsByTagName("head")[0].appendChild(link);
+}
 
 <a id="top"></a>
 
@@ -97,6 +103,11 @@ Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Intro
 ![Duke](/images/Coursera_duke.png "Programming Fundamentals"){: .align-center width="236px"}
 ![Umich](/images/Coursera_umich.png "Introduction to Data Science in Python"){: .align-center width="236px"}
 ![Upenn](/images/Coursera_upenn.png "Entrepreneurship"){: .align-center width="236px"}
+
+| ![Duke](/images/Coursera_duke.png "Programming Fundamentals") | ![Umich](/images/Coursera_umich.png "Introduction to Data Science in Python") | ![Upenn](/images/Coursera_upenn.png "Entrepreneurship") |
+|:---:|:---:|:---:|
+| Caption 1 | Caption 2 | Caption 3 |
+
 
 ![Billgates_logo](/images/billgates.png "Bill Gates"){: .align-right width="125px"}
 > **"The computer was born to solve problems that did not exist before."**
