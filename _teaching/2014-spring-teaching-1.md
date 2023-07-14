@@ -24,7 +24,7 @@ The goal of this course is to get you familiarize with basic statistical methods
 Syllabus
 ======
 ```
-**Simple Data Analysis (Week 1)**
+Simple Data Analysis (Week 1)
 
 Readings: Intro Stats Chapter 1, 2.1, 2.2, 2.3, and Chapter 3.
 
@@ -37,7 +37,7 @@ Topics covered:
 
 Homework 1 Given
 
-**Distributions (Week 2)**
+Distributions (Week 2)
 
 Readings: Intro Stats Chapter 2.3 to 2.5, Chapter 4, Chapter 5
 
@@ -57,7 +57,7 @@ Topics covered:
 
 Homework 2 Given
 
-**Statistical Inferences (Weeks 3 & 4)**
+Statistical Inferences (Weeks 3 & 4)
 
 Readings for Week 3 : Intro Stats Chapter 18, 19 & 22
 Readings for Week 4 : Intro Stats Chapter 23, 24 & 25
@@ -77,16 +77,16 @@ Topics covered:
 Homework 3 Given
 Homework 4 Given
 
-**Relationships Between Variables (Weeks 5 & 6)**
+Relationships Between Variables (Weeks 5 & 6)
 
-**Association and Correlation (Week 5)**
+Association and Correlation (Week 5)
 
 Topics covered:
 •	Scatterplots
 •	Correlations
 •	Does correlation imply causation?
 
-**Simple Linear Regression (Week 5)**
+Simple Linear Regression (Week 5)
 
 Topics covered:
 •	Line of best fit: least squares
@@ -96,7 +96,7 @@ Topics covered:
 
 Homework 5 Given 
 
-**Multiple Regression (Week 6)**
+Multiple Regression (Week 6)
 
 Topics covered:
 •	What is multiple regression?
@@ -106,7 +106,7 @@ Topics covered:
 
 Homework 6 Given 
 
-**Week 7**
+Week 7
 	
 Topics covered:
 •	Review
