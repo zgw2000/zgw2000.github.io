@@ -23,6 +23,7 @@ The goal of this course is to get you familiarize with basic statistical methods
 
 Syllabus
 ======
+```
 **Simple Data Analysis (Week 1)**
 
 Readings: Intro Stats Chapter 1, 2.1, 2.2, 2.3, and Chapter 3.
@@ -112,3 +113,4 @@ Topics covered:
 •	Prep for Final
 
 Final Exam
+```
