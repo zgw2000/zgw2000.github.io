@@ -111,11 +111,10 @@ Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Intro
 > **"Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination."**
 >> `— Albert Einstein`
 
-> **Note**
-> This is a note
-
-| :exclamation:  This is very important   |
-|-----------------------------------------|
+! This is an info message.
+!v This is a success message.
+!! Consider this a warning.
+!x This is an error message.
 
 [<center>↑ BACK TO TOP ↑</center>](#top)
 
