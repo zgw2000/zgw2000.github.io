@@ -95,9 +95,9 @@ processing (NLP) algorithm models, parameters tuning and uploaded them to the Do
 Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Introduction to Data Science in Python by UMich (Coursera)`, `Entrepreneurship by UPenn (Coursera)`
 
 <div style="display: flex; justify-content: center;">
-  <img src="/images/Coursera_duke.png" alt="Programming Fundamentals" style="margin: 0 10px;">
-  <img src="/images/Coursera_umich.png" alt="Introduction to Data Science in Python" style="margin: 0 10px;">
-  <img src="/images/Coursera_upenn.png" alt="Entrepreneurship" style="margin: 0 10px;">
+  <img src="/images/Coursera_duke.png" alt="Programming Fundamentals" style="width: 200px; margin: 0 10px;">
+  <img src="/images/Coursera_umich.png" alt="Introduction to Data Science in Python" style="width: 200px; margin: 0 10px;">
+  <img src="/images/Coursera_upenn.png" alt="Entrepreneurship" style="width: 200px; margin: 0 10px;">
 </div>
 
 
