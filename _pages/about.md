@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<link rel="icon" href="images/favicon.ico" type="image/x-icon">
-
 <a id="top"></a>
 
 ------
@@ -27,7 +25,7 @@ redirect_from:
 
 > Click to read more about my mentor [`Giuseppe F. Italiano`](https://en.wikipedia.org/wiki/Giuseppe_F._Italiano) and his [`Google Scholar`](https://scholar.google.com/citations?hl=zh-CN&user=6jiwt-UAAAAJ).
 
-<h1 align = "center">🎓 Education background 🎓</h1>
+<h1 align = "center">🎓 Education Background 🎓</h1>
 ------
 ![Duke logo](/images/duke.jpg "Duke University"){: .align-right width="350px"}
 
@@ -77,7 +75,7 @@ processing (NLP) algorithm models, parameters tuning and uploaded them to the Do
 - Consulted for consumer and retail companies, providing professional data analytics services with Python toolkits. Identified optimal product portfolios and market shares, improving business performance by 87% and program efficiency by 30%.
 - Constructed comprehensive data visualization reports for clients, demonstrating strong leadership and involvement in successful project delivery. Resulted in high levels of satisfaction and positive feedback from clients.
 
-<h1 align = "center">📌 Additional information 📌</h1>
+<h1 align = "center">📌 Additional Information 📌</h1>
 ------
 
 `Languages:`
@@ -94,10 +92,6 @@ processing (NLP) algorithm models, parameters tuning and uploaded them to the Do
 
 `Certificates:` `TOEFL: 111(23)`, `European Computer Driving License (ECDL/ICDL)`, `Google Analytics
 Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Introduction to Data Science in Python by UMich (Coursera)`, `Entrepreneurship by UPenn (Coursera)`
-
-![Duke](/images/Coursera_duke.png "Programming Fundamentals"){: .align-center width="236px"}
-![Umich](/images/Coursera_umich.png "Introduction to Data Science in Python"){: .align-center width="236px"}
-![Upenn](/images/Coursera_upenn.png "Entrepreneurship"){: .align-center width="236px"}
 
 | ![Duke](/images/Coursera_duke.png "Programming Fundamentals") | ![Umich](/images/Coursera_umich.png "Introduction to Data Science in Python") | ![Upenn](/images/Coursera_upenn.png "Entrepreneurship") |
 |:---:|:---:|:---:|
@@ -125,3 +119,4 @@ Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Intro
     });
   </script>
 
+<link rel="icon" href="images/favicon.ico" type="image/x-icon">
