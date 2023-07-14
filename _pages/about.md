@@ -13,7 +13,6 @@ redirect_from:
 <a id="top"></a>
 
 ------
-<div align="center">
   
 ```cpp
 #include <iostream>
@@ -23,7 +22,6 @@ int main() {
     return 0;
 }
 ```
-</div>
 
 <h1 align = "center">👋🏻 Hello there, I'm Guowang (Tom)!👋🏻</h1>
 
