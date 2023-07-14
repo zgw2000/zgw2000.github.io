@@ -95,14 +95,12 @@ processing (NLP) algorithm models, parameters tuning and uploaded them to the Do
 Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Introduction to Data Science in Python by UMich (Coursera)`, `Entrepreneurship by UPenn (Coursera)`
 
 <div style="display: flex; justify-content: center;">
-  <img src="/images/Coursera_duke.png" alt="Programming Fundamentals" style="width: 200px; margin: 10 10px;">
-  <img src="/images/Coursera_umich.png" alt="Introduction to Data Science in Python" style="width: 200px; margin: 10 10px;">
-  <img src="/images/Coursera_upenn.png" alt="Entrepreneurship" style="width: 200px; margin: 10 10px;">
+  <img src="/images/Coursera_duke.png" alt="Programming Fundamentals" style="width: 250px; margin: 10 10px;">
+  <img src="/images/Coursera_umich.png" alt="Introduction to Data Science in Python" style="width: 250px; margin: 10 10px;">
+  <img src="/images/Coursera_upenn.png" alt="Entrepreneurship" style="width: 250px; margin: 10 10px;">
 </div>
 
-.image-class {
-  margin: 0 auto;
-}
+
 
 
 ![Billgates_logo](/images/billgates.png "Bill Gates"){: .align-right width="125px"}
