@@ -17,8 +17,10 @@ redirect_from:
 ```cpp
 #include <iostream>
 
+using namespace std;
+
 int main() {
-    std::cout << 👋🏻 Hello there, I'm Guowang (Tom)!👋🏻 << std::endl;
+    cout << 	Eruditio et Religio << endl;
     return 0;
 }
 ```
