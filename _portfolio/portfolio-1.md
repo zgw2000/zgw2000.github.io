@@ -1,7 +1,7 @@
 ---
 title: "RISC Game"
 excerpt: "The Java RISK Game Project is a five-person team project based on Java to replicate the classic strategy game RISK. The project implements the core functions and game rules of the original RISK game through the Java language, while optimizing the game experience and providing a user-friendly interface. This project can be used as a practical case study for learning Java language programming, object-oriented programming, and game development.br/><img src='/images/RISC_evo1.drawio.png'>"
-collection: portfolio
+collection: project
 ---
 <a id="top"></a>
 
@@ -870,7 +870,7 @@ Responsible for the combat logic. Each territory should have an instance of this
 
 ​		ii. Check if the move action is feasible
 
-> Click to read more on [`zgw2000/risc_game`](https://github.com/zgw2000/risc_game) "see it on Github").
+> Click to read more on [`zgw2000/risc_game`](https://github.com/zgw2000/risc_game "see it on Github").
 
 [<center>↑ BACK TO TOP ↑</center>](#top)
 
