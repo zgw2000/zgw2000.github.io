@@ -20,7 +20,7 @@ redirect_from:
 using namespace std;
 
 int main() {
-    cout << 	Eruditio et Religio << endl;
+    cout << Eruditio et Religio << endl;
     return 0;
 }
 ```
