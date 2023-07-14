@@ -90,9 +90,10 @@ processing (NLP) algorithm models, parameters tuning and uploaded them to the Do
 ![Python logo](/images/python.jpg "Python"){: .align-center width="55px"}
 ![Java logo](/images/java.jpg "Java"){: .align-center width="42px"}
 
-| ![Chatgpt logo](/images/chatgpt.jpg "ChatGPT") | ![Markdown logo](/images/markdown.jpg "Markdown") | ![C++ logo](/images/c++.jpg "C++") | ![Python logo](/images/python.jpg "Python") | ![Python logo](/images/python.jpg "Python")
+| ![Chatgpt logo](/images/chatgpt.jpg "ChatGPT") | ![Markdown logo](/images/markdown.jpg "Markdown") | ![C++ logo](/images/c++.jpg "C++") | ![Python logo](/images/python.jpg "Python") | ![Java logo](/images/java.jpg "Java") |
 |:---:|:---:|:---:|:---:|:---:|
-|  |  |  |  |  |
+
+
 `Skills:` Mastered in `ChatGPT`, `C/C++`, `Python`, `Java`, `Software R`, `SQL database`, `UML Diagram`, `Markdown`, `Stata`, `LaTeX`
 
 `Certificates:` `TOEFL: 111(23)`, `European Computer Driving License (ECDL/ICDL)`, `Google Analytics
