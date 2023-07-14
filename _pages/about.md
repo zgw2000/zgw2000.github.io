@@ -14,12 +14,6 @@ redirect_from:
 
 ------
 
-<div align="center">
-  <style>
-    .code-box {
-      width: 50%;
-    }
-  </style>
   
 ```cpp
 #include <iostream>
