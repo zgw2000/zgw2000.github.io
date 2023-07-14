@@ -498,6 +498,7 @@ POST /act/attack/
 ```
 
 ##### Response Format 
+
 | Parameter name | type | comments                         |
 | -------------- | ---- | -------------------------------- |
 | Success        | bool | Indicate if the operation succed |
