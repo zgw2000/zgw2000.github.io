@@ -622,6 +622,7 @@ POST /act/upgrade_tech/
 POST /act/commit/
 ```
 ##### Request Format:
+
 | Parameter name | type   | comments                                |
 | -------------- | ------ | --------------------------------------- |
 | username       | String | username, unique for one player         |
@@ -634,6 +635,7 @@ POST /act/commit/
 }
 ```
 ##### Response Format:
+
 | Parameter name | type     | comments                                                          |
 |----------------|----------|-------------------------------------------------------------------|
 | PlayerInfo     | Player   | Information of players                                            |
