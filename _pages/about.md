@@ -23,7 +23,7 @@ redirect_from:
 
 `🧢 My background is diverse. I attended Dearborn Elementary Academy in Los Angeles for six months as a visiting scholar with my parents at California State. The rest of my education took place in Beijing, China. During my undergraduate studies, I pursued degrees in Management and Computer Science at LUISS University in Rome, Italy, under the guidance of Italian computer scientist Giuseppe F. Italiano. In the fall of 2022, I enrolled in Duke University Pratt School of Engineering to continue my studies in Computer Engineering.`
 
-> Click to read more about my mentor [`Giuseppe F. Italiano`](https://en.wikipedia.org/wiki/Giuseppe_F._Italiano) and his [`Google Scholar`](https://scholar.google.com/citations?hl=zh-CN&user=6jiwt-UAAAAJ).
+> Click to read more about my mentor [`Giuseppe F. Italiano`](https://en.wikipedia.org/wiki/Giuseppe_F._Italiano "see it on Wikipedia") and his [`Google Scholar`](https://scholar.google.com/citations?hl=zh-CN&user=6jiwt-UAAAAJ).
 
 <h1 align = "center">🎓 Education Background 🎓</h1>
 ------
@@ -95,7 +95,7 @@ Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Intro
 
 | ![Duke](/images/Coursera_duke.png "Programming Fundamentals") | ![Umich](/images/Coursera_umich.png "Introduction to Data Science in Python") | ![Upenn](/images/Coursera_upenn.png "Entrepreneurship") |
 |:---:|:---:|:---:|
-| [`Programming Fundamentals`](https://coursera.org/verify/GNZ2CF7BJN4T "Duke") | [`Introduction to Data Science in Python`](https://coursera.org/verify/RA8JUVZVCYVL) | [`Entrepreneurship`](coursera.org/verify/VUYN23DETEFD) | 
+| [`Programming Fundamentals`](https://coursera.org/verify/GNZ2CF7BJN4T) | [`Introduction to Data Science in Python`](https://coursera.org/verify/RA8JUVZVCYVL) | [`Entrepreneurship`](coursera.org/verify/VUYN23DETEFD) | 
 
 
 ![Billgates_logo](/images/billgates.png "Bill Gates"){: .align-right width="125px"}
