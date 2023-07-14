@@ -1,10 +1,8 @@
 ---
 title: "RISC Game"
-excerpt: "The Java RISK Game Project is a five-person team project based on Java to replicate the classic strategy game RISK. The project implements the core functions and game rules of the original RISK game through the Java language, while optimizing the game experience and providing a user-friendly interface. This project can be used as a practical case study for learning Java language programming, object-oriented programming, and game development.<br/><img src='/images/500x300.png'>"
+excerpt: "The Java RISK Game Project is a five-person team project based on Java to replicate the classic strategy game RISK. The project implements the core functions and game rules of the original RISK game through the Java language, while optimizing the game experience and providing a user-friendly interface. This project can be used as a practical case study for learning Java language programming, object-oriented programming, and game development.<br/><img src='/images/RISC_evo1.drawio.png'>"
 collection: portfolio
 ---
-
-# RISC Game
 
 **Quanzhi Fu, Yiheng Liu, Tianji Qiang, Ziyi Yang, Guowang Zeng**
 
@@ -33,7 +31,7 @@ This project can be used as a practical case study for learning Java language pr
 
 ### Evo 1 Design
 
-![State Machine EVO1.drawio.png](README.assets/State_Machine_EVO1.drawio.png)
+![State Machine EVO1.drawio.png](images/State_Machine_EVO1.drawio.png)
 
 #### (1) Start Phase
 
@@ -210,7 +208,7 @@ Same as start stage but without unitAvailable
 
 ### Evo 2 Design
 
-![State Machine EVO2.drawio.png](README.assets/State_Machine_EVO2.drawio.png)
+![State Machine EVO2.drawio.png](images/State_Machine_EVO2.drawio.png)
 
 #### (1) Login Phase
 
@@ -760,7 +758,7 @@ Resource
 
 The UML class diagram of our design is shown below:
 
-![](README.assets/RISC_evo1.drawio.png)
+![](images/RISC_evo1.drawio.png)
 
 #### Sub-module A. Front-End (client)
 
