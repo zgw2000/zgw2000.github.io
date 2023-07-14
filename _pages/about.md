@@ -94,14 +94,9 @@ processing (NLP) algorithm models, parameters tuning and uploaded them to the Do
 `Certificates:` `TOEFL: 111(23)`, `European Computer Driving License (ECDL/ICDL)`, `Google Analytics
 Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Introduction to Data Science in Python by UMich (Coursera)`, `Entrepreneurship by UPenn (Coursera)`
 
-<div style="display: flex; justify-content: center;">
-  <img src="/images/Coursera_duke.png" alt="Programming Fundamentals" style="width: 250px; margin: 10 10px;">
-  <img src="/images/Coursera_umich.png" alt="Introduction to Data Science in Python" style="width: 250px; margin: 10 10px;">
-  <img src="/images/Coursera_upenn.png" alt="Entrepreneurship" style="width: 250px; margin: 10 10px;">
-</div>
-
-
-
+![Duke](/images/Coursera_duke.png "Programming Fundamentals"){: .align-left width="250px"}
+![Umich](/images/Coursera_umich.png "Introduction to Data Science in Python"){: .align-left width="250px"}
+![Upenn](/images/Coursera_upenn.png "Entrepreneurship"){: .align-left width="250px"}
 
 ![Billgates_logo](/images/billgates.png "Bill Gates"){: .align-right width="125px"}
 > **"The computer was born to solve problems that did not exist before."**
