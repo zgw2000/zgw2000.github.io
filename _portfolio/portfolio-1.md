@@ -1,19 +1,20 @@
 ---
 title: "RISC Game"
-excerpt: "The Java RISK Game Project is a five-person team project based on Java to replicate the classic strategy game RISK. The project implements the core functions and game rules of the original RISK game through the Java language, while optimizing the game experience and providing a user-friendly interface. This project can be used as a practical case study for learning Java language programming, object-oriented programming, and game development.<br/><img src='/images/RISC_evo1.drawio.png'>"
+excerpt: "The Java RISK Game Project is a five-person team project based on Java to replicate the classic strategy game RISK. The project implements the core functions and game rules of the original RISK game through the Java language, while optimizing the game experience and providing a user-friendly interface. This project can be used as a practical case study for learning Java language programming, object-oriented programming, and game development.br/><img src='/images/RISC_evo1.drawio.png'>"
 collection: portfolio
 ---
+<a id="top"></a>
 
 **Quanzhi Fu, Yiheng Liu, Tianji Qiang, Ziyi Yang, Guowang Zeng**
 
 
 
 ## 1. Project Info
-
+```
 The Java RISK Game Project is a five-person team project based on Java to replicate the classic strategy game RISK. 
 The project implements the core functions and game rules of the original RISK game through the Java language, while optimizing the game experience and providing a user-friendly interface. 
 This project can be used as a practical case study for learning Java language programming, object-oriented programming, and game development.
-
+```
 
 
 ## 2. Version Info
@@ -31,7 +32,7 @@ This project can be used as a practical case study for learning Java language pr
 
 ### Evo 1 Design
 
-![State Machine EVO1.drawio.png](images/State_Machine_EVO1.drawio.png)
+![State Machine EVO1.drawio.png](/images/State_Machine_EVO1.drawio.png)
 
 #### (1) Start Phase
 
@@ -208,7 +209,7 @@ Same as start stage but without unitAvailable
 
 ### Evo 2 Design
 
-![State Machine EVO2.drawio.png](images/State_Machine_EVO2.drawio.png)
+![State Machine EVO2.drawio.png](/images/State_Machine_EVO2.drawio.png)
 
 #### (1) Login Phase
 
@@ -758,7 +759,7 @@ Resource
 
 The UML class diagram of our design is shown below:
 
-![](images/RISC_evo1.drawio.png)
+![](/images/RISC_evo1.drawio.png)
 
 #### Sub-module A. Front-End (client)
 
@@ -861,3 +862,15 @@ Responsible for the combat logic. Each territory should have an instance of this
 ​		i. Check if adjacency of the attack command
 
 ​		ii. Check if the move action is feasible
+
+[<center>↑ BACK TO TOP ↑</center>](#top)
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+    $(document).ready(function() {
+      $('a[href="#top"]').click(function() {
+        $('html, body').animate({ scrollTop: 0 }, 'slow');
+        return false;
+      });
+    });
+  </script>
