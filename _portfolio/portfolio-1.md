@@ -589,11 +589,14 @@ POST /act/upgrade_tech/
 | Player ID      | int    | Player's Identity |
 | UserName       | String | name of the user  |
 | RoomId         | int    | room id           |
-    {
-        "UserName" : "Player1",
-    	"RoomId" : 1,
-    	"PlayerId" : 0,
-    }
+
+```json
+{
+    "UserName" : "Player1",
+    "RoomId" : 1,
+    "PlayerId" : 0,
+}
+```
 
 ##### Response Format 
 
@@ -623,6 +626,7 @@ POST /act/commit/
 | -------------- | ------ | --------------------------------------- |
 | username       | String | username, unique for one player         |
 | roomids        | []int  | roomid available to join for the player |
+
 ```json
 {
     "Username": "qf37",
