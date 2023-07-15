@@ -18,6 +18,7 @@ Infectious diseases are a long-standing social and natural phenomenon that has b
 ### Models
 
 **SIR model:**
+<br/>
 The SIR model we are familiar with is based on the following relationship between total number **N**, number of infections **I**, susceptible number **S**, number of patients recovered **R** and time t in endemic areas:
 
 ![SIR](/images/sir.png){: .align-center}
@@ -67,6 +68,7 @@ where alpha is a parameter whose value is typically in the range (2,3).
 The idea of scale-free networks is that, within the system, there are few important nodes that give robustness to the structure, while the majority of nodes are not as indispensable.
 <br/>
 **Small-world network:**
+<br/>
 A small-world network is a type of mathematical graph in which most nodes are not neighbors of one another, but the neighbors of any given node are likely to be neighbors of each other and most nodes can be reached from every other node by a small number of hops or steps. Specifically, a small-world network is defined to be a network where the typical distance L between two randomly chosen nodes (the number of steps required) grows proportionally to the logarithm of the number of nodes N in the network, that is:
 
 $$L\propto logN$$
@@ -74,6 +76,7 @@ $$L\propto logN$$
 A certain category of small-world networks was identified as a class of random graphs by Duncan Watts and Steven Strogatz in 1998. They noted that graphs could be classified according to two independent structural features, namely the clustering coefficient, and average node-to-node distance (also known as average shortest path length). Purely random graphs built according to the Erdős–Rényi (ER) model, exhibit a small average shortest path length (varying typically as the logarithm of the number of nodes) along with a small clustering coefficient. Watts and Strogatz measured that in fact many real-world networks have a small average shortest path length, but also a clustering coefficient significantly higher than expected by random chance. Watts and Strogatz then proposed a novel graph model, currently named the Watts and Strogatz model, with (i) a small average shortest path length, and (ii) a large clustering coefficient. 
 
 ### Assumption
+
 The “lab” environment I’m going to consider is a population of 100 individuals, numbered from 0 to 99. Regarding the type of network, I decided to use the “small world” network represents the trajectory of human activity in a city, while “Preferential attachment” network” represents the trajectory of human keeping in social distance when m=1 or gathering activity in a city when m=3 (bar, parade, concert, club, football match, etc).
 
 | ![model1](/images/model1.png) | ![model2](/images/model2.png) | ![model3](/images/model3.png) |
@@ -81,14 +84,17 @@ The “lab” environment I’m going to consider is a population of 100 individ
 | Figure 1: Watts Strogatz graph (small-world). With n=100, k=4, p=0.6 | Figure 2.1: Barabasi Albert graph. With n=100, m=1 | Figure 2.2: Barabasi Albert graph. With n=100, m=3 |
 
 **Hypothesis1 (Diffusion of infection):**
+<br/>
 Fixed R0 > 1 (Beta/Gamma stay constant), set 1 infected individual randomly. The propagation speed of the Preferential Attachment model will be higher than that of the Small-world model when m increased. Namely, the PA model of contagious will strengthen the rate of transmission of the virus when m increased. We set an assumption that with Barabasi Albert graph when n=100, m=1 as a situation that each individual is keeping social distance and lockdown measures. And m=3 regard as high clustering activities. While small-world model with k=4 and p=0.6 regard as the situation closest to reality which stands for each individual has most 4 connected relations (parents and best friends).
 <br/>
 **Hypothesis2 (Extinction of infection):**
+<br/>
 Fixed R0 < 1 (Beta/Gamma stay constant), set 10 infected individuals randomly. The reduction of R0 can effectively reduce the rate of infection of the disease. When R0 <1, the number of people infected reaches to a peak and gradually vanished. There are several measures can reduce Beta and increase Gamma, such as giving better treatment to the patient and wearing masks etc.
 
 ## Results
 
 **Diffusion of infection:**
+<br/>
 By using the EoN (Epidemics on Networks) module in Python3 to apply the SIR model simulation.
 
 ![model1](/images/model1.gif){: .align-center}
@@ -110,6 +116,7 @@ As we can see, from the SIR curve on the right, the spread of the virus is expon
 As we can see, under this model, the virus spreads very quickly. All of them were infected at iteration 2, and the SIR curve on the right, the spread of virus is dramatically increasing.
 <br/>
 **Extinction of infection:**
+<br/>
 By using the EoN (Epidemics on Networks) module in Python3 to apply the SIR model simulation.
 
 ![model4](/images/model4.gif){: .align-center}
@@ -120,7 +127,7 @@ As we can see, at iteration 1, the infected individuals reached to a peak. After
 
 ## Conclusion
 > Unsurprisingly, the diffusion of infection shows that preventive measures like social distancing and lockdown are indeed effective. The Barabasi Albert graph with the lower m value is the ideal scenario to handle a pandemic with a high infection rate. The nodes have low connectivity, but they’re still connected and somewhat clustered. Simply put, the majority is following the social distancing guidelines and distancing their groups (family, workplace, dormitory, etc)
-<br/>
+> 
 > On top of that, the Watts Strogatz model (small-world) is the normal interactions, maybe with basic preventive measurements advised, but not mandate. The spread is slower compared to the prior model, but we also notice a very important point in utilizing them: They are only effective when everyone’s following them. When people don’t respect the guidelines given by health officials, they are also undermining the efforts of others who follow them.
 We can consider the Barabasi Albert graph with the larger m value an environment where people are actively socializing. This could simulate an area with a younger demographic, where the nightlife and events are more extensively held. All the nodes are highly connected, and the spread of the virus is exponential. It only took 1 iteration for the virus to infect the majority of the population.
 > 
