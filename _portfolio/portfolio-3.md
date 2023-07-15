@@ -21,7 +21,15 @@ Infectious diseases are a long-standing social and natural phenomenon that has b
 
 ![SIR](/images/sir.png){: .align-center}
 
-\frac{{dI}}{{dt}} = \beta \cdot I \cdot S \cdot \frac{1}{{N}} - \gamma \cdot I
+
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
 
 
 
