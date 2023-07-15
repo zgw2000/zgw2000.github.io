@@ -138,8 +138,9 @@ We can consider the Barabasi Albert graph with the larger m value an environment
 
 ## Reference
 
-Here's a sentence with a footnote. [^1]
-[^1]: This is the footnote.
+Here is a simple footnote[^1]. With some additional text after it.
+
+[^1]: My reference.
 
 > Click to see more info at [`zgw2000/risc_game`](https://github.com/zgw2000/risc_game "see it on Github").
 
