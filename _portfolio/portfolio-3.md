@@ -29,7 +29,7 @@ $$\frac{dI}{dt}=\beta\frac{IS}{N}-\gamma I$$
 $$\frac{dR}{dt}=\gamma I$$
 
 The parameters in these equations β and γ constants, reflecting the characteristics of a particular outbreak.
-<br/>
+</br>
 Early in the spread of the epidemic, since the first susceptible population is the total number of people, namely S ≈ N, we can simplify the relationship between the number of infected people I and time t:
 
 $$\frac{dI}{dt}=\beta\frac{IS}{N}-\gamma I\approx\left(\beta-\gamma\right)I$$
@@ -94,28 +94,28 @@ By using the EoN (Epidemics on Networks) module in Python3 to apply the SIR mode
 ![model1](/images/model1.gif){: .align-center}
 
 <div align="center">Barabasi Albert graph. With n=100, m=1. Iteration 0, iteration 5, iteration 10 and iteration 15</div>
-
+</br>
 As we can see, from iteration 0 to iteration 5, The spread of the virus has slowed down. At the final iteration, there are still certain proportion of 100 individuals remain susceptible and the virus has stopped spreading.
 
 ![model2](/images/model2.gif){: .align-center}
 
 <div align="center">Watts Strogatz graph (small-world). With n=100, k=4, p=0.6, set 1 infected node randomly. Iteration 0, iteration 1, iteration 2 and iteration 3</div>
-
+</br>
 As we can see, from the SIR curve on the right, the spread of the virus is exponential, and under this model, almost 95% of the 100 individuals have been infected at iteration 3.
 
 ![model3](/images/model3.gif){: .align-center}
 
 <div align="center">Barabasi Albert graph. With n=100, m=3, set 1 infected node randomly. Iteration 0, iteration 1, iteration 2 and iteration 3</div>
-
+</br>
 As we can see, under this model, the virus spreads very quickly. All of them were infected at iteration 2, and the SIR curve on the right, the spread of virus is dramatically increasing.
-
+</br>
 **Extinction of infection:**
 By using the EoN (Epidemics on Networks) module in Python3 to apply the SIR model simulation.
 
 ![model4](/images/model4.gif){: .align-center}
 
 <div align="center">Watts Strogatz graph (small-world). With n=100, k=4, p=0.6, set 10 infected nodes randomly. Iteration 0, iteration 1, iteration 4 and iteration 8</div>
-
+</br>
 As we can see, at iteration 1, the infected individuals reached to a peak. After iteration 1, the infected individuals began to decrease. No more infected individuals at iteration 8 and remain large proportion of 100 individuals remain susceptible and the virus has stopped spreading.
 
 ## Conclusion
