@@ -138,10 +138,8 @@ We can consider the Barabasi Albert graph with the larger m value an environment
 
 ## Reference
 
-
-- [1] [百度学术](http://xueshu.baidu.com/)
-- [2] [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
-
+Here's a sentence with a footnote. [^1]
+[^1]: This is the footnote.
 
 > Click to see more info at [`zgw2000/risc_game`](https://github.com/zgw2000/risc_game "see it on Github").
 
