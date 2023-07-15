@@ -7,7 +7,6 @@ collection: portfolio
 
 **Alessio Barboni, Miro Confalone, Guowang Zeng**
 
-```
 The goal of this project is building a system able to predict judicial decisions with the intent of showing to what extent these are predictable. The dataset and the starting point are taken from Judicial decisions of the European Court of Human Rights: Looking into the crystal ball, a paper written by Medvedeva et al. The paper is available [`here`](http://martijnwieling.nl/files/Medvedeva-submitted.pdf).
 
 The dataset contains all english cases available on 09/2017 from both the Chamber and the Grand Chamber, without making a distinction between these two. Being closed cases labels are present, thus it is a supervised learning problem. The task consists in classifying violation or non-violation for 14 different articles of ECHR.
@@ -15,7 +14,6 @@ The dataset contains all english cases available on 09/2017 from both the Chambe
 Their approach was basically to train 9 different binary classifiers using Support Vector Machines, one per article (only 9 because some of them did not have enough instances for training), to assess if there was a violation or non-violation. The training set was built using the same number of random cases for the two classes (a sort of stratified sampling with 50%-50%). Many information were removed from the text of the articles, for example specific sections like the part containing the final decision (that could be explicit) or other informations not available until the trial ended. The test sets contain only one class, i.e. violation for all articles except the 14th (because there are not enough violation cases available). Notwithstanding this the task is still to build a model able to classify between the two classes rather than just identifying if it belong to that single class or not.
 
 First we showed performances of the "model 0" that is downloadable from [`here`](https://github.com/masha-medvedeva/ECtHR_crystal_ball/blob/master/src/Experiment_1/pipeline_exp1.ipynb), then we applied some additional preprocessing techniques showing improvements in the accuracy, we tried a Naive Bayes approach (i.e. MultinomialNB) and at the end an Embedding approach (i.e. Doc2Vec).
-```
 
 ```python
 #Model 0
