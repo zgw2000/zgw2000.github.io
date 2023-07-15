@@ -90,7 +90,6 @@ Fixed R0 > 1 (Beta/Gamma stay constant), set 1 infected individual randomly. The
 <br/>
 <br/>
 **Hypothesis2 (Extinction of infection):**
-<br/>
 Fixed R0 < 1 (Beta/Gamma stay constant), set 10 infected individuals randomly. The reduction of R0 can effectively reduce the rate of infection of the disease. When R0 <1, the number of people infected reaches to a peak and gradually vanished. There are several measures can reduce Beta and increase Gamma, such as giving better treatment to the patient and wearing masks etc.
 
 ## Results
