@@ -120,8 +120,10 @@ As we can see, at iteration 1, the infected individuals reached to a peak. After
 
 ## Conclusion
 > Unsurprisingly, the diffusion of infection shows that preventive measures like social distancing and lockdown are indeed effective. The Barabasi Albert graph with the lower m value is the ideal scenario to handle a pandemic with a high infection rate. The nodes have low connectivity, but they’re still connected and somewhat clustered. Simply put, the majority is following the social distancing guidelines and distancing their groups (family, workplace, dormitory, etc)
+<br/>
 > On top of that, the Watts Strogatz model (small-world) is the normal interactions, maybe with basic preventive measurements advised, but not mandate. The spread is slower compared to the prior model, but we also notice a very important point in utilizing them: They are only effective when everyone’s following them. When people don’t respect the guidelines given by health officials, they are also undermining the efforts of others who follow them.
 We can consider the Barabasi Albert graph with the larger m value an environment where people are actively socializing. This could simulate an area with a younger demographic, where the nightlife and events are more extensively held. All the nodes are highly connected, and the spread of the virus is exponential. It only took 1 iteration for the virus to infect the majority of the population.
+> 
 > The extinction of infection model simulated by the EoN package can be considered the best-case scenario for this pandemic. Even with relative connectivity between nodes, the speed of the spread is slowed down; and at the end, when the infection stopped, there still exists susceptible nodes. These nodes are the product of all our efforts in applying preventive measurements. On top of protecting normal people, we’re also sheltering vulnerable individuals from Covid. Government and policymakers can consider applying the mentioned measures from the above assumptions.
 
 ## Reference
