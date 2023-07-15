@@ -138,15 +138,11 @@ We can consider the Barabasi Albert graph with the larger m value an environment
 
 ## Reference
 
-Here is a simple footnote[^1]. With some additional text after it.
-
 [^1]: Barabási, A.-L.; R. Albert (1999). "Emergence of scaling in random networks". Science. 286 (5439): 509–512.
 [^2]: Albert, Réka; Barabási, Albert-László (2002). "Statistical mechanics of complex networks” Reviews of Modern Physics. 74 (47): 47–97.
 [^3]: Watts DJ, Strogatz SH (June 1998). "Collective dynamics of 'small-world' networks". Nature. 393 (6684): 440–2.
 [^4]: Networks, Crowds, and Markets: Reasoning about a Highly Connected World” by D. Easley and J. Kleinberg. Cambridge University Press, 2010.
 [^5]: Paul L. Delamater, corresponding author Erica J. Street, Timothy F. Leslie, Y. Tony Yang, and Kathryn H. Jacobsen. "Complexity of the Basic Reproduction Number (R0)"
-
-> Click to see more info at [`zgw2000/risc_game`](https://github.com/zgw2000/risc_game "see it on Github").
 
 [<center>↑ BACK TO TOP ↑</center>](#top)
 
