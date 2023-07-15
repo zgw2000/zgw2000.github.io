@@ -5,7 +5,7 @@ collection: portfolio
 ---
 <a id="top"></a>
 
-**Alessio Barboni, Miro Confalone, Guowang Zeng**
+***Alessio Barboni, Miro Confalone, Guowang Zeng***
 
 The goal of this project is building a system able to predict judicial decisions with the intent of showing to what extent these are predictable. The dataset and the starting point are taken from Judicial decisions of the European Court of Human Rights: Looking into the crystal ball, a paper written by Medvedeva et al. The paper is available [`here`](http://martijnwieling.nl/files/Medvedeva-submitted.pdf).
 
