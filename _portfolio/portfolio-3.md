@@ -1,6 +1,6 @@
 ---
 title: "The contagious analysis of Preferential Attachment and Small-world networks based on the SIR model"
-excerpt: "The number of confirmed and suspected cases in many European countries has risen rapidly since the outbreak of the new coronavirus. At present, no good treatment measures have been found, how to take effective preventive and control measures quickly is still an urgent task. Based on the infectious disease dynamics SIR model, this study studies the rate of spread of different intensity prevention and control measures in the two network models and provides suggestions for the policy makers of a new round of prevention and control strategies.<br/>![SIR](/images/sir.gif){: .align-center}"
+excerpt: "The number of confirmed and suspected cases in many European countries has risen rapidly since the outbreak of the new coronavirus. At present, no good treatment measures have been found, how to take effective preventive and control measures quickly is still an urgent task. Based on the infectious disease dynamics SIR model, this study studies the rate of spread of different intensity prevention and control measures in the two network models and provides suggestions for the policy makers of a new round of prevention and control strategies.<br/>![SIR](/images/model4.gif){: .align-center}"
 collection: portfolio
 ---
 <a id="top"></a>
@@ -15,7 +15,7 @@ The public announcement of the outbreak of Coronavirus, 2019-nCov, Covid-19, NCP
 
 Infectious diseases are a long-standing social and natural phenomenon that has become a turning point or a trigger point for some important changes in human history. It is for these reasons that the model of the spread of infectious diseases is also familiar to us and one of the important achievements of mankind in the prevention and control of infectious diseases. As a social phenomenon, many assumptions are usually made in research, but their effectiveness and rationality have been proven and play an important role in the prevention and control of infectious diseases worldwide today. Here we use the simplest possible model to meet current rapid estimates of the number of infections and overall trends in outbreaks, to help develop accurate patient assistance measures and outbreak control strategy studies.
 
-# Models
+### Models
 
 **SIR model:**
 The SIR model we are familiar with is based on the following relationship between total number **N**, number of infections **I**, susceptible number **S**, number of patients recovered **R** and time t in endemic areas:
@@ -73,7 +73,7 @@ $$L\propto logN$$
 
 A certain category of small-world networks was identified as a class of random graphs by Duncan Watts and Steven Strogatz in 1998. They noted that graphs could be classified according to two independent structural features, namely the clustering coefficient, and average node-to-node distance (also known as average shortest path length). Purely random graphs built according to the Erdős–Rényi (ER) model, exhibit a small average shortest path length (varying typically as the logarithm of the number of nodes) along with a small clustering coefficient. Watts and Strogatz measured that in fact many real-world networks have a small average shortest path length, but also a clustering coefficient significantly higher than expected by random chance. Watts and Strogatz then proposed a novel graph model, currently named the Watts and Strogatz model, with (i) a small average shortest path length, and (ii) a large clustering coefficient. 
 
-# Assumption
+### Assumption
 The “lab” environment I’m going to consider is a population of 100 individuals, numbered from 0 to 99. Regarding the type of network, I decided to use the “small world” network represents the trajectory of human activity in a city, while “Preferential attachment” network” represents the trajectory of human keeping in social distance when m=1 or gathering activity in a city when m=3 (bar, parade, concert, club, football match, etc).
 
 | ![model1](/images/model1.png) | ![model2](/images/model2.png) | ![model3](/images/model3.png) |
@@ -120,15 +120,14 @@ As we can see, at iteration 1, the infected individuals reached to a peak. After
 
 ## Conclusion
 > Unsurprisingly, the diffusion of infection shows that preventive measures like social distancing and lockdown are indeed effective. The Barabasi Albert graph with the lower m value is the ideal scenario to handle a pandemic with a high infection rate. The nodes have low connectivity, but they’re still connected and somewhat clustered. Simply put, the majority is following the social distancing guidelines and distancing their groups (family, workplace, dormitory, etc)
-On top of that, the Watts Strogatz model (small-world) is the normal interactions, maybe with basic preventive measurements advised, but not mandate. The spread is slower compared to the prior model, but we also notice a very important point in utilizing them: They are only effective when everyone’s following them. When people don’t respect the guidelines given by health officials, they are also undermining the efforts of others who follow them.
+> On top of that, the Watts Strogatz model (small-world) is the normal interactions, maybe with basic preventive measurements advised, but not mandate. The spread is slower compared to the prior model, but we also notice a very important point in utilizing them: They are only effective when everyone’s following them. When people don’t respect the guidelines given by health officials, they are also undermining the efforts of others who follow them.
 We can consider the Barabasi Albert graph with the larger m value an environment where people are actively socializing. This could simulate an area with a younger demographic, where the nightlife and events are more extensively held. All the nodes are highly connected, and the spread of the virus is exponential. It only took 1 iteration for the virus to infect the majority of the population.
-The extinction of infection model simulated by the EoN package can be considered the best-case scenario for this pandemic. Even with relative connectivity between nodes, the speed of the spread is slowed down; and at the end, when the infection stopped, there still exists susceptible nodes. These nodes are the product of all our efforts in applying preventive measurements. On top of protecting normal people, we’re also sheltering vulnerable individuals from Covid. Government and policymakers can consider applying the mentioned measures from the above assumptions.
+> The extinction of infection model simulated by the EoN package can be considered the best-case scenario for this pandemic. Even with relative connectivity between nodes, the speed of the spread is slowed down; and at the end, when the infection stopped, there still exists susceptible nodes. These nodes are the product of all our efforts in applying preventive measurements. On top of protecting normal people, we’re also sheltering vulnerable individuals from Covid. Government and policymakers can consider applying the mentioned measures from the above assumptions.
 
 ## Reference
 
-<div id="refer-anchor-1"></div>
+
 - [1] [百度学术](http://xueshu.baidu.com/)
-<div id="refer-anchor-2"></div>
 - [2] [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
 
 
