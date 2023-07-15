@@ -231,6 +231,15 @@ The results are the following:
   
 Overall accuracy for these articles is approx 66.67%. We could not adopt the ROC AUC as performance metric because the test set is composed of just one class. The plot below represents the best set of predictors (n-grams in range 4-6) for violations (in blue) and non-violations (in red) for Article 2, the one that achived the highest accuracy in this setting.
 
+![result](/images/nlp.png )
+
+Our goal now is to increase this accuracy.
+
+## Text Preprocessing
+-------
+
+
+
 
 
 
