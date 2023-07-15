@@ -21,9 +21,23 @@ Infectious diseases are a long-standing social and natural phenomenon that has b
 
 ![SIR](/images/sir.png){: .align-center}
 
-$\frac{dS}{dt}=-\beta\frac{IS}{N}$
+$$\frac{dS}{dt}=-\beta\frac{IS}{N}$$
 
+$$\frac{dI}{dt}=\beta\frac{IS}{N}-\gamma I$$
 
+$$\frac{dR}{dt}=\gamma I$$
+
+$$\frac{dI}{dt}=\beta\frac{IS}{N}-\gamma I\approx\left(\beta-\gamma\right)I$$
+
+$$\left(\beta-\gamma\right)>0\rightarrow\beta>\gamma\rightarrow\frac{\beta}{\gamma}>1$$
+
+$$I\left(t\right)=e^{(\beta-\gamma)t}$$
+
+$$p_i=\frac{k_i}{\sum_{j} k_j}$$
+
+$$P\left(k\right)~k^{-\alpha}$$
+
+$$L\propto logN$$
 
 
 
