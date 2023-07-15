@@ -27,11 +27,28 @@ $$\frac{dI}{dt}=\beta\frac{IS}{N}-\gamma I$$
 
 $$\frac{dR}{dt}=\gamma I$$
 
+The parameters in these equations β and γ constants, reflecting the characteristics of a particular outbreak.
+Early in the spread of the epidemic, since the first susceptible population is the total number of people, namely S ≈ N, we can simplify the relationship between the number of infected people I and time t:
+
 $$\frac{dI}{dt}=\beta\frac{IS}{N}-\gamma I\approx\left(\beta-\gamma\right)I$$
+
+such that:
 
 $$\left(\beta-\gamma\right)>0\rightarrow\beta>\gamma\rightarrow\frac{\beta}{\gamma}>1$$
 
+This gives an approximate solution to the number of infected persons:
+
 $$I\left(t\right)=e^{(\beta-\gamma)t}$$
+
+This relationship suggests that the approximate total number of infections is an exponential function of time. The constants and β here γ be determined according to the characteristics of the outbreak, such as the different networks (Preferential Attachment and Small-world), the intensity of the virus infection per se and the probability of exposure to infected persons and others. So that it can achieve an estimate of the number of people infected. Of course, epidemic prevention and control measures will also affect these parameters, which in turn reflect the effectiveness of prevention and control measures. These parameters are generally based on epidemiological statistics and are reflected during the epidemic. In other words, we can also determine these parameters based on the actual outbreak report.
+So we want the quantity Beta/Gamma to be less than 1 if we want the epidemic to slow down. Note that this ratio has a very important meaning in epidemiology: it is the **basic reproductive number or R0**, and it indicates the average number of infected by an infectious individual in a totally susceptible population. In the literature we found out that the following holds: If R0 < 1, then with probability 1, the disease dies out after a finite number of waves. If R0 > 1, then with probability greater than 0 the disease persists by infecting at least one person in each wave.
+
+`R0 > 1: diffusion of infection (worst case)`
+`R0 < 1: extinction of infection (best case)`
+
+
+
+
 
 $$p_i=\frac{k_i}{\sum_{j} k_j}$$
 
