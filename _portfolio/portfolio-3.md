@@ -51,7 +51,7 @@ So we want the quantity Beta/Gamma to be less than 1 if we want the epidemic to 
 `R0 < 1: extinction of infection (best case)`
 
 **Preferential Attachment network:**
-A preferential attachment process is any of a class of processes in which some quantity, typically some form of wealth or credit, is distributed among a number of individuals or objects according to how much they already have, so that those who are already wealthy receive more than those who are not. "Preferential attachment" is only the most recent of many names that have been given to such processes. They are also referred to under the names "Yule process", "cumulative advantage", "the rich get richer", and, less correctly, the "Matthew effect". The application of preferential attachment to the growth of the World Wide Web was proposed by Barabási and Albert in 1999. Barabási and Albert also coined the name "preferential attachment" by which the process is best known today and suggested that the process might apply to the growth of other networks as well.
+A preferential attachment process is any of a class of processes in which some quantity, typically some form of wealth or credit, is distributed among a number of individuals or objects according to how much they already have, so that those who are already wealthy receive more than those who are not. "Preferential attachment" is only the most recent of many names that have been given to such processes. They are also referred to under the names "Yule process", "cumulative advantage", "the rich get richer", and, less correctly, the "Matthew effect". The application of preferential attachment to the growth of the World Wide Web was proposed by Barabási[^1] and Albert[^2] in 1999. Barabási and Albert also coined the name "preferential attachment" by which the process is best known today and suggested that the process might apply to the growth of other networks as well.
 <br/>
 The network begins with an initial connected network of m0 nodes. New nodes are added to the network one at a time. Each new node is connected to m ≤ 𝑚0 existing nodes with a probability that is proportional to the number of links that the existing nodes already have. Formally, the probability pi that the new node is connected to node i is:
 
@@ -74,7 +74,7 @@ A small-world network is a type of mathematical graph in which most nodes are no
 
 $$L\propto logN$$
 
-A certain category of small-world networks was identified as a class of random graphs by Duncan Watts and Steven Strogatz in 1998. They noted that graphs could be classified according to two independent structural features, namely the clustering coefficient, and average node-to-node distance (also known as average shortest path length). Purely random graphs built according to the Erdős–Rényi (ER) model, exhibit a small average shortest path length (varying typically as the logarithm of the number of nodes) along with a small clustering coefficient. Watts and Strogatz measured that in fact many real-world networks have a small average shortest path length, but also a clustering coefficient significantly higher than expected by random chance. Watts and Strogatz then proposed a novel graph model, currently named the Watts and Strogatz model, with (i) a small average shortest path length, and (ii) a large clustering coefficient. 
+A certain category of small-world networks was identified as a class of random graphs by Duncan Watts and Steven Strogatz[^3] in 1998. They noted that graphs could be classified according to two independent structural features, namely the clustering coefficient, and average node-to-node distance (also known as average shortest path length). Purely random graphs built according to the Erdős–Rényi (ER) model, exhibit a small average shortest path length (varying typically as the logarithm of the number of nodes) along with a small clustering coefficient. Watts and Strogatz measured that in fact many real-world networks[^4] have a small average shortest path length, but also a clustering coefficient significantly higher than expected by random chance. Watts and Strogatz then proposed a novel graph model, currently named the Watts and Strogatz model, with (i) a small average shortest path length, and (ii) a large clustering coefficient. 
 
 ## Assumption
 
@@ -86,7 +86,7 @@ The “lab” environment I’m going to consider is a population of 100 individ
 
 **Hypothesis1 (Diffusion of infection):**
 <br/>
-Fixed R0 > 1 (Beta/Gamma stay constant), set 1 infected individual randomly. The propagation speed of the Preferential Attachment model will be higher than that of the Small-world model when m increased. Namely, the PA model of contagious will strengthen the rate of transmission of the virus when m increased. We set an assumption that with Barabasi Albert graph when n=100, m=1 as a situation that each individual is keeping social distance and lockdown measures. And m=3 regard as high clustering activities. While small-world model with k=4 and p=0.6 regard as the situation closest to reality which stands for each individual has most 4 connected relations (parents and best friends).
+Fixed R0[^5] > 1 (Beta/Gamma stay constant), set 1 infected individual randomly. The propagation speed of the Preferential Attachment model will be higher than that of the Small-world model when m increased. Namely, the PA model of contagious will strengthen the rate of transmission of the virus when m increased. We set an assumption that with Barabasi Albert graph when n=100, m=1 as a situation that each individual is keeping social distance and lockdown measures. And m=3 regard as high clustering activities. While small-world model with k=4 and p=0.6 regard as the situation closest to reality which stands for each individual has most 4 connected relations (parents and best friends).
 <br/>
 <br/>
 **Hypothesis2 (Extinction of infection):**
@@ -140,7 +140,11 @@ We can consider the Barabasi Albert graph with the larger m value an environment
 
 Here is a simple footnote[^1]. With some additional text after it.
 
-[^1]: My reference.
+[^1]: Barabási, A.-L.; R. Albert (1999). "Emergence of scaling in random networks". Science. 286 (5439): 509–512.
+[^2]: Albert, Réka; Barabási, Albert-László (2002). "Statistical mechanics of complex networks” Reviews of Modern Physics. 74 (47): 47–97.
+[^3]: Watts DJ, Strogatz SH (June 1998). "Collective dynamics of 'small-world' networks". Nature. 393 (6684): 440–2.
+[^4]: Networks, Crowds, and Markets: Reasoning about a Highly Connected World” by D. Easley and J. Kleinberg. Cambridge University Press, 2010.
+[^5]: Paul L. Delamater, corresponding author Erica J. Street, Timothy F. Leslie, Y. Tony Yang, and Kathryn H. Jacobsen. "Complexity of the Basic Reproduction Number (R0)"
 
 > Click to see more info at [`zgw2000/risc_game`](https://github.com/zgw2000/risc_game "see it on Github").
 
