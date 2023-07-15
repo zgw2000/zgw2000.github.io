@@ -29,7 +29,7 @@ $$\frac{dI}{dt}=\beta\frac{IS}{N}-\gamma I$$
 $$\frac{dR}{dt}=\gamma I$$
 
 The parameters in these equations β and γ constants, reflecting the characteristics of a particular outbreak.
-</br>
+<br/>
 Early in the spread of the epidemic, since the first susceptible population is the total number of people, namely S ≈ N, we can simplify the relationship between the number of infected people I and time t:
 
 $$\frac{dI}{dt}=\beta\frac{IS}{N}-\gamma I\approx\left(\beta-\gamma\right)I$$
@@ -63,9 +63,9 @@ Note that the preferential attachment mechanism is the one used to generate the 
 $$P\left(k\right)~k^{-\alpha}$$
 
 where alpha is a parameter whose value is typically in the range (2,3).
-</br>
+<br/>
 The idea of scale-free networks is that, within the system, there are few important nodes that give robustness to the structure, while the majority of nodes are not as indispensable.
-</br>
+<br/>
 **Small-world network:**
 A small-world network is a type of mathematical graph in which most nodes are not neighbors of one another, but the neighbors of any given node are likely to be neighbors of each other and most nodes can be reached from every other node by a small number of hops or steps. Specifically, a small-world network is defined to be a network where the typical distance L between two randomly chosen nodes (the number of steps required) grows proportionally to the logarithm of the number of nodes N in the network, that is:
 
@@ -82,7 +82,7 @@ The “lab” environment I’m going to consider is a population of 100 individ
 
 **Hypothesis1 (Diffusion of infection):**
 Fixed R0 > 1 (Beta/Gamma stay constant), set 1 infected individual randomly. The propagation speed of the Preferential Attachment model will be higher than that of the Small-world model when m increased. Namely, the PA model of contagious will strengthen the rate of transmission of the virus when m increased. We set an assumption that with Barabasi Albert graph when n=100, m=1 as a situation that each individual is keeping social distance and lockdown measures. And m=3 regard as high clustering activities. While small-world model with k=4 and p=0.6 regard as the situation closest to reality which stands for each individual has most 4 connected relations (parents and best friends).
-</br>
+<br/>
 **Hypothesis2 (Extinction of infection):**
 Fixed R0 < 1 (Beta/Gamma stay constant), set 10 infected individuals randomly. The reduction of R0 can effectively reduce the rate of infection of the disease. When R0 <1, the number of people infected reaches to a peak and gradually vanished. There are several measures can reduce Beta and increase Gamma, such as giving better treatment to the patient and wearing masks etc.
 
@@ -94,28 +94,28 @@ By using the EoN (Epidemics on Networks) module in Python3 to apply the SIR mode
 ![model1](/images/model1.gif){: .align-center}
 
 <div align="center">Barabasi Albert graph. With n=100, m=1. Iteration 0, iteration 5, iteration 10 and iteration 15</div>
-</br>
+<br/>
 As we can see, from iteration 0 to iteration 5, The spread of the virus has slowed down. At the final iteration, there are still certain proportion of 100 individuals remain susceptible and the virus has stopped spreading.
 
 ![model2](/images/model2.gif){: .align-center}
 
 <div align="center">Watts Strogatz graph (small-world). With n=100, k=4, p=0.6, set 1 infected node randomly. Iteration 0, iteration 1, iteration 2 and iteration 3</div>
-</br>
+<br/>
 As we can see, from the SIR curve on the right, the spread of the virus is exponential, and under this model, almost 95% of the 100 individuals have been infected at iteration 3.
 
 ![model3](/images/model3.gif){: .align-center}
 
 <div align="center">Barabasi Albert graph. With n=100, m=3, set 1 infected node randomly. Iteration 0, iteration 1, iteration 2 and iteration 3</div>
-</br>
+<br/>
 As we can see, under this model, the virus spreads very quickly. All of them were infected at iteration 2, and the SIR curve on the right, the spread of virus is dramatically increasing.
-</br>
+<br/>
 **Extinction of infection:**
 By using the EoN (Epidemics on Networks) module in Python3 to apply the SIR model simulation.
 
 ![model4](/images/model4.gif){: .align-center}
 
 <div align="center">Watts Strogatz graph (small-world). With n=100, k=4, p=0.6, set 10 infected nodes randomly. Iteration 0, iteration 1, iteration 4 and iteration 8</div>
-</br>
+<br/>
 As we can see, at iteration 1, the infected individuals reached to a peak. After iteration 1, the infected individuals began to decrease. No more infected individuals at iteration 8 and remain large proportion of 100 individuals remain susceptible and the virus has stopped spreading.
 
 ## Conclusion
