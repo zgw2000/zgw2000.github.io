@@ -630,9 +630,7 @@ Average accuracy is 74.28%, variance is 0.0167.
 
 ## Conclusion
 
-```
-We tried several approaches after having performed additional text preprocessing techniques (e.g. lemmatization) but with a looser tuning of hyperparameters (smaller grids due to our machine limitations). We managed to get similar results to those from Medvedeva et al. (they also got about 75% accuracy on average but tuning an additional hyperparamer, i.e. "parts" thus training on larger datasets, that we have not considered). We reached that level of accuracy also using the embedding approach, notwithstanding the limited number of available training cases for some articles. Further research could count on a broader number of both violation and non-violations cases that is now available and try even more instance-wise approaches as Convolutional Neural Networks.
-```
+> We tried several approaches after having performed additional text preprocessing techniques (e.g. lemmatization) but with a looser tuning of hyperparameters (smaller grids due to our machine limitations). We managed to get similar results to those from Medvedeva et al. (they also got about 75% accuracy on average but tuning an additional hyperparamer, i.e. "parts" thus training on larger datasets, that we have not considered). We reached that level of accuracy also using the embedding approach, notwithstanding the limited number of available training cases for some articles. Further research could count on a broader number of both violation and non-violations cases that is now available and try even more instance-wise approaches as Convolutional Neural Networks.
 
 [<center>↑ BACK TO TOP ↑</center>](#top)
 
