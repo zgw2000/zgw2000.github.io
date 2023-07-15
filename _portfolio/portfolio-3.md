@@ -5,7 +5,7 @@ collection: portfolio
 ---
 <a id="top"></a>
 
-**Guowang Zeng**
+***Guowang Zeng***
 
 ## Introduction
 
