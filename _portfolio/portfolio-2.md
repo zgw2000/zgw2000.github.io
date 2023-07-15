@@ -236,7 +236,6 @@ Overall accuracy for these articles is approx 66.67%. We could not adopt the ROC
 Our goal now is to increase this accuracy.
 
 ## Text Preprocessing
--------
 
 We will use the NLTK package that is made ad hoc for Natural Language Processing, the steps will be the following:
 
@@ -506,7 +505,6 @@ These are the best predictiors for Article 2, in this case unigrams were chosen.
 ![result](/images/nlp3.png )
 
 ## Naive Bayes Approach
-------
 
 We used MultinomialNB from sklearn, tuning parameters with GridSearchCV once again.
 
@@ -523,7 +521,6 @@ We used MultinomialNB from sklearn, tuning parameters with GridSearchCV once aga
 Overall accuracy is 75.75%. Variance is 0.0237.
 
 ## Word Embedding
-------
 
 We tried Doc2Vec approach that creates a numeric representation of text documents that can be used for classification tasks, in this case we used LinearSVC on them. For this we used the original dataset without applying any preprocessing transformation. We started with hyperparameters tuning using GridSearch. Given that Doc2Vec approach belongs to Gensim model and not to sklearn we could not include it into our Pipeline. Thus for tuning all parameters (vector_size and min_count from Doc2Vec, C from LinearSVC) together we recreated GridSearchCV approach manually.
 
@@ -630,7 +627,6 @@ def run_pipeline(article, part, vec, c):
 Average accuracy is 74.28%, variance is 0.0167.
 
 ## Conclusion
-------
 
 We tried several approaches after having performed additional text preprocessing techniques (e.g. lemmatization) but with a looser tuning of hyperparameters (smaller grids due to our machine limitations). We managed to get similar results to those from Medvedeva et al. (they also got about 75% accuracy on average but tuning an additional hyperparamer, i.e. "parts" thus training on larger datasets, that we have not considered). We reached that level of accuracy also using the embedding approach, notwithstanding the limited number of available training cases for some articles. Further research could count on a broader number of both violation and non-violations cases that is now available and try even more instance-wise approaches as Convolutional Neural Networks.
 
