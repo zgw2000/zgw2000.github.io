@@ -126,7 +126,10 @@ The extinction of infection model simulated by the EoN package can be considered
 
 ## Reference
 
-
+<div id="refer-anchor-1"></div>
+- [1] [百度学术](http://xueshu.baidu.com/)
+<div id="refer-anchor-2"></div>
+- [2] [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
 
 
 > Click to see more info at [`zgw2000/risc_game`](https://github.com/zgw2000/risc_game "see it on Github").
