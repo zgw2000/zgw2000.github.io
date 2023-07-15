@@ -146,7 +146,7 @@ We can consider the Barabasi Albert graph with the larger m value an environment
 
 
 
-[<center>↑ BACK TO TOP ↑</center>](#top)
+[↑ BACK TO TOP ↑](#top)
 
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script>
