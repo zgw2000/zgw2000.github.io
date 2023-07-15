@@ -120,7 +120,6 @@ As we can see, under this model, the virus spreads very quickly. All of them wer
 
 **Extinction of infection:**
 <br/>
-<br/>
 By using the EoN (Epidemics on Networks) module in Python3 to apply the SIR model simulation.
 
 ![model4](/images/model4.gif){: .align-center}
