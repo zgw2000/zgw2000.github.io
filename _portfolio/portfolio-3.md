@@ -1,4 +1,4 @@
-![image](https://github.com/zgw2000/zgw2000.github.io/assets/104421593/b770490b-f574-4b5d-82d7-6764f8ae556e)![image](https://github.com/zgw2000/zgw2000.github.io/assets/104421593/478ccd54-d15e-4469-85bb-4b41c683ddea)![image](https://github.com/zgw2000/zgw2000.github.io/assets/104421593/7f51d33b-75a3-4814-b30a-fd72c0d8c2ad)---
+---
 title: "The contagious analysis of Preferential Attachment and Small-world networks based on the SIR model"
 excerpt: "The number of confirmed and suspected cases in many European countries has risen rapidly since the outbreak of the new coronavirus. At present, no good treatment measures have been found, how to take effective preventive and control measures quickly is still an urgent task. Based on the infectious disease dynamics SIR model, this study studies the rate of spread of different intensity prevention and control measures in the two network models and provides suggestions for the policy makers of a new round of prevention and control strategies.<br/>![SIR](/images/sir.gif){: .align-center}"
 collection: portfolio
