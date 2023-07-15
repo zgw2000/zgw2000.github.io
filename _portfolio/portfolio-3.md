@@ -81,11 +81,11 @@ A certain category of small-world networks was identified as a class of random g
 ## Assumption
 
 The “lab” environment I’m going to consider is a population of 100 individuals, numbered from 0 to 99. Regarding the type of network, I decided to use the “small world” network represents the trajectory of human activity in a city, while “Preferential attachment” network” represents the trajectory of human keeping in social distance when m=1 or gathering activity in a city when m=3 (bar, parade, concert, club, football match, etc).
-
+<br/>
 | ![model1](/images/model1.png) | ![model2](/images/model2.png) | ![model3](/images/model3.png) |
 |:---:|:---:|:---:|
 | Figure 1: Watts Strogatz graph (small-world). With n=100, k=4, p=0.6 | Figure 2.1: Barabasi Albert graph. With n=100, m=1 | Figure 2.2: Barabasi Albert graph. With n=100, m=3 |
-
+<br/>
 **Hypothesis1 (Diffusion of infection):**
 <br/>
 Fixed R0[^5] > 1 (Beta/Gamma stay constant), set 1 infected individual randomly. The propagation speed of the Preferential Attachment model will be higher than that of the Small-world model when m increased. Namely, the PA model of contagious will strengthen the rate of transmission of the virus when m increased. We set an assumption that with Barabasi Albert graph when n=100, m=1 as a situation that each individual is keeping social distance and lockdown measures. And m=3 regard as high clustering activities. While small-world model with k=4 and p=0.6 regard as the situation closest to reality which stands for each individual has most 4 connected relations (parents and best friends).
