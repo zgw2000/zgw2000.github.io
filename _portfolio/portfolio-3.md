@@ -9,7 +9,9 @@ collection: portfolio
 
 ## Introduction
 
+```
 The public announcement of the outbreak of Coronavirus, 2019-nCov, Covid-19, NCP, SARS-Cov-2 on January 21, 2019, followed by the release of a large number of outbreak data showed the seriousness of the spread of the epidemic and caused a high degree of 20 world concern. Since then, a series of outbreak control measures, such as strengthening medical treatment, isolation, strengthening medical resources, research and treatment methods and vaccines, as well as later city closure and other prevention and control strategies, are related to the future development of the epidemic. At present, the epidemic is still developing, the national rescue and control operations are being carried out on a larger scale, the future trend forecast of the development of the epidemic is also playing a key role in the control of the epidemic on a larger scale. The epidemic spread model of infectious diseases is a traditional epidemiological and mathematical problem, which has important practical value. In recent years, the frequent outbreaks of large-scale outbreaks around the world have aroused the high attention of academic circles and all sectors of society to the transmission model and its application, and there have been some innovations in methods, which have played an important role in epidemic control, rescue operations, resource allocation, transportation, travel planning and so on. In the world's intellectual city construction and other technological innovation activities, combined with the core functions of the city to carry out research on the spread of infectious diseases model, can deepen the digital city model, improve the management level, improve emergency response capacity, is an important content of urban construction and development. This research can be based on the continuous maturity, combined with the future model of urban and social development, to improve the level of urban emergency management, to ensure the ultimate realization of the sustainable development goals of mankind.
+```
 
 ## Methodology
 
@@ -17,9 +19,8 @@ Infectious diseases are a long-standing social and natural phenomenon that has b
 
 ## Models
 
-graph LR
-S[Susceptible (S)] -- Transmission --> I[Infected (I)]
-I -- Recovery --> R[Recovered (R)]
+\frac{{dI}}{{dt}} = \beta \cdot I \cdot S \cdot \frac{1}{{N}} - \gamma \cdot I
+
 
 
 
