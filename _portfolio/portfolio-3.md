@@ -21,7 +21,7 @@ Infectious diseases are a long-standing social and natural phenomenon that has b
 
 ![SIR](/images/sir.png){: .align-center}
 
-$$\frac{dS}{dt} =\-βfrac{IS}{N} $$
+$\frac{dS}{dt}=-\beta\frac{IS}{N}$
 
 
 
