@@ -144,6 +144,8 @@ We can consider the Barabasi Albert graph with the larger m value an environment
 [^4]: Networks, Crowds, and Markets: Reasoning about a Highly Connected World” by D. Easley and J. Kleinberg. Cambridge University Press, 2010.
 [^5]: Paul L. Delamater, corresponding author Erica J. Street, Timothy F. Leslie, Y. Tony Yang, and Kathryn H. Jacobsen. "Complexity of the Basic Reproduction Number (R0)"
 
+
+
 [<center>↑ BACK TO TOP ↑</center>](#top)
 
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
