@@ -15,7 +15,7 @@ The public announcement of the outbreak of Coronavirus, 2019-nCov, Covid-19, NCP
 
 Infectious diseases are a long-standing social and natural phenomenon that has become a turning point or a trigger point for some important changes in human history. It is for these reasons that the model of the spread of infectious diseases is also familiar to us and one of the important achievements of mankind in the prevention and control of infectious diseases. As a social phenomenon, many assumptions are usually made in research, but their effectiveness and rationality have been proven and play an important role in the prevention and control of infectious diseases worldwide today. Here we use the simplest possible model to meet current rapid estimates of the number of infections and overall trends in outbreaks, to help develop accurate patient assistance measures and outbreak control strategy studies.
 
-### Models
+## Models
 
 **SIR model:**
 <br/>
@@ -67,6 +67,7 @@ where alpha is a parameter whose value is typically in the range (2,3).
 <br/>
 The idea of scale-free networks is that, within the system, there are few important nodes that give robustness to the structure, while the majority of nodes are not as indispensable.
 <br/>
+<br/>
 **Small-world network:**
 <br/>
 A small-world network is a type of mathematical graph in which most nodes are not neighbors of one another, but the neighbors of any given node are likely to be neighbors of each other and most nodes can be reached from every other node by a small number of hops or steps. Specifically, a small-world network is defined to be a network where the typical distance L between two randomly chosen nodes (the number of steps required) grows proportionally to the logarithm of the number of nodes N in the network, that is:
@@ -75,7 +76,7 @@ $$L\propto logN$$
 
 A certain category of small-world networks was identified as a class of random graphs by Duncan Watts and Steven Strogatz in 1998. They noted that graphs could be classified according to two independent structural features, namely the clustering coefficient, and average node-to-node distance (also known as average shortest path length). Purely random graphs built according to the Erdős–Rényi (ER) model, exhibit a small average shortest path length (varying typically as the logarithm of the number of nodes) along with a small clustering coefficient. Watts and Strogatz measured that in fact many real-world networks have a small average shortest path length, but also a clustering coefficient significantly higher than expected by random chance. Watts and Strogatz then proposed a novel graph model, currently named the Watts and Strogatz model, with (i) a small average shortest path length, and (ii) a large clustering coefficient. 
 
-### Assumption
+## Assumption
 
 The “lab” environment I’m going to consider is a population of 100 individuals, numbered from 0 to 99. Regarding the type of network, I decided to use the “small world” network represents the trajectory of human activity in a city, while “Preferential attachment” network” represents the trajectory of human keeping in social distance when m=1 or gathering activity in a city when m=3 (bar, parade, concert, club, football match, etc).
 
@@ -86,6 +87,7 @@ The “lab” environment I’m going to consider is a population of 100 individ
 **Hypothesis1 (Diffusion of infection):**
 <br/>
 Fixed R0 > 1 (Beta/Gamma stay constant), set 1 infected individual randomly. The propagation speed of the Preferential Attachment model will be higher than that of the Small-world model when m increased. Namely, the PA model of contagious will strengthen the rate of transmission of the virus when m increased. We set an assumption that with Barabasi Albert graph when n=100, m=1 as a situation that each individual is keeping social distance and lockdown measures. And m=3 regard as high clustering activities. While small-world model with k=4 and p=0.6 regard as the situation closest to reality which stands for each individual has most 4 connected relations (parents and best friends).
+<br/>
 <br/>
 **Hypothesis2 (Extinction of infection):**
 <br/>
@@ -115,7 +117,9 @@ As we can see, from the SIR curve on the right, the spread of the virus is expon
 <br/>
 As we can see, under this model, the virus spreads very quickly. All of them were infected at iteration 2, and the SIR curve on the right, the spread of virus is dramatically increasing.
 <br/>
+
 **Extinction of infection:**
+<br/>
 <br/>
 By using the EoN (Epidemics on Networks) module in Python3 to apply the SIR model simulation.
 
