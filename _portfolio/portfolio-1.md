@@ -5,7 +5,7 @@ collection: portfolio
 ---
 <a id="top"></a>
 
-**Quanzhi Fu, Yiheng Liu, Tianji Qiang, Ziyi Yang, Guowang Zeng**
+***Quanzhi Fu, Yiheng Liu, Tianji Qiang, Ziyi Yang, Guowang Zeng***
 
 
 ## 1. Project Info
