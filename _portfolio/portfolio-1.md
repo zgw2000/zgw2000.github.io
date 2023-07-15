@@ -10,9 +10,11 @@ collection: portfolio
 
 ## 1. Project Info
 
+`
 The Java RISK Game Project is a five-person team project based on Java to replicate the classic strategy game RISK. 
 The project implements the core functions and game rules of the original RISK game through the Java language, while optimizing the game experience and providing a user-friendly interface. 
 This project can be used as a practical case study for learning Java language programming, object-oriented programming, and game development.
+`
 
 ## 2. Version Info
 
