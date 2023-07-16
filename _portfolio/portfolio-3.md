@@ -82,9 +82,11 @@ A certain category of small-world networks was identified as a class of random g
 
 The “lab” environment I’m going to consider is a population of 100 individuals, numbered from 0 to 99. Regarding the type of network, I decided to use the “small world” network represents the trajectory of human activity in a city, while “Preferential attachment” network” represents the trajectory of human keeping in social distance when m=1 or gathering activity in a city when m=3 (bar, parade, concert, club, football match, etc).
 <br/>
+
 | ![model1](/images/model1.png) | ![model2](/images/model2.png) | ![model3](/images/model3.png) |
 |:---:|:---:|:---:|
 | Figure 1: Watts Strogatz graph (small-world). With n=100, k=4, p=0.6 | Figure 2.1: Barabasi Albert graph. With n=100, m=1 | Figure 2.2: Barabasi Albert graph. With n=100, m=3 |
+
 <br/>
 **Hypothesis1 (Diffusion of infection):**
 <br/>
