@@ -1,4 +1,4 @@
-![image](https://github.com/zgw2000/zgw2000.github.io/assets/104421593/6f862b21-d812-4218-a880-f64e354c2c9b)---
+---
 title: "Apply machine learning techniques to a finance problem."
 excerpt: "This project involves the application of machine learning techniques to a finance problem. The goal is to determine the characteristics that have the most impact on outstanding bonds. By using Boosted Regression Techniques and Random Forests, we analyze firm and country characteristics to identify the factors influencing bond performance. Through data preprocessing, model training, and evaluation, we aim to provide valuable insights into predicting firms' outstanding bonds. The chosen model demonstrates superior performance and interpretability, making it a valuable tool for decision-making in the finance industry.<center><br/><img src='/images/finance1.png'></center>"
 collection: portfolio
@@ -217,8 +217,30 @@ The second model instead calculates the value of the outstanding bond for each f
 
 **FINAL PREDICTION (RSE) AFTER MERGE (ENSEMBLE MODELLING):** 0.059811488230954994
 
+![finance1](/images/finance1.png){: .align-center}
 
-![finance1]()
+## Random Forest with GridSearch Cross-Validation
+
+**Best Score for RF Regression with Cross-Validation:** 0.20806518227841653
+<br/><br/>
+**Best Hyperparameters for RF Regression:** {'bootstrap': True, 'max_depth': 90, 'max_features': 3, 'min_samples_leaf': 3, 'min_samples_split': 8, 'n_estimators': 200}
+Fitting 10 folds for each of 3 candidates, totaling 30 fits
+
+![finance2](/images/finance2.png){: .align-center}
+
+**Boosting Regression Technique**
+<br/><br/>
+**Best Score for Boosting Regression Technique:** 0.2321557969111331
+<br/><br/>
+**Best Hyperparameters for Boosting Regression Technique:** {'learning_rate': 0.01, 'loss': 'ls', 'max_depth': 5, 'min_samples_split': 5, 'n_estimators': 500}
+
+![finance3](/images/finance3.png){: .align-center}
+
+Given the different procedures applied in the construction of the three models, the best results obtained are visible in the first model.
+Having used a more complex construction in setting up the random forest, it is possible to observe improvements both in the accuracy of the model and in the MSE for the predictions of the outstanding bond.
+This is due, as explained above, that in the first model we proceeded through a double algorithm construction, using first a random forest as a classification and then as a regressor.
+The first random forest model that deals with the classification can predict whether the firm in question has issued an outstanding bond or not, producing a zero if the firm has no outstanding bonds or a one if it has a non-zero value.
+The second model instead calculates the value of the outstanding bond for each firm using the random forest regressor. Multiplying the two lists obtained from these two models, one composed of 0 and 1 (classification) and the other composed of values (regressor), we obtain a final list that reports zero if the first model produced a zero or the value produced by the second model if the first model produced a one. This interesting algorithm can significantly increase the accuracy of the general model given the poor ability of the regressor used individually to spot a firm that should report 0 as an outstanding bond value. However, this is an analysis that departs from the singular performances of the models. If we observe the score of the random forest regressor used individually, this reports an accuracy percentage and an MSE worse than cross-validation and boosting. The higher performances are therefore due to the implementations that we have been able to apply on the aforementioned random forest model and which have considerably increased its predictive capabilities. To observe more clearly the effects of these possible implementations that we propose on the functioning of a predictive algorithm to be used for this specific task (to more easily find the firm that has 0 as outstanding bonds value) we decided to apply these changes only to the first model ( random forest classification + regressor). Models two and three instead (cross-validation and boosting) similarly solve the problem, producing similar results. Not using a double algorithm that deals first with classifying the outstanding bond as present or not present and secondly by using the regressor to predict a possible value is clearly a limiting factor for both of the two latter models. Indeed, both use a resampling process of the train set and the data set that does not allow the implementation of the algorithm we designed and applied for the random forest.
 
 
 
