@@ -1,6 +1,6 @@
----
+![image](https://github.com/zgw2000/zgw2000.github.io/assets/104421593/6f862b21-d812-4218-a880-f64e354c2c9b)---
 title: "Apply machine learning techniques to a finance problem."
-excerpt: "This project involves the application of machine learning techniques to a finance problem. The goal is to determine the characteristics that have the most impact on outstanding bonds. By using Boosted Regression Techniques and Random Forests, we analyze firm and country characteristics to identify the factors influencing bond performance. Through data preprocessing, model training, and evaluation, we aim to provide valuable insights into predicting firms' outstanding bonds. The chosen model demonstrates superior performance and interpretability, making it a valuable tool for decision-making in the finance industry.<br/><img src='/images/RISC_evo1.drawio.png'>"
+excerpt: "This project involves the application of machine learning techniques to a finance problem. The goal is to determine the characteristics that have the most impact on outstanding bonds. By using Boosted Regression Techniques and Random Forests, we analyze firm and country characteristics to identify the factors influencing bond performance. Through data preprocessing, model training, and evaluation, we aim to provide valuable insights into predicting firms' outstanding bonds. The chosen model demonstrates superior performance and interpretability, making it a valuable tool for decision-making in the finance industry.<center><br/><img src='/images/finance1.png'></center>"
 collection: portfolio
 ---
 <a id="top"></a>
@@ -190,13 +190,35 @@ plt.show()
 
 ## Results
 
-### 123
+From the analysis of all three models, it is clear which features are most relevant. All models show that the most important features are: Size, Tangibility, GDP, Inflation, Economic risk, and Risk expropriation. Although these characteristics are identified as the most relevant by all models, each of them gives them different weights. For example, the relevance given by the model using cross-validation for Tangibility is about 0.08 while for the random forest regressor is about 0.13. Regarding the accuracy, the best model is the random forest classifier, used for our algorithm that deals with predicting whether the bond outstanding of the observation is a null or non-null value. For this specific task, the model produces an accuracy of about 80%, much higher when compared to the accuracy of the three subsequent models (random forest regressor, cross-validation, gradient boosting technique) which do not exceed 30%. It is precisely the high accuracy of this classifier that, used in symbiosis with the random forest regressor, allows the first algorithm designed by us using these two models together to have such a low MSE.
+<br/><br/>
+Given the different procedures applied in the construction of the three models, the best results obtained are visible in the first model.
+<br/><br/>
+Having used a more complex construction in setting up the random forest, it is possible to observe improvements both in the accuracy of the model and in the MSE for the predictions of the outstanding bond.
+<br/><br/>
+This is due, as explained above, that in the first model we proceeded through a double algorithm construction, using first a random forest as a classification and then as a regressor.
+<br/><br/>
+The first random forest model that deals with the classification can predict whether the firm in question has issued an outstanding bond or not, producing a zero if the firm has no outstanding bonds or a one if it has a non-zero value.
+<br/><br/>
+The second model instead calculates the value of the outstanding bond for each firm using the random forest regressor. Multiplying the two lists obtained from these two models, one composed of 0 and 1 (classification) and the other composed of values (regressor), we obtain a final list that reports zero if the first model produced a zero or the value produced by the second model if the first model produced a one. This interesting algorithm can significantly increase the accuracy of the general model given the poor ability of the regressor used individually to spot a firm that should report 0 as an outstanding bond value. However, this is an analysis that departs from the singular performances of the models. If we observe the score of the random forest regressor used individually, this reports an accuracy percentage and an MSE worse than cross-validation and boosting. The higher performances are therefore due to the implementations that we have been able to apply on the aforementioned random forest model and which have considerably increased its predictive capabilities. To observe more clearly the effects of these possible implementations that we propose on the functioning of a predictive algorithm to be used for this specific task (to more easily find the firm that has 0 as outstanding bonds value) we decided to apply these changes only to the first model (random forest classification + regressor). Models two and three instead (cross-validation and boosting) similarly solve the problem, producing similar results. Not using a double algorithm that deals first with classifying the outstanding bond as present or not present and secondly by using the regressor to predict a possible value is a limiting factor for both of the two latter models. Indeed, both use a resampling process of the train set and the data set that does not allow the implementation of the algorithm we designed and applied for the random forest.
 
-#### 78
 
-##### 34
 
-###### 376
+
+# asdasd
+
+
+## Random Forest without CV
+
+**SCORE OF THE RANDOM FOREST CLASSIFIER:** 0.7463333333333333
+**SCORE OF THE RANDOM FOREST REGRESSOR:** 0.1830434829116342
+
+## Prediction for Ensemble Modelling
+
+**FINAL PREDICTION (RSE) AFTER MERGE (ENSEMBLE MODELLING):** 0.059811488230954994
+
+
+![finance1]()
 
 
 
