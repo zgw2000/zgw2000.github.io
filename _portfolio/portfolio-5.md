@@ -202,12 +202,6 @@ The first random forest model that deals with the classification can predict whe
 <br/><br/>
 The second model instead calculates the value of the outstanding bond for each firm using the random forest regressor. Multiplying the two lists obtained from these two models, one composed of 0 and 1 (classification) and the other composed of values (regressor), we obtain a final list that reports zero if the first model produced a zero or the value produced by the second model if the first model produced a one. This interesting algorithm can significantly increase the accuracy of the general model given the poor ability of the regressor used individually to spot a firm that should report 0 as an outstanding bond value. However, this is an analysis that departs from the singular performances of the models. If we observe the score of the random forest regressor used individually, this reports an accuracy percentage and an MSE worse than cross-validation and boosting. The higher performances are therefore due to the implementations that we have been able to apply on the aforementioned random forest model and which have considerably increased its predictive capabilities. To observe more clearly the effects of these possible implementations that we propose on the functioning of a predictive algorithm to be used for this specific task (to more easily find the firm that has 0 as outstanding bonds value) we decided to apply these changes only to the first model (random forest classification + regressor). Models two and three instead (cross-validation and boosting) similarly solve the problem, producing similar results. Not using a double algorithm that deals first with classifying the outstanding bond as present or not present and secondly by using the regressor to predict a possible value is a limiting factor for both of the two latter models. Indeed, both use a resampling process of the train set and the data set that does not allow the implementation of the algorithm we designed and applied for the random forest.
 
-
-
-
-# asdasd
-
-
 ## Random Forest without CV
 
 **SCORE OF THE RANDOM FOREST CLASSIFIER:** 0.7463333333333333
@@ -236,30 +230,16 @@ Fitting 10 folds for each of 3 candidates, totaling 30 fits
 
 ![finance3](/images/finance3.png){: .align-center}
 
-Given the different procedures applied in the construction of the three models, the best results obtained are visible in the first model.
-Having used a more complex construction in setting up the random forest, it is possible to observe improvements both in the accuracy of the model and in the MSE for the predictions of the outstanding bond.
-This is due, as explained above, that in the first model we proceeded through a double algorithm construction, using first a random forest as a classification and then as a regressor.
-The first random forest model that deals with the classification can predict whether the firm in question has issued an outstanding bond or not, producing a zero if the firm has no outstanding bonds or a one if it has a non-zero value.
-The second model instead calculates the value of the outstanding bond for each firm using the random forest regressor. Multiplying the two lists obtained from these two models, one composed of 0 and 1 (classification) and the other composed of values (regressor), we obtain a final list that reports zero if the first model produced a zero or the value produced by the second model if the first model produced a one. This interesting algorithm can significantly increase the accuracy of the general model given the poor ability of the regressor used individually to spot a firm that should report 0 as an outstanding bond value. However, this is an analysis that departs from the singular performances of the models. If we observe the score of the random forest regressor used individually, this reports an accuracy percentage and an MSE worse than cross-validation and boosting. The higher performances are therefore due to the implementations that we have been able to apply on the aforementioned random forest model and which have considerably increased its predictive capabilities. To observe more clearly the effects of these possible implementations that we propose on the functioning of a predictive algorithm to be used for this specific task (to more easily find the firm that has 0 as outstanding bonds value) we decided to apply these changes only to the first model ( random forest classification + regressor). Models two and three instead (cross-validation and boosting) similarly solve the problem, producing similar results. Not using a double algorithm that deals first with classifying the outstanding bond as present or not present and secondly by using the regressor to predict a possible value is clearly a limiting factor for both of the two latter models. Indeed, both use a resampling process of the train set and the data set that does not allow the implementation of the algorithm we designed and applied for the random forest.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Conclusion
+> Given the different procedures applied in the construction of the three models, the best results obtained are visible in the first model.
+> 
+> Having used a more complex construction in setting up the random forest, it is possible to observe improvements both in the accuracy of the model and in the MSE for the predictions of the outstanding bond.
+> 
+> This is due, as explained above, that in the first model we proceeded through a double algorithm construction, using first a random forest as a classification and then as a regressor.
+> 
+> The first random forest model that deals with the classification can predict whether the firm in question has issued an outstanding bond or not, producing a zero if the firm has no outstanding bonds or a one if it has a non-zero value.
+> 
+> The second model instead calculates the value of the outstanding bond for each firm using the random forest regressor. Multiplying the two lists obtained from these two models, one composed of 0 and 1 (classification) and the other composed of values (regressor), we obtain a final list that reports zero if the first model produced a zero or the value produced by the second model if the first model produced a one. This interesting algorithm can significantly increase the accuracy of the general model given the poor ability of the regressor used individually to spot a firm that should report 0 as an outstanding bond value. However, this is an analysis that departs from the singular performances of the models. If we observe the score of the random forest regressor used individually, this reports an accuracy percentage and an MSE worse than cross-validation and boosting. The higher performances are therefore due to the implementations that we have been able to apply on the aforementioned random forest model and which have considerably increased its predictive capabilities. To observe more clearly the effects of these possible implementations that we propose on the functioning of a predictive algorithm to be used for this specific task (to more easily find the firm that has 0 as outstanding bonds value) we decided to apply these changes only to the first model ( random forest classification + regressor). Models two and three instead (cross-validation and boosting) similarly solve the problem, producing similar results. Not using a double algorithm that deals first with classifying the outstanding bond as present or not present and secondly by using the regressor to predict a possible value is clearly a limiting factor for both of the two latter models. Indeed, both use a resampling process of the train set and the data set that does not allow the implementation of the algorithm we designed and applied for the random forest.
 
 [<center>↑ BACK TO TOP ↑</center>](#top)
 
