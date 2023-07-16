@@ -1,6 +1,6 @@
 ---
 title: "Compute the betas of a portfolio of ETFs (exchange-traded funds)."
-excerpt: "The project involves analyzing the performance of a portfolio composed of four ETFs and applying the Capital Asset Pricing Model (CAPM) to calculate portfolio beta. Initially, the portfolio demonstrates higher volatility compared to the benchmark, while subsequent adjustments to the ETF weights result in reduced volatility. This project aims to provide insights into portfolio management and risk assessment, aiding in informed investment strategies.<br/><img src='/images/capm3.png'>"
+excerpt: "The project involves analyzing the performance of a portfolio composed of four ETFs and applying the Capital Asset Pricing Model (CAPM) to calculate portfolio beta. Initially, the portfolio demonstrates higher volatility compared to the benchmark, while subsequent adjustments to the ETF weights result in reduced volatility. This project aims to provide insights into portfolio management and risk assessment, aiding in informed investment strategies.<center><br/><img src='/images/capm3.png'></center>"
 collection: portfolio
 ---
 <a id="top"></a>
