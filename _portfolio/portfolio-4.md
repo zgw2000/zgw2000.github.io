@@ -43,7 +43,7 @@ df_SOXL = pd.concat([df_list[4]])["Adj Close"]
 # Show the general S&P500 price of the market.
 df_GSPC.plot()
 ```
-<center>![capm1](/images/capm1.png)</center>
+![capm1](/images/capm1.png){: .align-center}
 
 ```python
 # Show the portfolio prices
@@ -53,7 +53,7 @@ df_MGK.plot()
 df_SOXL.plot()
 ```
 
-<center>![capm2](/images/capm2.png)</center>
+![capm2](/images/capm2.png){: .align-center}
 
 ## Convert daily adjusted prices to monthly log returns 
 The second step is to convert the adjusted price into the monthly log, to do this we use the resample method of panda which on the dataframe that have a datetime as index like ours convert it to the chosen value, in our case "M" that is monthly.
@@ -75,7 +75,7 @@ returns_MGK_M.plot()
 returns_SOXL_M.plot()
 ```
 
-<center>![capm3](/images/capm3.png)</center>
+![capm3](/images/capm3.png){: .align-center}
 
 ## Construct a portfolio with the weights we choose and calculate portfolio returns for each month using the ETF returns in our portfolio.
 Then we created the returns of our portfolio which is made up of the four chosen ETFs all weighted at 25%:
@@ -93,7 +93,7 @@ df=pd.concat([returns_GSPC_M, returns_avg], axis=1) df=df.dropna(axis=0) #and we
 # Comare the returns of S&P500 and our weighted portfolio.
 df.plot()
 ```
-<center>![capm4](/images/capm4.png)</center>
+![capm4](/images/capm4.png){: .align-center}
 
 ## Use CAPM formula to estimate the beta of the portfolio. Show and comment results.​
 Now, after creating a dataframe with 2 columns one for the benchmark and one for the portfolio return, we can create our CAPM model to calculate beta, to create the CAPM model we use Ordinary Least Squares, which constructs a linear regression by calculating beta by minimizing the sum of the squared errors of prediction.
@@ -108,15 +108,15 @@ model=sm.OLS(y,x_sm)
 results=model.fit()
 results.summary()
 ```
-<center>![capm5](/images/capm5.png)</center>
-<center>![capm6](/images/capm6.png)</center>
+![capm5](/images/capm5.png){: .align-center}
+![capm6](/images/capm6.png){: .align-center}
 
 ```python
 #Plot the regression.
 sns.regplot(x='GSPC',y='AVG',data=df)
 ```
 
-<center>![capm7](/images/capm7.png)</center>
+![capm7](/images/capm7.png){: .align-center}
 
 ## Change the weights and rerun the entire process to show how the portfolio betas change with the composition.
 After we found the first beta, we changed the weights of the ETFs in the portfolio: TECL to 15%, QCLN to 20%, MGK to 50% and SOXL to 15%.
@@ -135,7 +135,7 @@ df_2.columns = ['GSPC', 'AVG']
 df_2.plot()
 ```
 
-<center>![capm8](/images/capm8.png)</center>
+![capm8](/images/capm8.png){: .align-center}
 
 ```python
 x_2=df_2['GSPC']
@@ -146,14 +146,14 @@ results_2=model_2.fit()
 results_2.summary()
 ```
 
-<center>![capm9](/images/capm9.png)</center>
-<center>![capm10](/images/capm10.png)</center>
+![capm9](/images/capm9.png){: .align-center}
+![capm10](/images/capm10.png){: .align-center}
 
 ```python
 sns.regplot(x='GSPC',y='AVG',data=df_2)
 ```
 
-<center>![capm11](/images/capm11.png)</center>
+![capm11](/images/capm11.png){: .align-center}
 
 [<center>↑ BACK TO TOP ↑</center>](#top)
 
