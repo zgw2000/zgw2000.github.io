@@ -1,12 +1,13 @@
 ---
-title: "Apply machine learning techniques to a finance problem."
-excerpt: "The Java RISK Game Project is a five-person team project based on Java to replicate the classic strategy game RISK. The project implements the core functions and game rules of the original RISK game through the Java language, while optimizing the game experience and providing a user-friendly interface. This project can be used as a practical case study for learning Java language programming, object-oriented programming, and game development.<br/><img src='/images/RISC_evo1.drawio.png'>"
+title: "Boston house price prediction."
+excerpt: "The Boston House Price Prediction project involves developing a machine learning model to predict housing prices in the Boston area. By analyzing various features such as crime rate, number of rooms, and proximity to employment centers, we aim to accurately estimate property values. Through data preprocessing, model training, and evaluation, our goal is to create a reliable prediction model that can assist in real estate decision-making. The project aims to provide valuable insights into the factors influencing housing prices and contribute to the field of real estate analytics.<center><br/><img src='/images/houseprice.png'></center>"
 collection: portfolio
 ---
 <a id="top"></a>
 
-**Quanzhi Fu, Yiheng Liu, Tianji Qiang, Ziyi Yang, Guowang Zeng**
+***Guowang Zeng***
 
+> Click to see more info at [`Boston house price prediction`](files/houseprice.html "see it on html").
 
 [<center>↑ BACK TO TOP ↑</center>](#top)
 
