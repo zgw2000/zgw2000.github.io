@@ -3,20 +3,7 @@ title: "Boston house price prediction."
 excerpt: "The Boston House Price Prediction project involves developing a machine learning model to predict housing prices in the Boston area. By analyzing various features such as crime rate, number of rooms, and proximity to employment centers, we aim to accurately estimate property values. Through data preprocessing, model training, and evaluation, our goal is to create a reliable prediction model that can assist in real estate decision-making. The project aims to provide valuable insights into the factors influencing housing prices and contribute to the field of real estate analytics.<center><br/><img src='/images/houseprice.png'></center>"
 collection: portfolio
 ---
-<a id="top"></a>
 
 ***Guowang Zeng***
 
-> Click to see more info at [`Boston house price prediction`](files/houseprice.html "see it on html").
-
-[<center>↑ BACK TO TOP ↑</center>](#top)
-
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <script>
-    $(document).ready(function() {
-      $('a[href="#top"]').click(function() {
-        $('html, body').animate({ scrollTop: 0 }, 'slow');
-        return false;
-      });
-    });
-  </script>
+> Click to see more info at [`Boston house price prediction`](/files/houseprice.html "see it on html").
