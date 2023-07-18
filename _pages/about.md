@@ -29,6 +29,7 @@ redirect_from:
 > Click to see more info about my mentor [`Giuseppe F. Italiano`](https://en.wikipedia.org/wiki/Giuseppe_F._Italiano "see it on Wikipedia") and his [`Google Scholar`](https://scholar.google.com/citations?hl=zh-CN&user=6jiwt-UAAAAJ).
 > > Contact me by Email: `gz69@duke.edu` or `zengguowang2000@gmail.com`.
 
+<a href="https://xkcoding.com"><img alt="author" src="https://img.shields.io/badge/author-Yangkai.Shen-blue.svg"/></a>
 
 <h1 align = "center">🎓 Education Background 🎓</h1>
 ------
