@@ -12,5 +12,5 @@ paperurl: 'http://zgw2000.github.io/files/paper3.pdf'
 
 > **Keywords:** `Carbon financial market`; `Volatility spillover effect`; `VAR model`; `BEKK-GARCH model`
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://zgw2000.github.io/files/paper3.pdf)
 
