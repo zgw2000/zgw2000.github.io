@@ -99,7 +99,7 @@ Certification`, `Programming Fundamentals by Duke University (Coursera)`, `Intro
 
 | ![Duke](/images/Coursera_duke.png "Programming Fundamentals") | ![Umich](/images/Coursera_umich.png "Introduction to Data Science in Python") | ![Upenn](/images/Coursera_upenn.png "Entrepreneurship") |
 |:---:|:---:|:---:|
-| [`Programming Fundamentals`](https://coursera.org/verify/GNZ2CF7BJN4T) | [`Introduction to Data Science in Python`](https://coursera.org/verify/RA8JUVZVCYVL) | [`Entrepreneurship`](coursera.org/verify/VUYN23DETEFD) | 
+| [`Programming Fundamentals`](https://coursera.org/verify/GNZ2CF7BJN4T) | [`Introduction to Data Science in Python`](https://coursera.org/verify/RA8JUVZVCYVL) | [`Entrepreneurship`](https://www.coursera.org/verify/VUYN23DETEFD) | 
 
 
 ![Billgates_logo](/images/billgates.png "Bill Gates"){: .align-right width="125px"}
