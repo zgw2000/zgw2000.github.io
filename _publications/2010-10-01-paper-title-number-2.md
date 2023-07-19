@@ -11,5 +11,5 @@ paperurl: 'http://zgw2000.github.io/files/paper2.pdf'
 
 > **Keywords:** `corporate environmental responsibility`; `investment efficiency`; `institutional environment`; `consumer environmental awareness`
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://zgw2000.github.io/files/paper2.pdf)
 
