@@ -415,7 +415,7 @@ void freeCatArray(catarray_t *array) {
 }
 ```
 
-## Advanced Text-Based Adventure Game (C++):
+## Advanced Text-Based Adventure Game (C++)
 
 Taking a step further, the project presents an advanced text-based adventure game, implemented in C++. Building upon the principles established in the C-based engine, this game provides a richer and more complex gaming experience. The dynamic memory allocation prowess showcased in the previous components is further harnessed here, ensuring efficient memory management during dynamic gameplay.
 
