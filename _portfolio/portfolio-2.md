@@ -891,7 +891,9 @@ class Story {
 //}
 ```
 
-In conclusion, the Dynamic Text-Based Game Development Framework is a comprehensive and educational resource for developers interested in text-based game development and dynamic memory allocation. It emphasizes efficient memory management, a wide array of text manipulation algorithms, and immersive gameplay experiences. By exploring this project, developers can uncover the dynamic nature of memory allocation and gain valuable insights into algorithms commonly used in text processing. Furthermore, they can harness these skills to craft captivating and interactive narratives that offer players unique and engaging experiences.
+## Conclusion
+
+> The Dynamic Text-Based Game Development Framework is a comprehensive and educational resource for developers interested in text-based game development and dynamic memory allocation. It emphasizes efficient memory management, a wide array of text manipulation algorithms, and immersive gameplay experiences. By exploring this project, developers can uncover the dynamic nature of memory allocation and gain valuable insights into algorithms commonly used in text processing. Furthermore, they can harness these skills to craft captivating and interactive narratives that offer players unique and engaging experiences.
 
 [<center>↑ BACK TO TOP ↑</center>](#top)
 
