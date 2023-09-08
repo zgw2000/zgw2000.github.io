@@ -1,6 +1,6 @@
 ---
 title: "Text-Based Game Development Framework"
-excerpt: "Welcome to the Dynamic Text-Based Game Development Framework project, a multifaceted initiative designed to empower developers with sophisticated tools for creating engaging and interactive text-based games in C and C++. This project is distinguished by its emphasis on dynamic memory allocation, an expansive range of text manipulation algorithms, and a compelling gameplay experience.<br/><img src='/images/evaluation.png'>"
+excerpt: "Welcome to the Dynamic Text-Based Game Development Framework project, a multifaceted initiative designed to empower developers with sophisticated tools for creating engaging and interactive text-based games in C and C++. This project is distinguished by its emphasis on dynamic memory allocation, an expansive range of text manipulation algorithms, and a compelling gameplay experience.<center><br/><img src='/images/evaluation.png'></center>"
 collection: portfolio
 ---
 <a id="top"></a>
@@ -149,11 +149,14 @@ void printCountryWithMax(country_t * countries,
 
 Our project offers a foundational text-based game engine implemented in C, empowering developers to construct interactive narratives with ease. This engine introduces two crucial classes: `Page` and `Story`. The `Page` class encapsulates essential page attributes such as type, number, text content, choices, and navigation logic. The `Story` class orchestrates the overall gameplay, ensuring story validity, managing the player's progression, and providing options to explore the story's depth or unveil an acyclic win path.
 
-# Key Features
+### Key Features
 
 `Dynamic Memory Allocation:` The project showcases dynamic memory allocation in action, demonstrating how memory can be efficiently managed and freed during gameplay, preventing resource leaks and optimizing performance.
+<br/>
 `Text Manipulation Algorithms:` A wide array of text manipulation algorithms, including string parsing, comparison, and dynamic array resizing, are showcased throughout the codebase, providing developers with valuable insights into these common techniques.
+<br/>
 `Immersive Gameplay:` The text-based game engine offers an immersive gaming experience where players navigate through a branching storyline driven by their choices, culminating in either victory or defeat.
+<br/>
 `Story Depth Analysis:` Developers can gain insights into the depth and structure of their narratives, facilitating debugging and refinement.
 Acyclic Win Path Discovery: The framework aids developers in uncovering acyclic paths to victory, a critical aspect of creating engaging narratives.
 
@@ -420,12 +423,14 @@ void freeCatArray(catarray_t *array) {
 
 Taking a step further, the project presents an advanced text-based adventure game, implemented in C++. Building upon the principles established in the C-based engine, this game provides a richer and more complex gaming experience. The dynamic memory allocation prowess showcased in the previous components is further harnessed here, ensuring efficient memory management during dynamic gameplay.
 
-# Key Features
+### Key Features
 
 `Dynamic Narrative Flow:` The C++ adventure game offers dynamic narrative flow where choices lead to divergent storylines, creating immersive and engaging experiences.
+<br/>
 `Efficient Memory Handling:` Dynamic memory allocation is a core element, ensuring that memory is used optimally while accommodating variable text content.
-`Interactive Storytelling:` Players embark on a captivating journey, making choices that significantly impact the storyline's direction.
-Winning Strategies: Developers and players can explore the game to discover multiple acyclic paths to victory, adding depth and replayability.
+<br/>
+`Interactive Storytelling:` Players embark on a captivating journey, making choices that significantly impact the storyline's direction. Winning Strategies: Developers and players can explore the game to discover multiple acyclic paths to victory, adding depth and replayability.
+<br/>
 `Algorithmic Complexity:` Complex text manipulation algorithms for parsing, searching, and navigation are integrated into the gameplay, showcasing real-world applications of these essential coding techniques.
 
 ```c++
