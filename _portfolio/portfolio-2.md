@@ -1,6 +1,6 @@
 ---
 title: "Text-Based Game Development Framework"
-excerpt: "Welcome to the Dynamic Text-Based Game Development Framework project, a multifaceted initiative designed to empower developers with sophisticated tools for creating engaging and interactive text-based games in C and C++. This project is distinguished by its emphasis on dynamic memory allocation, an expansive range of text manipulation algorithms, and a compelling gameplay experience.<center><br/><img src='/images/evaluation.png'></center>"
+excerpt: "Welcome to the Dynamic Text-Based Game Development Framework project, a multifaceted initiative designed to empower developers with sophisticated tools for creating engaging and interactive text-based games in C and C++. This project is distinguished by its emphasis on dynamic memory allocation, an expansive range of text manipulation algorithms, and a compelling gameplay experience.![houseprice](/images/evaluation.png){: .align-center width='350px'}"
 collection: portfolio
 ---
 <a id="top"></a>
@@ -152,11 +152,11 @@ Our project offers a foundational text-based game engine implemented in C, empow
 ### Key Features
 
 `Dynamic Memory Allocation:` The project showcases dynamic memory allocation in action, demonstrating how memory can be efficiently managed and freed during gameplay, preventing resource leaks and optimizing performance.
-<br/>
+<br/><br/>
 `Text Manipulation Algorithms:` A wide array of text manipulation algorithms, including string parsing, comparison, and dynamic array resizing, are showcased throughout the codebase, providing developers with valuable insights into these common techniques.
-<br/>
+<br/><br/>
 `Immersive Gameplay:` The text-based game engine offers an immersive gaming experience where players navigate through a branching storyline driven by their choices, culminating in either victory or defeat.
-<br/>
+<br/><br/>
 `Story Depth Analysis:` Developers can gain insights into the depth and structure of their narratives, facilitating debugging and refinement.
 Acyclic Win Path Discovery: The framework aids developers in uncovering acyclic paths to victory, a critical aspect of creating engaging narratives.
 
@@ -426,11 +426,11 @@ Taking a step further, the project presents an advanced text-based adventure gam
 ### Key Features
 
 `Dynamic Narrative Flow:` The C++ adventure game offers dynamic narrative flow where choices lead to divergent storylines, creating immersive and engaging experiences.
-<br/>
+<br/><br/>
 `Efficient Memory Handling:` Dynamic memory allocation is a core element, ensuring that memory is used optimally while accommodating variable text content.
-<br/>
+<br/><br/>
 `Interactive Storytelling:` Players embark on a captivating journey, making choices that significantly impact the storyline's direction. Winning Strategies: Developers and players can explore the game to discover multiple acyclic paths to victory, adding depth and replayability.
-<br/>
+<br/><br/>
 `Algorithmic Complexity:` Complex text manipulation algorithms for parsing, searching, and navigation are integrated into the gameplay, showcasing real-world applications of these essential coding techniques.
 
 ```c++
@@ -882,17 +882,17 @@ class Story {
 // }
 
 // step4
-int main(int argc, char ** argv) {
-    if (argc != 2) {
-    perror("The number of input argument is wrong, faild to process");
-    exit(EXIT_FAILURE);
-    }
+//int main(int argc, char ** argv) {
+//    if (argc != 2) {
+//    perror("The number of input argument is wrong, faild to process");
+//   exit(EXIT_FAILURE);
+//    }
 
-    Story story(argv[1]);
-    story.printAcyclicWinpath();
+//    Story story(argv[1]);
+//    story.printAcyclicWinpath();
 
-    return EXIT_SUCCESS;
-}
+//    return EXIT_SUCCESS;
+//}
 ```
 
 In conclusion, the Dynamic Text-Based Game Development Framework is a comprehensive and educational resource for developers interested in text-based game development and dynamic memory allocation. It emphasizes efficient memory management, a wide array of text manipulation algorithms, and immersive gameplay experiences. By exploring this project, developers can uncover the dynamic nature of memory allocation and gain valuable insights into algorithms commonly used in text processing. Furthermore, they can harness these skills to craft captivating and interactive narratives that offer players unique and engaging experiences.
