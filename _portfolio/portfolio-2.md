@@ -7,10 +7,6 @@ collection: portfolio
 
 ***Guowang Zeng***
 
-## Project Info
-
-Welcome to the Dynamic Text-Based Game Development Framework project, a multifaceted initiative designed to empower developers with sophisticated tools for creating engaging and interactive text-based games in C and C++. This project is distinguished by its emphasis on dynamic memory allocation, an expansive range of text manipulation algorithms, and a compelling gameplay experience.
-
 ## Dynamic Category and Word Management (C)
 
 At its core, this project introduces dynamic category and word management, revolutionizing the way textual content is handled. The `category_t` and `catarray_t` structures provide dynamic memory allocation capabilities, enabling the efficient storage and manipulation of categories and their associated words. The framework excels in handling memory allocation and deallocation gracefully, ensuring optimal performance while accommodating text expansion. Developers can effortlessly organize, expand, and modify the linguistic content of their games. These features are especially vital when dealing with unpredictable or evolving text data, giving creators the flexibility to adapt their narratives dynamically.
