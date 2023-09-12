@@ -20,7 +20,7 @@ redirect_from:
 
 `👍🏻 I am good at Data Structure & algorithm, Java & C/C++ OO design, Python (Machine Learning) and Economic Analysis.`
 
-`👨🏻‍🏫 As a undergraduate teaching assistant at Duke University, Answered statistical questions and the syntax error of R and Assisted professors in grading undergraduate assignments and exams.`
+`👨🏻‍🏫 As a undergraduate teaching assistant at Duke University, Answered statistical questions and the syntax errors of R and Assisted professors in grading undergraduate assignments and exams.`
 
 `🤖 I have extensive experience in creating projects, where I handled both frontend and backend development while also designing the UI. Moreover, I have a strong passion for writing high-quality code and test cases.`
 
