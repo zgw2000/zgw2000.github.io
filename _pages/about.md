@@ -54,7 +54,7 @@ Bachelor of Science in `Management and Computer Science`, `09/2018-11/2021`
 
 ![Mevion logo](/images/mevion.png "Mevion Medical Systems"){: .align-right width="180px"}
 
-[`Mevion Medical Systems`](https://www.mevion.com/), `Kunshan, China 🇨🇳`
+[`Mevion Medical Systems`](https://www.mevion.com/)
 
 `Software Engineer intern` `[C++ & JIRA]`, `04/2022-07/2022`
 
@@ -63,7 +63,7 @@ Bachelor of Science in `Management and Computer Science`, `09/2018-11/2021`
 <br/>
 ![BOB logo](/images/bob.png "Bank of Beijing"){: .align-right width="175px"}
 
-[`Bank of Beijing Fintech`](https://bankofbeijing.com.cn/en), `Beijing, China 🇨🇳`
+[`Bank of Beijing Fintech`](https://bankofbeijing.com.cn/en)
 
 `Artificial Intelligence Developer intern` `[Python & Docker]`, `04/2022-07/2022`
 
@@ -73,7 +73,7 @@ processing (NLP) algorithm models, parameters tuning and uploaded them to the Do
 <br/>
 ![Kantar logo](/images/kantar.png "Kantar TNS"){: .align-right width="175px"}
 
-[`Kantar TNS`](https://www.kantar.com/), `Rome, Italy 🇮🇹`
+[`Kantar TNS`](https://www.kantar.com/)
 
 `Data analytics intern` `[Python & Excel]` `06/2020-09/2020`
 - Consulted for consumer and retail companies, providing professional data analytics services with Python toolkits. Identified optimal product portfolios and market shares, improving business performance by 87% and program efficiency by 30%.
