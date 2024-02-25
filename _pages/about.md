@@ -16,8 +16,6 @@ redirect_from:
 
 <h1 align = "center">👋🏻 Hello there, I'm Guowang (Tom)! 👋🏻</h1>
 
-`🎯 Seeking full-time employment in the US for 2024. Eager to contribute to a dynamic organization. Let's connect and make a positive impact together.`
-
 `👍🏻 I am good at Data Structure & algorithm, Java & C/C++ OO design, Python (Machine Learning) and Economic Analysis.`
 
 `👨🏻‍🏫 As a undergraduate teaching assistant at Duke University, Answered statistical questions and the syntax errors of R and Assisted professors in grading undergraduate assignments and exams.`
