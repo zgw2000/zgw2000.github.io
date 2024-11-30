@@ -48,11 +48,19 @@ Bachelor of Science in `Management and Computer Science`, `09/2018-11/2021`
 <h1 align = "center">👨🏻‍💻 Experience 👨🏻‍💻</h1>
 ------
 
+![Sangfor logo](/images/sangfor.png "Sangfor Technologies"){: .align-right width="180px"}
+
+[`Sangfor Technologies`](https://www.sangfor.com/)
+
+`Software Development Engineer intern` `[Linux & Python]`, `06/2024-10/2024`
+
+- Developed command-line test tools, integrated AI to semi automate testing, significantly increasing team efficiency by 6000%. Contributed to test factor extraction, test plan design, execution, and comprehensive defect regression analysis.
+<br/>
 ![Mevion logo](/images/mevion.png "Mevion Medical Systems"){: .align-right width="180px"}
 
 [`Mevion Medical Systems`](https://www.mevion.com/)
 
-`Software Engineer intern` `[C++ & JIRA]`, `04/2022-07/2022`
+`Software Development Engineer intern` `[C++ & JIRA]`, `04/2022-07/2022`
 
 - Developed and enhanced the Room 3D View feature at Mevion, addressing display issues, improving user experience, and ensuring safe movement of the treatment couch.
 - Researched collision detection techniques, collaborated cross-functionally, and implemented effective solutions to enhance the user interface and facilitate seamless navigation.
