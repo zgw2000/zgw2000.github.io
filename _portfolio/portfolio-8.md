@@ -69,7 +69,7 @@ Run MongoDB in a Docker container:
 docker run -p 127.0.0.1:27017:27017 -d --rm --name mongo mongo:7.0.5
 ```
 
-Code Implementation
+# Code Implementation <br/>
 Database (setupMongo.ts)
 
 ```typescript
@@ -151,7 +151,7 @@ npm run setup    # Set up the initial database or configurations
 npm start        # Start the server
 ```
 
-Code Implementation
+# Code Implementation<br/>
 Backend (server.ts)
 ```typescript
 import express from 'express'
@@ -372,7 +372,7 @@ Navigate to the frontend directory, install dependencies, and start the developm
 npm install      # Install required dependencies
 npm run dev      # Start the frontend server in development mode
 ```
-Code Implementation
+# Code Implementation<br/>
 Frontend (LoginScreen.vue)
 
 ![bubbletea_login](/images/bubbletea_login.png )
@@ -1053,7 +1053,7 @@ If you want to run tests using Playwright, navigate to the tests directory and r
 ```bash
 npx playwright test
 ```
-Code Implementation
+# Code Implementation<br/>
 Test (CustomerTest1.spec.js)
 ```javascript
 import { test, expect, chromium } from '@playwright/test';
