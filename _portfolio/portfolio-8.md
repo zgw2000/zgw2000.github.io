@@ -374,6 +374,9 @@ npm run dev      # Start the frontend server in development mode
 ```
 Code Implementation
 Frontend (LoginScreen.vue)
+
+![bubbletea_login](/images/bubbletea_login.png )
+
 ```vue
 <template>
   <div class="main-container">
@@ -491,6 +494,9 @@ const handleLogin = async () => {
 ```
 
 Frontend (CustomerScreen.vue)
+
+![bubbletea_customer](/images/bubbletea_customer.png )
+
 ```vue
 <template>
   <div class="main-container">
@@ -883,6 +889,9 @@ const selectDrink=(drink:string)=>{
 </style>
 ```
 Frontend (OperatorScreen.vue)
+
+![bubbletea_operator](/images/bubbletea_operator.png )
+
 ```vue
 <template>
   <div class="work-screen-container">
