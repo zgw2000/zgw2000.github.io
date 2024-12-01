@@ -1098,10 +1098,22 @@ test('test', async ({ page }) => {
 ```
 ## Conclusion
 
-This Tea Ordering System enhances the customer experience by providing an easy-to-use interface for tea customization and order management. The real-time order tracking feature ensures that customers are always informed about the status of their order. The backend ensures smooth order processing and data persistence, while the frontend offers a clean and responsive interface.
+> This Tea Ordering System enhances the customer experience by providing an easy-to-use interface for tea customization and order management. The real-time order tracking feature ensures that customers are always informed about the status of their order. The backend ensures smooth order processing and data persistence, while the frontend offers a clean and responsive interface.
 
-The system can be expanded to include additional features, such as payment integration, loyalty programs, and inventory management, making it a flexible solution for future enhancements.
+> The system can be expanded to include additional features, such as payment integration, loyalty programs, and inventory management, making it a flexible solution for future enhancements.
 
+
+[<center>↑ BACK TO TOP ↑</center>](#top)
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+    $(document).ready(function() {
+      $('a[href="#top"]').click(function() {
+        $('html, body').animate({ scrollTop: 0 }, 'slow');
+        return false;
+      });
+    });
+  </script>
 
 
 
