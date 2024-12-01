@@ -1055,6 +1055,7 @@ npx playwright test
 ```
 # Code Implementation<br/>
 Test (CustomerTest1.spec.js)
+
 ```javascript
 import { test, expect, chromium } from '@playwright/test';
 
