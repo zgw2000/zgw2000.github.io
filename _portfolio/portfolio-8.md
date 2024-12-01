@@ -64,11 +64,14 @@ To run the Tea Ordering System locally, follow the steps below to set up the pro
 
 1. MongoDB (Database)
 Run MongoDB in a Docker container:
+
 ```bash
 docker run -p 127.0.0.1:27017:27017 -d --rm --name mongo mongo:7.0.5
 ```
+
 Code Implementation
 Database (setupMongo.ts)
+
 ```typescript
 import { MongoClient } from 'mongodb'
 import {Operator, Customer, Ingredient} from './data'
@@ -137,16 +140,17 @@ async function main() {
 }
 
 main()
-
 ```
 
 2. Server (Backend)
 Navigate to the backend directory and install dependencies, set up the environment, and start the server:
+
 ```bash
 npm install      # Install required dependencies
 npm run setup    # Set up the initial database or configurations
 npm start        # Start the server
 ```
+
 Code Implementation
 Backend (server.ts)
 ```typescript
