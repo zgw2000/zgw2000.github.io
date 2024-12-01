@@ -19,7 +19,7 @@ The system allows customers to:
 
 ## Methodology
 
-The system was designed with two main components: the front-end for customer interaction and the back-end for managing orders. The front-end is built using **React** for a responsive user interface, while the back-end utilizes **Node.js** and **Express** for handling API requests. The system uses a **MongoDB** database to store customer orders and statuses.
+The system was designed with two main components: the front-end for customer interaction and the back-end for managing orders. The front-end is built using **Vue** for a responsive user interface, while the back-end utilizes **Node.js** and **Express** for handling API requests. The system uses a **MongoDB** database to store customer orders and statuses.
 
 ### Key Features:
 - **Tea Customization**: Customers can choose the type of tea, sweetness level, ice level, and toppings.
@@ -30,7 +30,7 @@ The system was designed with two main components: the front-end for customer int
 ## System Architecture
 
 The Tea Ordering System consists of the following components:
-1. **Frontend (React)**: Provides the user interface for customers to interact with the system.
+1. **Frontend (Vue)**: Provides the user interface for customers to interact with the system.
 2. **Backend (Node.js/Express)**: Handles the business logic and manages customer orders.
 3. **Database (MongoDB)**: Stores order data and customer information.
 
@@ -45,7 +45,7 @@ The order process flow is simple and intuitive:
 4. **Track Order**: The customer can track the status of their order in real-time (e.g., preparing, ready for pickup).
 
 ## Key Technologies
-- React: Used for building a dynamic and responsive user interface.
+- Vue: Used for building a dynamic and responsive user interface.
 - Node.js: Provides a lightweight, scalable backend to handle API requests.
 - Express: A minimal web framework for handling HTTP requests in Node.js.
 - MongoDB: A NoSQL database used to store orders and customer data.
