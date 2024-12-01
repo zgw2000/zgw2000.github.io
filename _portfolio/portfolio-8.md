@@ -1,6 +1,6 @@
 ---
 title: "Tea Ordering System for Bubble Tea Shop"
-excerpt: "This project implements an automated tea ordering system for a bubble tea shop using modern web technologies and frameworks. The system allows customers to customize their tea order, choose toppings, and track the order status in real-time.![bubbletea](/images/system-architecture.png){: .align-center width='350px'}"
+excerpt: "This project implements an automated tea ordering system for a bubble tea shop using modern web technologies and frameworks. The system allows customers to customize their tea order, choose toppings, and track the order status in real-time.<br/><img src='/images/system-architecture.png'>"
 collection: portfolio
 ---
 <a id="top"></a>
